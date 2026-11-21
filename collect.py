@@ -56,7 +56,9 @@ def resolve_channel(handle, cache):
                      "Accept-Language": "en"}, cookies={"CONSENT": "YES+1"}, timeout=20)
     r.raise_for_status()
     m = (re.search(r'"externalId":"(UC[\w-]{22})"', r.text)
-         or re.search(r'youtube\.com/channel/(UC[\w-]{22})', r.text))
+         or re.search(r'youtube\.com/channel/(UC[\w-]{22})', r.text)
+         or re.search(r'"channelId":"(UC[\w-]{22})"', r.text)
+         or re.search(r'"browseId":"(UC[\w-]{22})"', r.text))
     if not m:
         raise ValueError("channel_id introuvable sur la page")
     t = re.search(r'<meta property="og:title" content="([^"]*)"', r.text)
@@ -98,7 +100,10 @@ def main():
         label = s["name"] + (" (YouTube)" if s["type"] == "youtube" else "")
         try:
             if s["type"] == "youtube":
-                cid, title = resolve_channel(s["handle"], channels)
+                if s.get("channel_id"):
+                    cid, title = s["channel_id"], s["name"]
+                else:
+                    cid, title = resolve_channel(s["handle"], channels)
                 label = f"{s['name']} (YouTube : {title})"
                 url = f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
             else:

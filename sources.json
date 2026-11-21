@@ -200,12 +200,6 @@
       "url": "https://github.com/m-bain/whisperX/releases.atom"
     },
     {
-      "name": "Kdenlive - news",
-      "cat": "Outils gratuits",
-      "kind": "fait",
-      "url": "https://kdenlive.org/en/feed/"
-    },
-    {
       "name": "Krita - news",
       "cat": "Outils gratuits",
       "kind": "fait",
@@ -323,12 +317,6 @@
       "url": "https://www.retrievalpractice.org/strategies?format=rss"
     },
     {
-      "name": "Education Endowment Foundation",
-      "cat": "Méthodes prouvées",
-      "kind": "fait",
-      "url": "https://educationendowmentfoundation.org.uk/news/feed"
-    },
-    {
       "name": "Scott H. Young",
       "cat": "Méthodes prouvées",
       "kind": "avis",
@@ -403,11 +391,6 @@
       "handle": "@HuggingFace"
     },
     {
-      "name": "Mistral AI",
-      "cat": "Opportunités IA",
-      "handle": "@MistralAI"
-    },
-    {
       "name": "Stability AI",
       "cat": "Opportunités IA",
       "handle": "@StabilityAI"
@@ -421,11 +404,6 @@
       "name": "Microsoft Developer",
       "cat": "Opportunités IA",
       "handle": "@MicrosoftDeveloper"
-    },
-    {
-      "name": "ElevenLabs",
-      "cat": "Opportunités IA",
-      "handle": "@ElevenLabsio"
     },
     {
       "name": "Runway",
@@ -448,16 +426,6 @@
       "handle": "@TwoMinutePapers"
     },
     {
-      "name": "GDC",
-      "cat": "Jeu indé / marché",
-      "handle": "@Gdconf"
-    },
-    {
-      "name": "Steamworks",
-      "cat": "Jeu indé / marché",
-      "handle": "@Steamworks"
-    },
-    {
       "name": "How To Market A Game",
       "cat": "Jeu indé / marché",
       "handle": "@HowToMarketAGame"
@@ -473,19 +441,29 @@
       "handle": "@BlackmagicDesignOfficial"
     },
     {
+      "name": "GDC",
+      "cat": "Jeu indé / marché",
+      "channel_id": "UC0JB7TSe49lg56u6qH8y_MQ"
+    },
+    {
       "name": "YouTube Creators",
       "cat": "YouTube",
-      "handle": "@YouTubeCreators"
+      "handle": "@youtubecreators"
     },
     {
       "name": "YouTube Liaison",
       "cat": "YouTube",
-      "handle": "@YouTubeLiaison"
+      "handle": "@youtubeliaison"
     },
     {
-      "name": "YouTube Help",
+      "name": "Updates From YouTube",
       "cat": "YouTube",
-      "handle": "@YouTubeHelp"
+      "handle": "@UpdatesFromYouTube"
+    },
+    {
+      "name": "YouTube Insider",
+      "cat": "YouTube",
+      "handle": "@YouTubeInsider"
     }
   ],
   "limits": {
