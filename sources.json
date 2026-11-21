@@ -1,5 +1,5 @@
 {
-  "_note": "Flux suivis par la veille. 'kind' = fait (source officielle) ou avis (communauté). Les URLs non vérifiées sont testées à chaque run : voir digest/status.md. Reddit bloque les serveurs GitHub (erreurs 404/429) : les avis Reddit passent par la recherche web de la veille. itch.io n'a pas de flux pour les jams : la veille consulte itch.io/jams/upcoming par recherche web.",
+  "_note": "Flux suivis par la veille. 'kind' = fait (source officielle) ou avis (communauté). Les URLs non vérifiées sont testées à chaque run : voir digest/status.md. Reddit bloque les serveurs GitHub (erreurs 404/429) : les avis Reddit passent par la recherche web de la veille. itch.io n'a pas de flux pour les jams : la veille consulte itch.io/jams/upcoming par recherche web. SteamDB bloque les serveurs GitHub (403).",
   "rss": [
     {
       "name": "Godot - blog",
@@ -302,10 +302,10 @@
       "url": "https://steamcommunity.com/groups/SteamLabs/rss/"
     },
     {
-      "name": "SteamDB - blog",
+      "name": "Steam - annonces officielles",
       "cat": "Jeu indé / marché",
       "kind": "fait",
-      "url": "https://steamdb.info/blog/rss/"
+      "url": "https://steamcommunity.com/groups/steam/rss/"
     }
   ],
   "youtube": [
