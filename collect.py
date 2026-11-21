@@ -110,6 +110,12 @@ def main():
                 d = entry_date(e)
                 if not key or key in seen or (d and d < since):
                     continue
+                kw = s.get("keywords")
+                if kw:  # gros sites d'actu : on ne garde que ce qui touche le domaine
+                    blob = (e.get("title", "") + " " + (e.get("summary") or "")).lower()
+                    if not any(k.lower() in blob for k in kw):
+                        seen[key] = NOW.isoformat()
+                        continue
                 seen[key] = NOW.isoformat()
                 if new >= max_items:
                     continue  # marqué vu, mais pas affiché : évite d'inonder le digest

@@ -114,6 +114,231 @@
       "cat": "Musique",
       "kind": "fait",
       "url": "https://www.kvraudio.com/rss/kvr_news_effects.rss"
+    },
+    {
+      "name": "Hugging Face - blog",
+      "cat": "Opportunités IA",
+      "kind": "fait",
+      "url": "https://huggingface.co/blog/feed.xml"
+    },
+    {
+      "name": "Google DeepMind - blog",
+      "cat": "Opportunités IA",
+      "kind": "fait",
+      "url": "https://deepmind.google/blog/rss.xml"
+    },
+    {
+      "name": "GitHub - blog",
+      "cat": "Opportunités IA",
+      "kind": "fait",
+      "url": "https://github.blog/feed/"
+    },
+    {
+      "name": "GitHub - changelog",
+      "cat": "Opportunités IA",
+      "kind": "fait",
+      "url": "https://github.blog/changelog/feed/"
+    },
+    {
+      "name": "NVIDIA - developer blog",
+      "cat": "Opportunités IA",
+      "kind": "fait",
+      "url": "https://developer.nvidia.com/blog/feed"
+    },
+    {
+      "name": "ComfyUI - blog",
+      "cat": "Risques outils",
+      "kind": "fait",
+      "url": "https://blog.comfy.org/feed"
+    },
+    {
+      "name": "Simon Willison (tests d'outils IA)",
+      "cat": "Opportunités IA",
+      "kind": "avis",
+      "url": "https://simonwillison.net/atom/everything/"
+    },
+    {
+      "name": "Steam - news",
+      "cat": "Jeu indé / marché",
+      "kind": "fait",
+      "url": "https://store.steampowered.com/feeds/news/app/593110/"
+    },
+    {
+      "name": "How To Market A Game",
+      "cat": "Jeu indé / marché",
+      "kind": "fait",
+      "url": "https://howtomarketagame.com/feed/"
+    },
+    {
+      "name": "GameDiscoverCo",
+      "cat": "Jeu indé / marché",
+      "kind": "fait",
+      "url": "https://newsletter.gamediscover.co/feed"
+    },
+    {
+      "name": "itch.io - blog",
+      "cat": "Game jams & concours",
+      "kind": "fait",
+      "url": "https://itch.io/blog.rss"
+    },
+    {
+      "name": "OBS - releases",
+      "cat": "Outils gratuits",
+      "kind": "fait",
+      "url": "https://github.com/obsproject/obs-studio/releases.atom"
+    },
+    {
+      "name": "Audacity - releases",
+      "cat": "Outils gratuits",
+      "kind": "fait",
+      "url": "https://github.com/audacity/audacity/releases.atom"
+    },
+    {
+      "name": "WhisperX - releases",
+      "cat": "Outils gratuits",
+      "kind": "fait",
+      "url": "https://github.com/m-bain/whisperX/releases.atom"
+    },
+    {
+      "name": "Kdenlive - news",
+      "cat": "Outils gratuits",
+      "kind": "fait",
+      "url": "https://kdenlive.org/en/feed/"
+    },
+    {
+      "name": "Krita - news",
+      "cat": "Outils gratuits",
+      "kind": "fait",
+      "url": "https://krita.org/en/index.xml"
+    },
+    {
+      "name": "Blender - releases (GitHub mirror)",
+      "cat": "Risques outils",
+      "kind": "fait",
+      "url": "https://github.com/blender/blender/tags.atom"
+    },
+    {
+      "name": "Bedroom Producers Blog",
+      "cat": "Musique",
+      "kind": "fait",
+      "url": "https://bedroomproducersblog.com/feed/"
+    },
+    {
+      "name": "Rekkerd.org",
+      "cat": "Musique",
+      "kind": "fait",
+      "url": "https://rekkerd.org/feed/"
+    },
+    {
+      "name": "Ars Technica",
+      "cat": "Rapport à l'IA",
+      "kind": "fait",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "keywords": [
+        "ai",
+        "ia",
+        "intelligence artificielle",
+        "llm",
+        "claude",
+        "openai",
+        "gemini",
+        "anthropic",
+        "generative",
+        "génératif",
+        "game",
+        "jeu",
+        "godot",
+        "steam",
+        "indie",
+        "blender",
+        "youtube",
+        "creator",
+        "créateur"
+      ]
+    },
+    {
+      "name": "The Verge - IA",
+      "cat": "Rapport à l'IA",
+      "kind": "fait",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    },
+    {
+      "name": "Numerama",
+      "cat": "Rapport à l'IA",
+      "kind": "fait",
+      "url": "https://www.numerama.com/feed/",
+      "keywords": [
+        "ai",
+        "ia",
+        "intelligence artificielle",
+        "llm",
+        "claude",
+        "openai",
+        "gemini",
+        "anthropic",
+        "generative",
+        "génératif",
+        "game",
+        "jeu",
+        "godot",
+        "steam",
+        "indie",
+        "blender",
+        "youtube",
+        "creator",
+        "créateur"
+      ]
+    },
+    {
+      "name": "Next.ink",
+      "cat": "Rapport à l'IA",
+      "kind": "fait",
+      "url": "https://next.ink/feed/",
+      "keywords": [
+        "ai",
+        "ia",
+        "intelligence artificielle",
+        "llm",
+        "claude",
+        "openai",
+        "gemini",
+        "anthropic",
+        "generative",
+        "génératif",
+        "game",
+        "jeu",
+        "godot",
+        "steam",
+        "indie",
+        "blender",
+        "youtube",
+        "creator",
+        "créateur"
+      ]
+    },
+    {
+      "name": "Retrieval Practice",
+      "cat": "Méthodes prouvées",
+      "kind": "fait",
+      "url": "https://www.retrievalpractice.org/strategies?format=rss"
+    },
+    {
+      "name": "Education Endowment Foundation",
+      "cat": "Méthodes prouvées",
+      "kind": "fait",
+      "url": "https://educationendowmentfoundation.org.uk/news/feed"
+    },
+    {
+      "name": "Scott H. Young",
+      "cat": "Méthodes prouvées",
+      "kind": "avis",
+      "url": "https://www.scotthyoung.com/blog/feed/"
+    },
+    {
+      "name": "Cal Newport",
+      "cat": "Méthodes prouvées",
+      "kind": "avis",
+      "url": "https://calnewport.com/feed/"
     }
   ],
   "youtube": [
@@ -151,11 +376,121 @@
       "name": "Creator Insider",
       "cat": "YouTube",
       "handle": "@CreatorInsider"
+    },
+    {
+      "name": "Google",
+      "cat": "Opportunités IA",
+      "handle": "@Google"
+    },
+    {
+      "name": "Meta AI",
+      "cat": "Opportunités IA",
+      "handle": "@aiatmeta"
+    },
+    {
+      "name": "NVIDIA",
+      "cat": "Opportunités IA",
+      "handle": "@NVIDIA"
+    },
+    {
+      "name": "NVIDIA Developer",
+      "cat": "Opportunités IA",
+      "handle": "@NVIDIADeveloper"
+    },
+    {
+      "name": "Hugging Face",
+      "cat": "Opportunités IA",
+      "handle": "@HuggingFace"
+    },
+    {
+      "name": "Mistral AI",
+      "cat": "Opportunités IA",
+      "handle": "@MistralAI"
+    },
+    {
+      "name": "Stability AI",
+      "cat": "Opportunités IA",
+      "handle": "@StabilityAI"
+    },
+    {
+      "name": "GitHub",
+      "cat": "Opportunités IA",
+      "handle": "@GitHub"
+    },
+    {
+      "name": "Microsoft Developer",
+      "cat": "Opportunités IA",
+      "handle": "@MicrosoftDeveloper"
+    },
+    {
+      "name": "ElevenLabs",
+      "cat": "Opportunités IA",
+      "handle": "@ElevenLabsio"
+    },
+    {
+      "name": "Runway",
+      "cat": "Opportunités IA",
+      "handle": "@runwayml"
+    },
+    {
+      "name": "Claude",
+      "cat": "Opportunités IA",
+      "handle": "@claude"
+    },
+    {
+      "name": "ComfyUI (Comfy Org)",
+      "cat": "Risques outils",
+      "handle": "@comfyorg"
+    },
+    {
+      "name": "Two Minute Papers",
+      "cat": "Opportunités IA",
+      "handle": "@TwoMinutePapers"
+    },
+    {
+      "name": "GDC",
+      "cat": "Jeu indé / marché",
+      "handle": "@Gdconf"
+    },
+    {
+      "name": "Steamworks",
+      "cat": "Jeu indé / marché",
+      "handle": "@Steamworks"
+    },
+    {
+      "name": "How To Market A Game",
+      "cat": "Jeu indé / marché",
+      "handle": "@HowToMarketAGame"
+    },
+    {
+      "name": "Blender Studio",
+      "cat": "Risques outils",
+      "handle": "@BlenderStudio"
+    },
+    {
+      "name": "Blackmagic Design",
+      "cat": "Risques outils",
+      "handle": "@BlackmagicDesignOfficial"
+    },
+    {
+      "name": "YouTube Creators",
+      "cat": "YouTube",
+      "handle": "@YouTubeCreators"
+    },
+    {
+      "name": "YouTube Liaison",
+      "cat": "YouTube",
+      "handle": "@YouTubeLiaison"
+    },
+    {
+      "name": "YouTube Help",
+      "cat": "YouTube",
+      "handle": "@YouTubeHelp"
     }
   ],
   "limits": {
-    "max_items_per_feed": 8,
-    "summary_chars": 220,
+    "max_items_per_feed": 5,
+    "summary_chars": 160,
     "seen_keep_days": 90
   }
 }
