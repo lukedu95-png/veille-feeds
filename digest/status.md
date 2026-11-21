@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-21 13:56 UTC
+Run : 2026-11-21 13:59 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -71,6 +71,5 @@ Run : 2026-11-21 13:56 UTC
 | Blackmagic Design (YouTube : Blackmagic Design) | OK | 15 | 0 |
 | GDC (YouTube : GDC) | OK | 15 | 0 |
 | YouTube Creators (YouTube : @youtubecreators) | OK | 15 | 0 |
-| YouTube Liaison (YouTube) | ERREUR : 404 Client Error: Not Found for url: https://www.youtube.com/@youtubeliaison | 0 | 0 |
 | Updates From YouTube (YouTube : Updates From YouTube) | OK | 15 | 0 |
 | YouTube Insider (YouTube : YouTube Insider) | OK | 1 | 0 |
