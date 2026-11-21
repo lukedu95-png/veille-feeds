@@ -9,6 +9,7 @@ import datetime as dt
 import html
 import json
 import re
+import time
 from pathlib import Path
 
 import feedparser
@@ -63,8 +64,13 @@ def resolve_channel(handle, cache):
     return cache[handle]
 
 
-def fetch(url):
-    r = requests.get(url, headers={"User-Agent": UA}, timeout=25)
+def fetch(url, tries=3):
+    for attempt in range(tries):
+        r = requests.get(url, headers={"User-Agent": UA}, timeout=25)
+        if r.status_code in (429, 500, 502, 503, 504) and attempt < tries - 1:
+            time.sleep(10 * (attempt + 1))  # erreur temporaire : on réessaie
+            continue
+        break
     r.raise_for_status()
     feed = feedparser.parse(r.content)
     if feed.bozo and not feed.entries:

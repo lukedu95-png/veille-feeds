@@ -1,31 +1,155 @@
 {
-  "_note": "Flux suivis par la veille. 'kind' = fait (source officielle) ou avis (communauté). Les URLs non vérifiées sont testées à chaque run : voir digest/status.md.",
+  "_note": "Flux suivis par la veille. 'kind' = fait (source officielle) ou avis (communauté). Les URLs non vérifiées sont testées à chaque run : voir digest/status.md. Reddit bloque les serveurs GitHub (erreurs 404/429) : les avis Reddit passent par la recherche web de la veille.",
   "rss": [
-    {"name": "Godot - blog", "cat": "Risques outils", "kind": "fait", "url": "https://godotengine.org/rss.xml"},
-    {"name": "Godot - releases", "cat": "Risques outils", "kind": "fait", "url": "https://github.com/godotengine/godot/releases.atom"},
-    {"name": "Blender - news", "cat": "Risques outils", "kind": "fait", "url": "https://www.blender.org/feed/"},
-    {"name": "Blender - developers blog", "cat": "Risques outils", "kind": "fait", "url": "https://code.blender.org/feed/"},
-    {"name": "LMMS - releases", "cat": "Musique", "kind": "fait", "url": "https://github.com/LMMS/lmms/releases.atom"},
-    {"name": "ComfyUI - releases", "cat": "Risques outils", "kind": "fait", "url": "https://github.com/comfyanonymous/ComfyUI/releases.atom"},
-    {"name": "OpenAI - news", "cat": "Opportunités IA", "kind": "fait", "url": "https://openai.com/news/rss.xml"},
-    {"name": "Google - AI blog", "cat": "Opportunités IA", "kind": "fait", "url": "https://blog.google/technology/ai/rss/"},
-    {"name": "Game Developer", "cat": "Jeu indé / marché", "kind": "fait", "url": "https://www.gamedeveloper.com/rss.xml"},
-    {"name": "Hacker News - jeu indé & outils", "cat": "Outils gratuits", "kind": "avis", "url": "https://hnrss.org/newest?q=godot+OR+blender+OR+%22indie+game%22+OR+%22open+source%22&points=100"},
-    {"name": "Hacker News - IA", "cat": "Rapport à l'IA", "kind": "avis", "url": "https://hnrss.org/newest?q=claude+OR+anthropic+OR+%22AI+backlash%22&points=150"},
-    {"name": "r/gamedev (top jour)", "cat": "Jeu indé / marché", "kind": "avis", "url": "https://www.reddit.com/r/gamedev/top/.rss?t=day"},
-    {"name": "r/IndieDev (top jour)", "cat": "Jeu indé / marché", "kind": "avis", "url": "https://www.reddit.com/r/IndieDev/top/.rss?t=day"},
-    {"name": "r/godot (top jour)", "cat": "Risques outils", "kind": "avis", "url": "https://www.reddit.com/r/godot/top/.rss?t=day"},
-    {"name": "r/WeAreTheMusicMakers (top jour)", "cat": "Musique", "kind": "avis", "url": "https://www.reddit.com/r/WeAreTheMusicMakers/top/.rss?t=day"},
-    {"name": "r/NewTubers (top jour)", "cat": "YouTube", "kind": "avis", "url": "https://www.reddit.com/r/NewTubers/top/.rss?t=day"}
+    {
+      "name": "Godot - blog",
+      "cat": "Risques outils",
+      "kind": "fait",
+      "url": "https://godotengine.org/rss.xml"
+    },
+    {
+      "name": "Godot - releases",
+      "cat": "Risques outils",
+      "kind": "fait",
+      "url": "https://github.com/godotengine/godot/releases.atom"
+    },
+    {
+      "name": "Blender - news",
+      "cat": "Risques outils",
+      "kind": "fait",
+      "url": "https://www.blender.org/feed/"
+    },
+    {
+      "name": "Blender - developers blog",
+      "cat": "Risques outils",
+      "kind": "fait",
+      "url": "https://code.blender.org/feed/"
+    },
+    {
+      "name": "LMMS - releases",
+      "cat": "Musique",
+      "kind": "fait",
+      "url": "https://github.com/LMMS/lmms/releases.atom"
+    },
+    {
+      "name": "ComfyUI - releases",
+      "cat": "Risques outils",
+      "kind": "fait",
+      "url": "https://github.com/comfyanonymous/ComfyUI/releases.atom"
+    },
+    {
+      "name": "OpenAI - news",
+      "cat": "Opportunités IA",
+      "kind": "fait",
+      "url": "https://openai.com/news/rss.xml"
+    },
+    {
+      "name": "Google - AI blog",
+      "cat": "Opportunités IA",
+      "kind": "fait",
+      "url": "https://blog.google/technology/ai/rss/"
+    },
+    {
+      "name": "Game Developer",
+      "cat": "Jeu indé / marché",
+      "kind": "fait",
+      "url": "https://www.gamedeveloper.com/rss.xml"
+    },
+    {
+      "name": "Hacker News - front page",
+      "cat": "Outils gratuits",
+      "kind": "avis",
+      "url": "https://hnrss.org/frontpage?points=300"
+    },
+    {
+      "name": "Forum Godot (top jour)",
+      "cat": "Risques outils",
+      "kind": "avis",
+      "url": "https://forum.godotengine.org/top.rss?period=daily"
+    },
+    {
+      "name": "BlenderNation",
+      "cat": "Outils gratuits",
+      "kind": "fait",
+      "url": "https://www.blendernation.com/feed/"
+    },
+    {
+      "name": "80 Level",
+      "cat": "Outils gratuits",
+      "kind": "fait",
+      "url": "https://80.lv/feed/"
+    },
+    {
+      "name": "GamesIndustry.biz",
+      "cat": "Jeu indé / marché",
+      "kind": "fait",
+      "url": "https://www.gamesindustry.biz/feed"
+    },
+    {
+      "name": "KVR Audio - news",
+      "cat": "Musique",
+      "kind": "fait",
+      "url": "https://www.kvraudio.com/rss/kvr_news.rss"
+    },
+    {
+      "name": "YouTube - blog officiel",
+      "cat": "YouTube",
+      "kind": "fait",
+      "url": "https://blog.youtube/rss/"
+    },
+    {
+      "name": "itch.io - jams",
+      "cat": "Game jams & concours",
+      "kind": "fait",
+      "url": "https://itch.io/jams.xml"
+    },
+    {
+      "name": "The Learning Scientists",
+      "cat": "Méthodes prouvées",
+      "kind": "fait",
+      "url": "https://www.learningscientists.org/blog?format=rss"
+    }
   ],
   "youtube": [
-    {"name": "Anthropic", "cat": "Opportunités IA", "handle": "@anthropic-ai"},
-    {"name": "OpenAI", "cat": "Opportunités IA", "handle": "@OpenAI"},
-    {"name": "Google DeepMind", "cat": "Opportunités IA", "handle": "@googledeepmind"},
-    {"name": "Google for Developers", "cat": "Opportunités IA", "handle": "@GoogleDevelopers"},
-    {"name": "Godot Engine", "cat": "Risques outils", "handle": "@GodotEngineOfficial"},
-    {"name": "Blender", "cat": "Risques outils", "handle": "@BlenderOfficial"},
-    {"name": "Creator Insider", "cat": "YouTube", "handle": "@CreatorInsider"}
+    {
+      "name": "Anthropic",
+      "cat": "Opportunités IA",
+      "handle": "@anthropic-ai"
+    },
+    {
+      "name": "OpenAI",
+      "cat": "Opportunités IA",
+      "handle": "@OpenAI"
+    },
+    {
+      "name": "Google DeepMind",
+      "cat": "Opportunités IA",
+      "handle": "@googledeepmind"
+    },
+    {
+      "name": "Google for Developers",
+      "cat": "Opportunités IA",
+      "handle": "@GoogleDevelopers"
+    },
+    {
+      "name": "Godot Engine",
+      "cat": "Risques outils",
+      "handle": "@GodotEngineOfficial"
+    },
+    {
+      "name": "Blender",
+      "cat": "Risques outils",
+      "handle": "@BlenderOfficial"
+    },
+    {
+      "name": "Creator Insider",
+      "cat": "YouTube",
+      "handle": "@CreatorInsider"
+    }
   ],
-  "limits": {"max_items_per_feed": 8, "summary_chars": 220, "seen_keep_days": 90}
+  "limits": {
+    "max_items_per_feed": 8,
+    "summary_chars": 220,
+    "seen_keep_days": 90
+  }
 }
