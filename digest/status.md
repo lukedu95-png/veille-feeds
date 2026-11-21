@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-21 13:59 UTC
+Run : 2026-11-21 14:35 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -12,7 +12,7 @@ Run : 2026-11-21 13:59 UTC
 | OpenAI - news | OK | 1421 | 0 |
 | Google - AI blog | OK | 20 | 0 |
 | Game Developer | OK | 50 | 0 |
-| Hacker News - front page | OK | 9 | 0 |
+| Hacker News - front page | OK | 11 | 0 |
 | Forum Godot (top jour) | OK | 17 | 0 |
 | BlenderNation | OK | 10 | 0 |
 | 80 Level | OK | 10 | 0 |
@@ -41,12 +41,15 @@ Run : 2026-11-21 13:59 UTC
 | Bedroom Producers Blog | OK | 12 | 0 |
 | Rekkerd.org | OK | 100 | 0 |
 | Ars Technica | OK | 20 | 0 |
-| The Verge - IA | OK | 10 | 0 |
+| The Verge - IA | OK | 10 | 1 |
 | Numerama | OK | 15 | 0 |
 | Next.ink | OK | 50 | 0 |
 | Retrieval Practice | OK | 20 | 0 |
 | Scott H. Young | OK | 10 | 0 |
 | Cal Newport | OK | 8 | 0 |
+| Steamworks Development (annonces Valve) | OK | 10 | 0 |
+| Steam Labs | OK | 10 | 0 |
+| SteamDB - blog | ERREUR : 403 Client Error: Forbidden for url: https://steamdb.info/blog/rss/ | 0 | 0 |
 | Anthropic (YouTube : Anthropic) | OK | 15 | 0 |
 | OpenAI (YouTube : OpenAI) | OK | 15 | 0 |
 | Google DeepMind (YouTube : Google DeepMind) | OK | 15 | 0 |
@@ -59,7 +62,6 @@ Run : 2026-11-21 13:59 UTC
 | NVIDIA (YouTube : NVIDIA) | OK | 15 | 0 |
 | NVIDIA Developer (YouTube : NVIDIA Developer) | OK | 15 | 0 |
 | Hugging Face (YouTube : Hugging Face) | OK | 15 | 0 |
-| Stability AI (YouTube : Stability AI ) | OK | 12 | 0 |
 | GitHub (YouTube : GitHub) | OK | 15 | 0 |
 | Microsoft Developer (YouTube : Microsoft Developer) | OK | 15 | 0 |
 | Runway (YouTube : Runway) | OK | 15 | 0 |
