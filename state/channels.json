@@ -1,0 +1,30 @@
+{
+ "@anthropic-ai": [
+  "UCrDwWp7EBBv4NwvScIpBDOA",
+  "Anthropic"
+ ],
+ "@OpenAI": [
+  "UCXZCJLdBC09xxGZ6gcdrc6A",
+  "OpenAI"
+ ],
+ "@googledeepmind": [
+  "UCP7jMXSY2xbc3KCAE0MHQ-A",
+  "Google DeepMind"
+ ],
+ "@GoogleDevelopers": [
+  "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+  "Google for Developers"
+ ],
+ "@GodotEngineOfficial": [
+  "UCKIDvfZD1ZhY4_hhbotf7wA",
+  "Godot Engine"
+ ],
+ "@BlenderOfficial": [
+  "UCSMOQeBJ2RAnuFungnQOxLg",
+  "Blender"
+ ],
+ "@CreatorInsider": [
+  "UCGg-UqjRgzhYDPJMr-9HXCg",
+  "Creator Insider"
+ ]
+}
