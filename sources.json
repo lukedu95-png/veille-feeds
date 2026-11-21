@@ -1,5 +1,5 @@
 {
-  "_note": "Flux suivis par la veille. 'kind' = fait (source officielle) ou avis (communauté). Les URLs non vérifiées sont testées à chaque run : voir digest/status.md. Reddit bloque les serveurs GitHub (erreurs 404/429) : les avis Reddit passent par la recherche web de la veille.",
+  "_note": "Flux suivis par la veille. 'kind' = fait (source officielle) ou avis (communauté). Les URLs non vérifiées sont testées à chaque run : voir digest/status.md. Reddit bloque les serveurs GitHub (erreurs 404/429) : les avis Reddit passent par la recherche web de la veille. itch.io n'a pas de flux pour les jams : la veille consulte itch.io/jams/upcoming par recherche web.",
   "rss": [
     {
       "name": "Godot - blog",
@@ -86,28 +86,34 @@
       "url": "https://www.gamesindustry.biz/feed"
     },
     {
-      "name": "KVR Audio - news",
-      "cat": "Musique",
-      "kind": "fait",
-      "url": "https://www.kvraudio.com/rss/kvr_news.rss"
-    },
-    {
       "name": "YouTube - blog officiel",
       "cat": "YouTube",
       "kind": "fait",
       "url": "https://blog.youtube/rss/"
     },
     {
-      "name": "itch.io - jams",
-      "cat": "Game jams & concours",
-      "kind": "fait",
-      "url": "https://itch.io/jams.xml"
-    },
-    {
       "name": "The Learning Scientists",
       "cat": "Méthodes prouvées",
       "kind": "fait",
       "url": "https://www.learningscientists.org/blog?format=rss"
+    },
+    {
+      "name": "KVR - top stories",
+      "cat": "Musique",
+      "kind": "fait",
+      "url": "https://www.kvraudio.com/rss/kvr_news_top.rss"
+    },
+    {
+      "name": "KVR - instruments",
+      "cat": "Musique",
+      "kind": "fait",
+      "url": "https://www.kvraudio.com/rss/kvr_news_instruments.rss"
+    },
+    {
+      "name": "KVR - effets",
+      "cat": "Musique",
+      "kind": "fait",
+      "url": "https://www.kvraudio.com/rss/kvr_news_effects.rss"
     }
   ],
   "youtube": [
