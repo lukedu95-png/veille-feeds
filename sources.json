@@ -41,25 +41,29 @@
       "name": "OpenAI - news",
       "cat": "Opportunités IA",
       "kind": "fait",
-      "url": "https://openai.com/news/rss.xml"
+      "url": "https://openai.com/news/rss.xml",
+      "keywords": "@ia"
     },
     {
       "name": "Google - AI blog",
       "cat": "Opportunités IA",
       "kind": "fait",
-      "url": "https://blog.google/technology/ai/rss/"
+      "url": "https://blog.google/technology/ai/rss/",
+      "keywords": "@ia"
     },
     {
       "name": "Game Developer",
       "cat": "Jeu indé / marché",
       "kind": "fait",
-      "url": "https://www.gamedeveloper.com/rss.xml"
+      "url": "https://www.gamedeveloper.com/rss.xml",
+      "keywords": "@jeu"
     },
     {
       "name": "Hacker News - front page",
       "cat": "Outils gratuits",
       "kind": "avis",
-      "url": "https://hnrss.org/frontpage?points=300"
+      "url": "https://hnrss.org/frontpage?points=300",
+      "keywords": "@hn"
     },
     {
       "name": "Forum Godot (top jour)",
@@ -71,19 +75,22 @@
       "name": "BlenderNation",
       "cat": "Outils gratuits",
       "kind": "fait",
-      "url": "https://www.blendernation.com/feed/"
+      "url": "https://www.blendernation.com/feed/",
+      "keywords": "@outils"
     },
     {
       "name": "80 Level",
       "cat": "Outils gratuits",
       "kind": "fait",
-      "url": "https://80.lv/feed/"
+      "url": "https://80.lv/feed/",
+      "keywords": "@outils"
     },
     {
       "name": "GamesIndustry.biz",
       "cat": "Jeu indé / marché",
       "kind": "fait",
-      "url": "https://www.gamesindustry.biz/feed"
+      "url": "https://www.gamesindustry.biz/feed",
+      "keywords": "@jeu"
     },
     {
       "name": "YouTube - blog officiel",
@@ -101,49 +108,57 @@
       "name": "KVR - top stories",
       "cat": "Musique",
       "kind": "fait",
-      "url": "https://www.kvraudio.com/rss/kvr_news_top.rss"
+      "url": "https://www.kvraudio.com/rss/kvr_news_top.rss",
+      "keywords": "@musique"
     },
     {
       "name": "KVR - instruments",
       "cat": "Musique",
       "kind": "fait",
-      "url": "https://www.kvraudio.com/rss/kvr_news_instruments.rss"
+      "url": "https://www.kvraudio.com/rss/kvr_news_instruments.rss",
+      "keywords": "@musique"
     },
     {
       "name": "KVR - effets",
       "cat": "Musique",
       "kind": "fait",
-      "url": "https://www.kvraudio.com/rss/kvr_news_effects.rss"
+      "url": "https://www.kvraudio.com/rss/kvr_news_effects.rss",
+      "keywords": "@musique"
     },
     {
       "name": "Hugging Face - blog",
       "cat": "Opportunités IA",
       "kind": "fait",
-      "url": "https://huggingface.co/blog/feed.xml"
+      "url": "https://huggingface.co/blog/feed.xml",
+      "keywords": "@ia"
     },
     {
       "name": "Google DeepMind - blog",
       "cat": "Opportunités IA",
       "kind": "fait",
-      "url": "https://deepmind.google/blog/rss.xml"
+      "url": "https://deepmind.google/blog/rss.xml",
+      "keywords": "@ia"
     },
     {
       "name": "GitHub - blog",
       "cat": "Opportunités IA",
       "kind": "fait",
-      "url": "https://github.blog/feed/"
+      "url": "https://github.blog/feed/",
+      "keywords": "@github"
     },
     {
       "name": "GitHub - changelog",
       "cat": "Opportunités IA",
       "kind": "fait",
-      "url": "https://github.blog/changelog/feed/"
+      "url": "https://github.blog/changelog/feed/",
+      "keywords": "@github"
     },
     {
       "name": "NVIDIA - developer blog",
       "cat": "Opportunités IA",
       "kind": "fait",
-      "url": "https://developer.nvidia.com/blog/feed"
+      "url": "https://developer.nvidia.com/blog/feed",
+      "keywords": "@ia"
     },
     {
       "name": "ComfyUI - blog",
@@ -155,7 +170,8 @@
       "name": "Simon Willison (tests d'outils IA)",
       "cat": "Opportunités IA",
       "kind": "avis",
-      "url": "https://simonwillison.net/atom/everything/"
+      "url": "https://simonwillison.net/atom/everything/",
+      "keywords": "@ia"
     },
     {
       "name": "Steam - news",
@@ -215,100 +231,43 @@
       "name": "Bedroom Producers Blog",
       "cat": "Musique",
       "kind": "fait",
-      "url": "https://bedroomproducersblog.com/feed/"
+      "url": "https://bedroomproducersblog.com/feed/",
+      "keywords": "@musique"
     },
     {
       "name": "Rekkerd.org",
       "cat": "Musique",
       "kind": "fait",
-      "url": "https://rekkerd.org/feed/"
+      "url": "https://rekkerd.org/feed/",
+      "keywords": "@musique"
     },
     {
       "name": "Ars Technica",
       "cat": "Rapport à l'IA",
       "kind": "fait",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
-      "keywords": [
-        "ai",
-        "ia",
-        "intelligence artificielle",
-        "llm",
-        "claude",
-        "openai",
-        "gemini",
-        "anthropic",
-        "generative",
-        "génératif",
-        "game",
-        "jeu",
-        "godot",
-        "steam",
-        "indie",
-        "blender",
-        "youtube",
-        "creator",
-        "créateur"
-      ]
+      "keywords": "@ia"
     },
     {
       "name": "The Verge - IA",
       "cat": "Rapport à l'IA",
       "kind": "fait",
-      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "keywords": "@ia"
     },
     {
       "name": "Numerama",
       "cat": "Rapport à l'IA",
       "kind": "fait",
       "url": "https://www.numerama.com/feed/",
-      "keywords": [
-        "ai",
-        "ia",
-        "intelligence artificielle",
-        "llm",
-        "claude",
-        "openai",
-        "gemini",
-        "anthropic",
-        "generative",
-        "génératif",
-        "game",
-        "jeu",
-        "godot",
-        "steam",
-        "indie",
-        "blender",
-        "youtube",
-        "creator",
-        "créateur"
-      ]
+      "keywords": "@ia"
     },
     {
       "name": "Next.ink",
       "cat": "Rapport à l'IA",
       "kind": "fait",
       "url": "https://next.ink/feed/",
-      "keywords": [
-        "ai",
-        "ia",
-        "intelligence artificielle",
-        "llm",
-        "claude",
-        "openai",
-        "gemini",
-        "anthropic",
-        "generative",
-        "génératif",
-        "game",
-        "jeu",
-        "godot",
-        "steam",
-        "indie",
-        "blender",
-        "youtube",
-        "creator",
-        "créateur"
-      ]
+      "keywords": "@ia"
     },
     {
       "name": "Retrieval Practice",
@@ -320,13 +279,33 @@
       "name": "Scott H. Young",
       "cat": "Méthodes prouvées",
       "kind": "avis",
-      "url": "https://www.scotthyoung.com/blog/feed/"
+      "url": "https://www.scotthyoung.com/blog/feed/",
+      "keywords": "@apprendre"
     },
     {
       "name": "Cal Newport",
       "cat": "Méthodes prouvées",
       "kind": "avis",
-      "url": "https://calnewport.com/feed/"
+      "url": "https://calnewport.com/feed/",
+      "keywords": "@apprendre"
+    },
+    {
+      "name": "Steamworks Development (annonces Valve)",
+      "cat": "Jeu indé / marché",
+      "kind": "fait",
+      "url": "https://steamcommunity.com/groups/steamworks/rss/"
+    },
+    {
+      "name": "Steam Labs",
+      "cat": "Jeu indé / marché",
+      "kind": "fait",
+      "url": "https://steamcommunity.com/groups/SteamLabs/rss/"
+    },
+    {
+      "name": "SteamDB - blog",
+      "cat": "Jeu indé / marché",
+      "kind": "fait",
+      "url": "https://steamdb.info/blog/rss/"
     }
   ],
   "youtube": [
@@ -338,17 +317,20 @@
     {
       "name": "OpenAI",
       "cat": "Opportunités IA",
-      "handle": "@OpenAI"
+      "handle": "@OpenAI",
+      "keywords": "@ia"
     },
     {
       "name": "Google DeepMind",
       "cat": "Opportunités IA",
-      "handle": "@googledeepmind"
+      "handle": "@googledeepmind",
+      "keywords": "@ia"
     },
     {
       "name": "Google for Developers",
       "cat": "Opportunités IA",
-      "handle": "@GoogleDevelopers"
+      "handle": "@GoogleDevelopers",
+      "keywords": "@ia"
     },
     {
       "name": "Godot Engine",
@@ -368,47 +350,50 @@
     {
       "name": "Google",
       "cat": "Opportunités IA",
-      "handle": "@Google"
+      "handle": "@Google",
+      "keywords": "@ia"
     },
     {
       "name": "Meta AI",
       "cat": "Opportunités IA",
-      "handle": "@aiatmeta"
+      "handle": "@aiatmeta",
+      "keywords": "@ia"
     },
     {
       "name": "NVIDIA",
       "cat": "Opportunités IA",
-      "handle": "@NVIDIA"
+      "handle": "@NVIDIA",
+      "keywords": "@ia"
     },
     {
       "name": "NVIDIA Developer",
       "cat": "Opportunités IA",
-      "handle": "@NVIDIADeveloper"
+      "handle": "@NVIDIADeveloper",
+      "keywords": "@ia"
     },
     {
       "name": "Hugging Face",
       "cat": "Opportunités IA",
-      "handle": "@HuggingFace"
-    },
-    {
-      "name": "Stability AI",
-      "cat": "Opportunités IA",
-      "handle": "@StabilityAI"
+      "handle": "@HuggingFace",
+      "keywords": "@ia"
     },
     {
       "name": "GitHub",
       "cat": "Opportunités IA",
-      "handle": "@GitHub"
+      "handle": "@GitHub",
+      "keywords": "@github"
     },
     {
       "name": "Microsoft Developer",
       "cat": "Opportunités IA",
-      "handle": "@MicrosoftDeveloper"
+      "handle": "@MicrosoftDeveloper",
+      "keywords": "@ia"
     },
     {
       "name": "Runway",
       "cat": "Opportunités IA",
-      "handle": "@runwayml"
+      "handle": "@runwayml",
+      "keywords": "@ia"
     },
     {
       "name": "Claude",
@@ -423,7 +408,8 @@
     {
       "name": "Two Minute Papers",
       "cat": "Opportunités IA",
-      "handle": "@TwoMinutePapers"
+      "handle": "@TwoMinutePapers",
+      "keywords": "@ia"
     },
     {
       "name": "How To Market A Game",
@@ -438,12 +424,14 @@
     {
       "name": "Blackmagic Design",
       "cat": "Risques outils",
-      "handle": "@BlackmagicDesignOfficial"
+      "handle": "@BlackmagicDesignOfficial",
+      "keywords": "@resolve"
     },
     {
       "name": "GDC",
       "cat": "Jeu indé / marché",
-      "channel_id": "UC0JB7TSe49lg56u6qH8y_MQ"
+      "channel_id": "UC0JB7TSe49lg56u6qH8y_MQ",
+      "keywords": "@jeu"
     },
     {
       "name": "YouTube Creators",
@@ -465,5 +453,158 @@
     "max_items_per_feed": 5,
     "summary_chars": 160,
     "seen_keep_days": 90
+  },
+  "keyword_sets": {
+    "ia": [
+      "ai",
+      "ia",
+      "llm",
+      "claude",
+      "anthropic",
+      "gpt",
+      "chatgpt",
+      "gemini",
+      "agent",
+      "agents",
+      "free",
+      "gratuit",
+      "student",
+      "students",
+      "étudiant",
+      "étudiants",
+      "credits",
+      "api",
+      "open source",
+      "open-source",
+      "open-weight",
+      "introducing",
+      "launch",
+      "new model",
+      "video",
+      "image",
+      "audio",
+      "voice",
+      "music",
+      "3d",
+      "game",
+      "games",
+      "code",
+      "coding",
+      "developer",
+      "developers"
+    ],
+    "jeu": [
+      "indie",
+      "steam",
+      "godot",
+      "wishlist",
+      "wishlists",
+      "demo",
+      "next fest",
+      "marketing",
+      "launch",
+      "jam",
+      "solo",
+      "free",
+      "gratuit",
+      "ai",
+      "ia",
+      "generative",
+      "youtube",
+      "creator",
+      "creators",
+      "itch.io",
+      "publisher"
+    ],
+    "musique": [
+      "free",
+      "freeware",
+      "gratuit",
+      "giveaway",
+      "open source",
+      "open-source",
+      "lmms",
+      "lv2",
+      "linux"
+    ],
+    "outils": [
+      "free",
+      "gratuit",
+      "open source",
+      "open-source",
+      "addon",
+      "add-on",
+      "plugin",
+      "godot",
+      "blender",
+      "resolve",
+      "davinci",
+      "ffmpeg",
+      "release",
+      "script",
+      "automation",
+      "procedural",
+      "generator",
+      "workflow"
+    ],
+    "apprendre": [
+      "study",
+      "studies",
+      "research",
+      "evidence",
+      "meta-analysis",
+      "retrieval",
+      "spaced",
+      "spacing",
+      "interleaving",
+      "memory",
+      "exam",
+      "exams",
+      "learning",
+      "learn",
+      "focus",
+      "attention",
+      "deep work",
+      "étude",
+      "révision"
+    ],
+    "hn": [
+      "godot",
+      "blender",
+      "ffmpeg",
+      "open source",
+      "open-source",
+      "free",
+      "indie",
+      "game",
+      "games",
+      "youtube",
+      "video",
+      "llm",
+      "claude",
+      "ai",
+      "learning",
+      "study",
+      "productivity"
+    ],
+    "github": [
+      "copilot",
+      "free",
+      "student",
+      "students",
+      "education",
+      "actions",
+      "codespaces",
+      "open source"
+    ],
+    "resolve": [
+      "resolve",
+      "davinci",
+      "fusion",
+      "fairlight",
+      "free",
+      "editing",
+      "update"
+    ]
   }
 }

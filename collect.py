@@ -116,9 +116,12 @@ def main():
                 if not key or key in seen or (d and d < since):
                     continue
                 kw = s.get("keywords")
+                if isinstance(kw, str) and kw.startswith("@"):  # renvoi vers keyword_sets
+                    kw = cfg.get("keyword_sets", {}).get(kw[1:], [])
                 if kw:  # gros sites d'actu : on ne garde que ce qui touche le domaine
                     blob = (e.get("title", "") + " " + (e.get("summary") or "")).lower()
-                    if not any(k.lower() in blob for k in kw):
+                    # mot entier : « ai » ne doit pas matcher « maintain » ou « said »
+                    if not any(re.search(r"(?<![\w-])" + re.escape(k.lower()) + r"(?![\w-])", blob) for k in kw):
                         seen[key] = NOW.isoformat()
                         continue
                 seen[key] = NOW.isoformat()
