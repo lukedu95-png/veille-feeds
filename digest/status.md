@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-21 14:35 UTC
+Run : 2026-11-21 14:38 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Run : 2026-11-21 14:35 UTC
 | Bedroom Producers Blog | OK | 12 | 0 |
 | Rekkerd.org | OK | 100 | 0 |
 | Ars Technica | OK | 20 | 0 |
-| The Verge - IA | OK | 10 | 1 |
+| The Verge - IA | OK | 10 | 0 |
 | Numerama | OK | 15 | 0 |
 | Next.ink | OK | 50 | 0 |
 | Retrieval Practice | OK | 20 | 0 |
@@ -49,7 +49,7 @@ Run : 2026-11-21 14:35 UTC
 | Cal Newport | OK | 8 | 0 |
 | Steamworks Development (annonces Valve) | OK | 10 | 0 |
 | Steam Labs | OK | 10 | 0 |
-| SteamDB - blog | ERREUR : 403 Client Error: Forbidden for url: https://steamdb.info/blog/rss/ | 0 | 0 |
+| Steam - annonces officielles | OK | 0 | 0 |
 | Anthropic (YouTube : Anthropic) | OK | 15 | 0 |
 | OpenAI (YouTube : OpenAI) | OK | 15 | 0 |
 | Google DeepMind (YouTube : Google DeepMind) | OK | 15 | 0 |
