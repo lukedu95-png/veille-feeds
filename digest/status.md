@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-21 13:53 UTC
+Run : 2026-11-21 13:56 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -36,7 +36,6 @@ Run : 2026-11-21 13:53 UTC
 | OBS - releases | OK | 10 | 0 |
 | Audacity - releases | OK | 10 | 0 |
 | WhisperX - releases | OK | 10 | 0 |
-| Kdenlive - news | ERREUR : 404 Client Error: Not Found for url: https://kdenlive.org/en/feed/ | 0 | 0 |
 | Krita - news | OK | 20 | 0 |
 | Blender - releases (GitHub mirror) | OK | 10 | 0 |
 | Bedroom Producers Blog | OK | 12 | 0 |
@@ -46,7 +45,6 @@ Run : 2026-11-21 13:53 UTC
 | Numerama | OK | 15 | 0 |
 | Next.ink | OK | 50 | 0 |
 | Retrieval Practice | OK | 20 | 0 |
-| Education Endowment Foundation | ERREUR : 404 Client Error: Not Found for url: https://educationendowmentfoundation.org.uk/news/feed | 0 | 0 |
 | Scott H. Young | OK | 10 | 0 |
 | Cal Newport | OK | 8 | 0 |
 | Anthropic (YouTube : Anthropic) | OK | 15 | 0 |
@@ -61,20 +59,18 @@ Run : 2026-11-21 13:53 UTC
 | NVIDIA (YouTube : NVIDIA) | OK | 15 | 0 |
 | NVIDIA Developer (YouTube : NVIDIA Developer) | OK | 15 | 0 |
 | Hugging Face (YouTube : Hugging Face) | OK | 15 | 0 |
-| Mistral AI (YouTube : mistralai) | OK | 0 | 0 |
 | Stability AI (YouTube : Stability AI ) | OK | 12 | 0 |
 | GitHub (YouTube : GitHub) | OK | 15 | 0 |
 | Microsoft Developer (YouTube : Microsoft Developer) | OK | 15 | 0 |
-| ElevenLabs (YouTube) | ERREUR : 404 Client Error: Not Found for url: https://www.youtube.com/@ElevenLabsio | 0 | 0 |
 | Runway (YouTube : Runway) | OK | 15 | 0 |
 | Claude (YouTube : Claude) | OK | 15 | 0 |
 | ComfyUI (Comfy Org) (YouTube : ComfyUI) | OK | 15 | 0 |
 | Two Minute Papers (YouTube : Two Minute Papers) | OK | 15 | 0 |
-| GDC (YouTube) | ERREUR : 404 Client Error: Not Found for url: https://www.youtube.com/@Gdconf | 0 | 0 |
-| Steamworks (YouTube) | ERREUR : 404 Client Error: Not Found for url: https://www.youtube.com/@Steamworks | 0 | 0 |
 | How To Market A Game (YouTube : How To Market A Game) | OK | 15 | 0 |
 | Blender Studio (YouTube : Blender Studio) | OK | 15 | 0 |
 | Blackmagic Design (YouTube : Blackmagic Design) | OK | 15 | 0 |
-| YouTube Creators (YouTube) | ERREUR : channel_id introuvable sur la page | 0 | 0 |
-| YouTube Liaison (YouTube) | ERREUR : 404 Client Error: Not Found for url: https://www.youtube.com/@YouTubeLiaison | 0 | 0 |
-| YouTube Help (YouTube) | ERREUR : 404 Client Error: Not Found for url: https://www.youtube.com/@YouTubeHelp | 0 | 0 |
+| GDC (YouTube : GDC) | OK | 15 | 0 |
+| YouTube Creators (YouTube : @youtubecreators) | OK | 15 | 0 |
+| YouTube Liaison (YouTube) | ERREUR : 404 Client Error: Not Found for url: https://www.youtube.com/@youtubeliaison | 0 | 0 |
+| Updates From YouTube (YouTube : Updates From YouTube) | OK | 15 | 0 |
+| YouTube Insider (YouTube : YouTube Insider) | OK | 1 | 0 |
