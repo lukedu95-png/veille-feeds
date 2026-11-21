@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-21 13:39 UTC
+Run : 2026-11-21 13:42 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -17,10 +17,11 @@ Run : 2026-11-21 13:39 UTC
 | BlenderNation | OK | 10 | 0 |
 | 80 Level | OK | 10 | 0 |
 | GamesIndustry.biz | OK | 100 | 0 |
-| KVR Audio - news | ERREUR : 404 Client Error: Not Found for url: https://www.kvraudio.com/rss/kvr_news.rss | 0 | 0 |
 | YouTube - blog officiel | OK | 20 | 0 |
-| itch.io - jams | ERREUR : 404 Client Error: Not Found for url: https://itch.io/jams.xml | 0 | 0 |
 | The Learning Scientists | OK | 20 | 0 |
+| KVR - top stories | OK | 30 | 0 |
+| KVR - instruments | OK | 30 | 0 |
+| KVR - effets | OK | 30 | 0 |
 | Anthropic (YouTube : Anthropic) | OK | 15 | 0 |
 | OpenAI (YouTube : OpenAI) | OK | 15 | 0 |
 | Google DeepMind (YouTube : Google DeepMind) | OK | 15 | 0 |
