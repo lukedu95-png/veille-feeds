@@ -1,4 +1,28 @@
-# Digest veille — 2026-11-21 14:41 UTC (nouveautés depuis 2026-11-21 14:38 UTC)
-0 nouveaux éléments · 71/71 flux OK (détail : digest/status.md)
+# Digest veille — 2026-11-22 08:53 UTC (collecté sur les dernières 26 h)
+15 nouveaux éléments · 71/71 flux OK (détail : digest/status.md)
 
-Aucune nouveauté dans les flux.
+## Musique
+- [fait] KVR - top stories · 2026-11-21 · **NovoNotes releases SnapClip Pro - Bit-Transparent Clipper & "Inflate" Loudness Enhancer (AAX, AU & VST3)** — NovoNotes has announced the release of SnapClip Pro , a mastering-grade clipper plug-in designed to balance pristine transparency with rich harmonic density. B… <https://www.kvraudio.com/news/novonotes-releases-snapclip-pro---bit-transparent-clipper-and-inflate-loudness-enhancer-aax-au-and-vst3-69966?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69966>
+- [fait] KVR - top stories · 2026-11-21 · **sonicLAB releases SSNN v2.0** — sonicLAB has released version 2.0 of SSNN , a live audio processor plugin which puts a live spiking neural network — 960 neurons across 32 layers — at the cent… <https://www.kvraudio.com/news/soniclab-releases-ssnn-v2-0-70025?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70025>
+- [fait] KVR - top stories · 2026-11-21 · **Madrona Labs releases Aalto v2.0 - Linux & CLAP Support** — Madrona Labs has announced the release of version 2.0 of Aalto . First released in 2010 to accompany their multitouch controller, the Soundplane, Aalto is a pa… <https://www.kvraudio.com/news/madrona-labs-releases-aalto-v2-0---linux-and-clap-support-69981?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69981>
+- [fait] Bedroom Producers Blog · 2026-11-21 · **Rocksolid Audio releases Vintage Pre, a FREE valve preamp plugin** — Rocksolid Audio has released Vintage Pre, a free 1950s-style valve preamp plugin for Windows and macOS. Vintage Pre simulates the coloration of an old console… <https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/>
+
+## Opportunités IA
+- [avis] Simon Willison (tests d'outils IA) · 2026-11-21 · **Muru** — Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru… <https://simonwillison.net/2026/Nov/21/muru/>
+- [fait] GitHub (YouTube : GitHub) · 2026-11-21 · **What open source can teach us about agents in CI/CD** — What happens when you build an operating system the way you build an application? In this GitHub Universe 2026 session, Jorge Castro from the CNCF uses Project… <https://www.youtube.com/watch?v=bUhCBYi4dys>
+
+## Outils gratuits
+- [fait] BlenderNation · 2026-11-22 · **Frame Perfect now makes turntable videos and pictures of your Blender models** — Frame Perfect, VeeVeeVee's add-on that puts your Blender camera exactly where you're looking, can now make turntable videos and pictures of your models. Source <https://www.blendernation.com/2026/11/22/frame-perfect-now-makes-turntable-videos-and-pictures-of-your-blender-models/>
+- [fait] OBS - releases · 2026-11-22 · **OBS Studio 33.0.3** — 33.0.3 Hotfix Changes Fixed a crash on Windows in 33.0.2 with certain older CPUs [R1CH/Warchamp7] 33.0.2 Hotfix Changes Fixed macOS Screen Capture not working… <https://github.com/obsproject/obs-studio/releases/tag/33.0.3>
+- [fait] BlenderNation · 2026-11-21 · **How to Create a Gingerbread House** — Ryan King shows how to create this Gingerbread House in a 7-part beginner Blender tutorial series. In part 1, he models the front wall, side wall, floor and a… <https://www.blendernation.com/2026/11/21/how-to-create-a-gingerbread-house/>
+
+## Rapport à l'IA
+- [fait] The Verge - IA · 2026-11-21 · **Can Anthropic afford to put safety first?** — Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real li… <https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure>
+
+## Risques outils
+- [avis] Forum Godot (top jour) · 2026-11-21 · **I forgot how to do something i could do** — Godot Version Question I made the code below where if the npc touches the collision of the area2d its speed would go to 0. It’s not working and i am stupid. fu… <https://forum.godotengine.org/t/i-forgot-how-to-do-something-i-could-do/147606>
+- [avis] Forum Godot (top jour) · 2026-11-21 · **A way to play sound on dropdown item hover** — Godot Version v4.7.stable.official [5b4e0cb0f] Question Is it possible to detect a hover event for the dropdown items of an OptionButton ? There’s a item_focus… <https://forum.godotengine.org/t/a-way-to-play-sound-on-dropdown-item-hover/147602>
+- [avis] Forum Godot (top jour) · 2026-11-21 · **Y-Sorting issue with layers in Isometric perspective** — Godot Version 4.7.2 Question Im working on a 2D isometric game, and Im having issues with y-sorting. Ive been bashing my head against the wall over this for a… <https://forum.godotengine.org/t/y-sorting-issue-with-layers-in-isometric-perspective/147608>
+- [avis] Forum Godot (top jour) · 2026-11-21 · **Is Sentry worth the time investment for a small indie game?** — I’d like to use Godot-Sentry to collect errors of the game demo I’m working on. The game it’s single player and runs completely offline. I plan to enable the f… <https://forum.godotengine.org/t/is-sentry-worth-the-time-investment-for-a-small-indie-game/147601>
+- [avis] Forum Godot (top jour) · 2026-11-21 · **How to use both Dynamic Shadows and Static LightmapGI?** — Godot Version v4.7.2.stable.official [ed1daf0bf] Question I want to use LightmapGI in my game to optimize the lighting. I also want to have dynamic shadows cas… <https://forum.godotengine.org/t/how-to-use-both-dynamic-shadows-and-static-lightmapgi/147603>
+
