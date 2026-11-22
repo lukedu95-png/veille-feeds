@@ -2,7 +2,11 @@ name: Collecte veille
 
 on:
   schedule:
-    - cron: "17 4 * * *"   # 4h17 UTC = 5h17 à Paris l'hiver, avant la veille de 6h40
+    # Plusieurs créneaux : GitHub peut retarder ou sauter un run planifié.
+    # Les runs en trop ne coûtent rien (le script ne garde que les nouveautés).
+    - cron: "7 2 * * *"    # 3h07 à Paris (hiver)
+    - cron: "17 4 * * *"   # 5h17
+    - cron: "11 5 * * *"   # 6h11, dernier filet avant la veille de 6h40
   workflow_dispatch:        # lancement manuel possible depuis l'onglet Actions
   push:                     # relance quand on modifie les sources ou le script
     branches: [main]

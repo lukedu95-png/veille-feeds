@@ -143,9 +143,18 @@ def main():
     cutoff = NOW - dt.timedelta(days=keep_days)
     seen = {k: v for k, v in seen.items() if dt.datetime.fromisoformat(v) >= cutoff}
 
+    # Cumul sur 26 h : plusieurs runs par nuit ne s'écrasent pas entre eux
+    recent = load_json(STATE / "recent.json", [])
+    for i in items:
+        i["at"] = NOW.isoformat()
+    window = NOW - dt.timedelta(hours=26)
+    recent = [i for i in recent if dt.datetime.fromisoformat(i["at"]) >= window] + items
+    save_json(STATE / "recent.json", recent)
+    items = recent
+
     # Digest compact, groupé par catégorie
     ok = sum(1 for s in status if s[1] == "OK")
-    lines = [f"# Digest veille — {NOW:%Y-%m-%d %H:%M} UTC (nouveautés depuis {since:%Y-%m-%d %H:%M} UTC)",
+    lines = [f"# Digest veille — {NOW:%Y-%m-%d %H:%M} UTC (collecté sur les dernières 26 h)",
              f"{len(items)} nouveaux éléments · {ok}/{len(status)} flux OK (détail : digest/status.md)", ""]
     for cat in sorted({i["cat"] for i in items}):
         lines.append(f"## {cat}")
