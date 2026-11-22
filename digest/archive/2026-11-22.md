@@ -1,4 +1,4 @@
-# Digest veille — 2026-11-22 08:53 UTC (collecté sur les dernières 26 h)
+# Digest veille — 2026-11-22 09:01 UTC (collecté sur les dernières 26 h)
 15 nouveaux éléments · 71/71 flux OK (détail : digest/status.md)
 
 ## Musique

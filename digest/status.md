@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-22 08:53 UTC
+Run : 2026-11-22 09:01 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -13,13 +13,13 @@ Run : 2026-11-22 08:53 UTC
 | Google - AI blog | OK | 20 | 0 |
 | Game Developer | OK | 50 | 0 |
 | Hacker News - front page | OK | 7 | 0 |
-| Forum Godot (top jour) | OK | 9 | 5 |
-| BlenderNation | OK | 10 | 2 |
+| Forum Godot (top jour) | OK | 9 | 0 |
+| BlenderNation | OK | 10 | 0 |
 | 80 Level | OK | 10 | 0 |
 | GamesIndustry.biz | OK | 100 | 0 |
 | YouTube - blog officiel | OK | 20 | 0 |
 | The Learning Scientists | OK | 20 | 0 |
-| KVR - top stories | OK | 30 | 3 |
+| KVR - top stories | OK | 30 | 0 |
 | KVR - instruments | OK | 30 | 0 |
 | KVR - effets | OK | 30 | 0 |
 | Hugging Face - blog | OK | 915 | 0 |
@@ -28,20 +28,20 @@ Run : 2026-11-22 08:53 UTC
 | GitHub - changelog | OK | 10 | 0 |
 | NVIDIA - developer blog | OK | 100 | 0 |
 | ComfyUI - blog | OK | 20 | 0 |
-| Simon Willison (tests d'outils IA) | OK | 30 | 1 |
+| Simon Willison (tests d'outils IA) | OK | 30 | 0 |
 | Steam - news | OK | 10 | 0 |
 | How To Market A Game | OK | 10 | 0 |
 | GameDiscoverCo | OK | 20 | 0 |
 | itch.io - blog | OK | 529 | 0 |
-| OBS - releases | OK | 10 | 1 |
+| OBS - releases | OK | 10 | 0 |
 | Audacity - releases | OK | 10 | 0 |
 | WhisperX - releases | OK | 10 | 0 |
 | Krita - news | OK | 20 | 0 |
 | Blender - releases (GitHub mirror) | OK | 10 | 0 |
-| Bedroom Producers Blog | OK | 12 | 1 |
+| Bedroom Producers Blog | OK | 12 | 0 |
 | Rekkerd.org | OK | 100 | 0 |
 | Ars Technica | OK | 20 | 0 |
-| The Verge - IA | OK | 10 | 1 |
+| The Verge - IA | OK | 10 | 0 |
 | Numerama | OK | 15 | 0 |
 | Next.ink | OK | 50 | 0 |
 | Retrieval Practice | OK | 20 | 0 |
@@ -61,7 +61,7 @@ Run : 2026-11-22 08:53 UTC
 | NVIDIA (YouTube : NVIDIA) | OK | 15 | 0 |
 | NVIDIA Developer (YouTube : NVIDIA Developer) | OK | 15 | 0 |
 | Hugging Face (YouTube : Hugging Face) | OK | 15 | 0 |
-| GitHub (YouTube : GitHub) | OK | 15 | 1 |
+| GitHub (YouTube : GitHub) | OK | 15 | 0 |
 | Microsoft Developer (YouTube : Microsoft Developer) | OK | 15 | 0 |
 | Runway (YouTube : Runway) | OK | 15 | 0 |
 | Claude (YouTube : Claude) | OK | 15 | 0 |
