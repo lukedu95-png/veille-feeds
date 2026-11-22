@@ -4,9 +4,11 @@ on:
   schedule:
     # Plusieurs créneaux : GitHub peut retarder ou sauter un run planifié.
     # Les runs en trop ne coûtent rien (le script ne garde que les nouveautés).
-    - cron: "7 2 * * *"    # 3h07 à Paris (hiver)
-    - cron: "17 4 * * *"   # 5h17
-    - cron: "11 5 * * *"   # 6h11, dernier filet avant la veille de 6h40
+    # Heures en UTC : à Paris, +1 h l'hiver, +2 h l'été. Le dernier créneau
+    # reste avant la veille de 6h30 dans les deux cas.
+    - cron: "7 1 * * *"    # 2h07 hiver / 3h07 été
+    - cron: "23 2 * * *"   # 3h23 hiver / 4h23 été
+    - cron: "37 3 * * *"   # 4h37 hiver / 5h37 été
   workflow_dispatch:        # lancement manuel possible depuis l'onglet Actions
   push:                     # relance quand on modifie les sources ou le script
     branches: [main]
