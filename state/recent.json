@@ -428,5 +428,85 @@
   "link": "https://www.numerama.com/tech/2382463-anthropic-une-panne-est-en-cours-sur-les-modeles-de-claude.html",
   "summary": "Ce lundi 23 novembre 2026 vers 10h50, un taux d'erreurs anormal a commencé à affecter presque tous les modèles de Claude. Peu après, Anthropic a indiqué avoir…",
   "at": "2026-11-23T10:57:29.882233+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "BlenderNation",
+  "date": "2026-11-23",
+  "title": "This Object Cutout Effect is Made with Geometry Nodes!",
+  "link": "https://www.blendernation.com/2026/11/23/this-object-cutout-effect-is-made-with-geometry-nodes/",
+  "summary": "Kuldeep Singh (3D Singh VFX) shows how to build a procedural, layered object cutout effect with contours, depth and lighting in Blender’s Geometry Nodes. Kulde…",
+  "at": "2026-11-23T13:36:23.476943+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "80 Level",
+  "date": "2026-11-23",
+  "title": "Procedural Unity Tool Creates Venom-Like Tendrils That Wrap Around Any Object",
+  "link": "https://80.lv/articles/procedural-unity-tool-creates-venom-like-tendrils-that-wrap-around-any-object/",
+  "summary": "There are five different visual styles to choose from.",
+  "at": "2026-11-23T13:36:23.476943+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "80 Level",
+  "date": "2026-11-23",
+  "title": "P-Studio Claims The Next Title After Persona 6 Will Be Released Faster",
+  "link": "https://80.lv/articles/p-studio-claims-the-next-title-after-persona-6-will-be-released-faster/",
+  "summary": "It's been 7 years since the developers released Persona 5 Royal, and the release date for Persona 6 is still unknown.",
+  "at": "2026-11-23T13:36:23.476943+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "80 Level",
+  "date": "2026-11-23",
+  "title": "Creating a 2D-Looking Fantasy Anime-Style Character Using an N-Gon-First Modeling Approach",
+  "link": "https://80.lv/articles/creating-a-2d-looking-fantasy-anime-style-character-using-an-n-gon-first-modeling-approach/",
+  "summary": "Nicolas Poppek talks about adopting a new approach to modeling where a character is built up from simple n-gon planes, explains the challenges of creating hair…",
+  "at": "2026-11-23T13:36:23.476943+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Rekkerd.org",
+  "date": "2026-11-23",
+  "title": "ZOKKU launches zokku dj app for Windows, macOS and Linux",
+  "link": "https://rekkerd.org/zokku-launches-zokku-dj-app-for-windows-macos-and-linux/",
+  "summary": "ZOKKU has introduced a beta version of its DJ app with real-time stems that pre-maps 154 controllers out of the box. Available for Windows, macOS and Linux, zo…",
+  "at": "2026-11-23T13:36:23.476943+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Ars Technica",
+  "date": "2026-11-23",
+  "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+  "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+  "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+  "at": "2026-11-23T13:36:23.476943+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "The Verge - IA",
+  "date": "2026-11-23",
+  "title": "Meta Muse can do your Black Friday shopping at Walmart",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+  "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 2…",
+  "at": "2026-11-23T13:36:23.476943+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Next.ink",
+  "date": "2026-11-23",
+  "title": "Hypothèse de Riemann : une preuve générée par IA est-elle utile aux mathématiciens ?",
+  "link": "https://next.ink/269118/hypothese-de-riemann-une-preuve-generee-par-ia-est-elle-utile-aux-mathematiciens/",
+  "summary": "Deux mathématiciens ont publié des propositions de preuve d’une conjecture des plus classiques des mathématiques : l’hypothèse de Riemann. L’un, Alessandro Mar…",
+  "at": "2026-11-23T13:36:23.476943+00:00"
  }
 ]
