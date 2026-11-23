@@ -148,5 +148,355 @@
   "link": "https://www.youtube.com/watch?v=bUhCBYi4dys",
   "summary": "What happens when you build an operating system the way you build an application? In this GitHub Universe 2026 session, Jorge Castro from the CNCF uses Project…",
   "at": "2026-11-22T08:53:33.844187+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "avis",
+  "src": "Hacker News - front page",
+  "date": "2026-11-23",
+  "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+  "link": "https://spelunkr.tv",
+  "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 477 # Comments: 74",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "avis",
+  "src": "Hacker News - front page",
+  "date": "2026-11-22",
+  "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+  "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+  "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points:…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "avis",
+  "src": "Hacker News - front page",
+  "date": "2026-11-22",
+  "title": "Show HN: I built a game where you are an LLM's subagent",
+  "link": "https://github.com/gulivan/worker755",
+  "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 313 # Comments: 76",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-22",
+  "title": "I am confused about whether i am allowed to use AI to make my Godot games.",
+  "link": "https://forum.godotengine.org/t/i-am-confused-about-whether-i-am-allowed-to-use-ai-to-make-my-godot-games/147671",
+  "summary": "Moderators on the official Godot reddit and facebook page kept deleting my posts and comments because i mentioned AI and i was told i am not allowed to make my…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-22",
+  "title": "Allow baking VoxelGI nodes off the main-thread",
+  "link": "https://forum.godotengine.org/t/allow-baking-voxelgi-nodes-off-the-main-thread/147660",
+  "summary": "Hello fellow game developers I would like to share with you a very cool pull request from @titannano here : github.com/godotengine/godot Allow baking VoxelGI n…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-22",
+  "title": "How to create and destroy an object in GD script?",
+  "link": "https://forum.godotengine.org/t/how-to-create-and-destroy-an-object-in-gd-script/147646",
+  "summary": "Godot Version Godot v4.7.2 Question I’ve recently got started with game development in Godot. I’m currently trying to create bullets when the player left click…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-22",
+  "title": "BBCode on buttons",
+  "link": "https://forum.godotengine.org/t/bbcode-on-buttons/147640",
+  "summary": "Godot Version 4.7.2 Question Is it possible to use BBText on buttons? I wanted to add a second, small icon aligned with the text. BBCode allows for that, but d…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-22",
+  "title": "Ambient town NPCs in Godot 4: a tiny waypoint walker + tips to make crowds look alive",
+  "link": "https://forum.godotengine.org/t/ambient-town-npcs-in-godot-4-a-tiny-waypoint-walker-tips-to-make-crowds-look-alive/147629",
+  "summary": "A town feels dead without people walking around. The core of an ambient NPC is surprisingly small: walk to a waypoint, wait a bit, pick another one. Tested in…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "BlenderNation",
+  "date": "2026-11-22",
+  "title": "HueAtlas Lite: free palette atlas texturing for low-poly game kits",
+  "link": "https://www.blendernation.com/2026/11/22/hueatlas-lite-free-palette-atlas-texturing-for-low-poly-game-kits/",
+  "summary": "Swatchworks released HueAtlas Lite, a free add-on that textures a whole low-poly game kit with one material and one small palette image. Swatchworks writes: I’…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "BlenderNation",
+  "date": "2026-11-22",
+  "title": "NKZ Retopia: Draw Your Topology, Let Blender Build the Quads",
+  "link": "https://www.blendernation.com/2026/11/22/nkz-retopia-draw-your-topology-let-blender-build-the-quads/",
+  "summary": "Eduardo Bartali released NKZ Retopia, a retopology add-on for Blender: you sketch the flow on the sculpt, and Retopia builds ordered, evenly spaced quads that…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - top stories",
+  "date": "2026-11-22",
+  "title": "Dropshot Audio updates Smackbox V2 to v1.6.0",
+  "link": "https://www.kvraudio.com/news/dropshot-audio-updates-smackbox-v2-to-v1-6-0-69962?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69962",
+  "summary": "Dropshot Audio has released version 1.6.0 of Smackbox V2 with a redesigned interface and some new ways to work with the sequencer. The biggest change is the up…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - instruments",
+  "date": "2026-11-22",
+  "title": "Segment CPH Palora Deal: €39 instead of €79",
+  "link": "https://www.kvraudio.com/news/segment-cph-palora-deal-39-instead-of-79-70065?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70065",
+  "summary": "Segment CPH's Palora is €39 instead of €79 until December 4th. Includes the 1.3 update with five new free preset packs (150 sounds). Read More",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - instruments",
+  "date": "2026-11-22",
+  "title": "Segment CPH updates Palora to v1.3",
+  "link": "https://www.kvraudio.com/news/segment-cph-updates-palora-to-v1-3-70064?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70064",
+  "summary": "Segment CPH has updated Palora , its polyphonic synthesizer for macOS and Windows, to v1.3. Version 1.3 adds: 150 sounds in 5 free preset packs (Synthwave, Dee…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - instruments",
+  "date": "2026-11-22",
+  "title": "Pointless Audio: Seven Plug-ins for €15 until 15 December",
+  "link": "https://www.kvraudio.com/news/pointless-audio-seven-plug-ins-for-15-until-15-december-70060?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70060",
+  "summary": "Until 15 December 2026, seven Pointless Audio plug-ins are in one bundle, Everything So Far, for €15: PortaTwin (cassette channel strip). SnakePit (tube channe…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - effets",
+  "date": "2026-11-22",
+  "title": "Signal Tools Co Releases Pro Knob Depth Bundle - Six Mixing Plugins (AU, AAX & VST3)",
+  "link": "https://www.kvraudio.com/news/signal-tools-co-releases-pro-knob-depth-bundle---six-mixing-plugins-au-aax-and-vst3-70026?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70026",
+  "summary": "Signal Tools Co has released the Pro Knob Depth Bundle , a collection of six audio effect plugins for mixing, each built around a single main control. It adds…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - effets",
+  "date": "2026-11-22",
+  "title": "Pointless Audio releases DriftBox Reverb Plugin (VST3, AU, CLAP & AAX)",
+  "link": "https://www.kvraudio.com/news/pointless-audio-releases-driftbox-reverb-plugin-vst3-au-clap-and-aax-70057?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70057",
+  "summary": "Pointless Audio has released DriftBox , a reverb built around one large control. DRIFT takes the tail from a short, tight room to a long, slowly growing space…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - effets",
+  "date": "2026-11-22",
+  "title": "Tonehus releases QuickClipper - free until December 1 (VST3, AU & AAX)",
+  "link": "https://www.kvraudio.com/news/tonehus-releases-quickclipper---free-until-december-1-vst3-au-and-aax-70050?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70050",
+  "summary": "Tonehus has released QuickClipper , a clipper plug-in for drums, buses and full mixes. It is free until December 1, 2026; after that the price is $39. QuickCli…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "avis",
+  "src": "Simon Willison (tests d'outils IA)",
+  "date": "2026-11-22",
+  "title": "Select Styling Specimens",
+  "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
+  "summary": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Bedroom Producers Blog",
+  "date": "2026-11-22",
+  "title": "fedDSP offers KAMI compressor pedal plugin FREE until December 2",
+  "link": "https://bedroomproducersblog.com/2026/11/22/feddsp-kami-free/",
+  "summary": "Developer fedDSP is offering KAMI, a compressor pedal plugin for macOS and Windows, free until December 2, 2026. The regular price is $39, but the launch offer…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Bedroom Producers Blog",
+  "date": "2026-11-22",
+  "title": "MrMoustache offers FREE Mr.Warmer and up to 50% off its analog-style plugins for Black Friday",
+  "link": "https://bedroomproducersblog.com/2026/11/22/mrmoustache-black-friday/",
+  "summary": "MrMoustache is offering 30% off its four paid mixing and mastering plugins for Black Friday, with a larger 50% discount available to newsletter subscribers unt…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Bedroom Producers Blog",
+  "date": "2026-11-22",
+  "title": "Mercurial Tones releases Siren, a FREE pitch correction plugin with a note editor",
+  "link": "https://bedroomproducersblog.com/2026/11/22/mercurial-tones-siren/",
+  "summary": "Mercurial Tones offers Siren, a free vocal pitch correction plugin with automatic tuning and a graphical note editor. I find it hard to believe how many free a…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Bedroom Producers Blog",
+  "date": "2026-11-22",
+  "title": "Pro Sound Effects offers Odyssey Collection: Design Elements FREE for a limited time",
+  "link": "https://bedroomproducersblog.com/2026/11/22/pro-sound-effects-odyssey-collection/",
+  "summary": "Pro Sound Effects is offering Odyssey Collection: Design Elements, a cinematic sound effects library normally priced at $149, for free with the code ODYSSEY26…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Ars Technica",
+  "date": "2026-11-22",
+  "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+  "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+  "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "The Verge - IA",
+  "date": "2026-11-22",
+  "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+  "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+  "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "The Verge - IA",
+  "date": "2026-11-22",
+  "title": "The vibe-coding revolution is coming to all the gadgets",
+  "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+  "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierc…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-23",
+  "title": "Les scènes de sexe de GTA 6 ont représenté un gros défi pour Rockstar",
+  "link": "https://www.numerama.com/pop-culture/2382249-les-scenes-de-sexe-de-gta-6-ont-represente-un-gros-defi-pour-rockstar.html",
+  "summary": "Dans GTA 6, on incarne un couple, Jason et Lucia, qui s'adonne parfois au plaisir de la chair. Mais, comme on peut le deviner, les scènes de sexe n'ont pas été…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-23",
+  "title": "Pourquoi des mini-jeux comme les fléchettes ont disparu de GTA 6 ?",
+  "link": "https://www.numerama.com/pop-culture/2382241-pourquoi-des-mini-jeux-comme-les-flechettes-ont-disparu-de-gta-6.html",
+  "summary": "Les fléchettes et le bowling, présents dans les précédents GTA, manquent à l'appel dans GTA 6. Le 19 novembre, Rockstar Games a expliqué pourquoi ces mini-jeux…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-22",
+  "title": "Grok dévoile l’entreprise que la CNIL n’avait pas nommée, Microsoft détaille sa panne géante, la Commission européenne piratée avec ARTEX : on vous raconte la…",
+  "link": "https://www.numerama.com/cyberguerre/2380113-grok-devoile-lentreprise-que-la-cnil-navait-pas-nommee-microsoft-detaille-sa-panne-geante-la-commission-europeenne-piratee-avec-artex-on-vous-raconte-la-semaine-cyberguerre.html",
+  "summary": "Trois actualités à retenir cette semaine dans le cyberespace, une sanction de la CNIL dont l’entreprise visée est restée anonyme moins d’une heure, la panne mo…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-22",
+  "title": "« Internet cessera de fonctionner sans explication » : attention, le service Quad9 coupe en France ce mardi, vérifiez si vous l’utilisez",
+  "link": "https://www.numerama.com/tech/2379931-internet-cessera-de-fonctionner-sans-explication-attention-le-service-quad9-coupe-en-france-ce-mardi-verifiez-si-vous-lutilisez.html",
+  "summary": "À partir du mardi 24 novembre 2026, le résolveur DNS gratuit Quad9 ne répondra plus aux internautes situés en France. Si vous l’avez configuré sur votre box, v…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-22",
+  "title": "C’est quoi Stryx AI, cette start-up française qui veut intercepter les drones ?",
+  "link": "https://www.numerama.com/tech/2379779-cest-quoi-stryx-ai-cette-start-up-francaise-qui-veut-intercepter-les-drones.html",
+  "summary": "Qu’est-ce que Stryx AI ? Une start-up française, fondée en 2025 par Armand Thiberge, le créateur de Brevo, qui conçoit des drones chargés d’en intercepter d’au…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Next.ink",
+  "date": "2026-11-23",
+  "title": "Près d’un Français sur deux habite à moins de 10 km d’un datacenter",
+  "link": "https://next.ink/268395/pres-dun-francais-sur-deux-habite-a-moins-de-10-km-dun-datacenter/",
+  "summary": "Les datacenters sont largement implantés en France, avec une moyenne d’âge de 15 ans selon l’Arcep. Ces voisins sont de moins en moins discrets, surtout avec l…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "YouTube",
+  "kind": "fait",
+  "src": "Creator Insider (YouTube : Creator Insider)",
+  "date": "2026-11-23",
+  "title": "November 22, 2026",
+  "link": "https://www.youtube.com/shorts/hoNwY5UEDPE",
+  "summary": "",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "GitHub (YouTube : GitHub)",
+  "date": "2026-11-22",
+  "title": "Beyond the prompt: building an AI that takes initiative",
+  "link": "https://www.youtube.com/watch?v=aLsIaslZ0Ik",
+  "summary": "When Cameron Hamilton asked his AI assistant, HALIE, to connect a nursery camera, it turned it into a baby monitor unprompted, and when asked to automate busin…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "GitHub (YouTube : GitHub)",
+  "date": "2026-11-22",
+  "title": "Why commercial open source companies shouldn't alienate their community",
+  "link": "https://www.youtube.com/shorts/dqdktM0KGBE",
+  "summary": "What happens when a commercial open source company changes its license and alienates its contributors? In this clip from The GitHub Podcast, Linux Foundation d…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "Two Minute Papers (YouTube : Two Minute Papers)",
+  "date": "2026-11-23",
+  "title": "Claude AI Solved The Secret Of Black Holes",
+  "link": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+  "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.anthropic.com/research/claude-bl…",
+  "at": "2026-11-23T08:57:09.234331+00:00"
  }
 ]
