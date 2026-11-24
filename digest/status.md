@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-24 10:51 UTC
+Run : 2026-11-24 12:44 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -8,67 +8,67 @@ Run : 2026-11-24 10:51 UTC
 | Blender - news | OK | 9 | 0 |
 | Blender - developers blog | OK | 10 | 0 |
 | LMMS - releases | OK | 10 | 0 |
-| ComfyUI - releases | OK | 10 | 1 |
-| OpenAI - news | OK | 1425 | 1 |
+| ComfyUI - releases | OK | 10 | 0 |
+| OpenAI - news | OK | 1425 | 0 |
 | Google - AI blog | OK | 20 | 0 |
-| Game Developer | OK | 50 | 1 |
-| Hacker News - front page | OK | 9 | 0 |
-| Forum Godot (top jour) | OK | 25 | 5 |
-| BlenderNation | OK | 10 | 3 |
+| Game Developer | OK | 50 | 0 |
+| Hacker News - front page | OK | 10 | 0 |
+| Forum Godot (top jour) | OK | 30 | 5 |
+| BlenderNation | OK | 10 | 0 |
 | 80 Level | OK | 10 | 0 |
-| GamesIndustry.biz | OK | 100 | 3 |
+| GamesIndustry.biz | OK | 100 | 2 |
 | YouTube - blog officiel | OK | 20 | 0 |
 | The Learning Scientists | OK | 20 | 0 |
-| KVR - top stories | OK | 30 | 1 |
-| KVR - instruments | OK | 30 | 5 |
-| KVR - effets | OK | 30 | 4 |
+| KVR - top stories | OK | 30 | 0 |
+| KVR - instruments | OK | 30 | 0 |
+| KVR - effets | OK | 30 | 0 |
 | Hugging Face - blog | OK | 916 | 0 |
-| Google DeepMind - blog | OK | 100 | 1 |
+| Google DeepMind - blog | OK | 100 | 0 |
 | GitHub - blog | OK | 10 | 0 |
 | GitHub - changelog | OK | 10 | 0 |
-| NVIDIA - developer blog | OK | 100 | 1 |
-| ComfyUI - blog | OK | 20 | 1 |
-| Simon Willison (tests d'outils IA) | OK | 30 | 4 |
-| Steam - news | OK | 10 | 2 |
+| NVIDIA - developer blog | OK | 100 | 0 |
+| ComfyUI - blog | OK | 20 | 0 |
+| Simon Willison (tests d'outils IA) | OK | 30 | 0 |
+| Steam - news | OK | 10 | 0 |
 | How To Market A Game | OK | 10 | 0 |
 | GameDiscoverCo | OK | 20 | 0 |
-| itch.io - blog | OK | 529 | 0 |
+| itch.io - blog | ERREUR : 429 Client Error: Too Many Requests for url: https://itch.io/blog.rss | 0 | 0 |
 | OBS - releases | OK | 10 | 0 |
 | Audacity - releases | OK | 10 | 0 |
 | WhisperX - releases | OK | 10 | 0 |
 | Krita - news | OK | 20 | 0 |
-| Blender - releases (GitHub mirror) | OK | 10 | 2 |
-| Bedroom Producers Blog | OK | 12 | 4 |
-| Rekkerd.org | OK | 100 | 1 |
+| Blender - releases (GitHub mirror) | OK | 10 | 0 |
+| Bedroom Producers Blog | OK | 12 | 0 |
+| Rekkerd.org | OK | 100 | 0 |
 | Ars Technica | OK | 20 | 2 |
-| The Verge - IA | OK | 10 | 5 |
-| Numerama | OK | 15 | 5 |
-| Next.ink | OK | 50 | 5 |
+| The Verge - IA | OK | 10 | 0 |
+| Numerama | OK | 15 | 0 |
+| Next.ink | OK | 50 | 1 |
 | Retrieval Practice | OK | 20 | 0 |
 | Scott H. Young | OK | 10 | 0 |
 | Cal Newport | OK | 8 | 0 |
 | Steamworks Development (annonces Valve) | OK | 10 | 0 |
 | Steam Labs | OK | 10 | 0 |
 | Anthropic (YouTube : Anthropic) | OK | 15 | 0 |
-| OpenAI (YouTube : OpenAI) | OK | 15 | 5 |
+| OpenAI (YouTube : OpenAI) | OK | 15 | 0 |
 | Google DeepMind (YouTube : Google DeepMind) | OK | 15 | 0 |
-| Google for Developers (YouTube : Google for Developers) | OK | 15 | 1 |
+| Google for Developers (YouTube : Google for Developers) | OK | 15 | 0 |
 | Godot Engine (YouTube : Godot Engine) | OK | 15 | 0 |
 | Blender (YouTube : Blender) | OK | 15 | 0 |
-| Creator Insider (YouTube : Creator Insider) | OK | 15 | 1 |
+| Creator Insider (YouTube : Creator Insider) | OK | 15 | 0 |
 | Google (YouTube : Google) | OK | 15 | 0 |
 | Meta AI (YouTube : AI at Meta) | OK | 15 | 0 |
 | NVIDIA (YouTube : NVIDIA) | OK | 15 | 1 |
-| NVIDIA Developer (YouTube : NVIDIA Developer) | OK | 15 | 2 |
+| NVIDIA Developer (YouTube : NVIDIA Developer) | OK | 15 | 0 |
 | Hugging Face (YouTube : Hugging Face) | OK | 15 | 0 |
-| GitHub (YouTube : GitHub) | OK | 15 | 2 |
+| GitHub (YouTube : GitHub) | OK | 15 | 0 |
 | Microsoft Developer (YouTube : Microsoft Developer) | OK | 15 | 0 |
 | Runway (YouTube : Runway) | OK | 15 | 0 |
-| Claude (YouTube : Claude) | OK | 15 | 3 |
-| ComfyUI (Comfy Org) (YouTube : ComfyUI) | OK | 15 | 1 |
+| Claude (YouTube : Claude) | OK | 15 | 0 |
+| ComfyUI (Comfy Org) (YouTube : ComfyUI) | OK | 15 | 0 |
 | Two Minute Papers (YouTube : Two Minute Papers) | OK | 15 | 0 |
 | How To Market A Game (YouTube : How To Market A Game) | OK | 15 | 0 |
-| Blender Studio (YouTube : Blender Studio) | OK | 15 | 1 |
+| Blender Studio (YouTube : Blender Studio) | OK | 15 | 0 |
 | Blackmagic Design (YouTube : Blackmagic Design) | OK | 15 | 0 |
 | GDC (YouTube : GDC) | OK | 15 | 0 |
 | YouTube Creators (YouTube : @youtubecreators) | OK | 15 | 0 |
