@@ -1,85 +1,5 @@
 [
  {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "KVR - top stories",
-  "date": "2026-11-23",
-  "title": "Tech Audio updates Shrapnel to v1.2 with local gravity, full-screen sandbox and new MSEG modes",
-  "link": "https://www.kvraudio.com/news/tech-audio-updates-shrapnel-to-v1-2-with-local-gravity-full-screen-sandbox-and-new-mseg-modes-70017?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70017",
-  "summary": "Tech Audio has updated Shrapnel , its physics-driven sampler and MIDI generator, to v1.2. New in v1.2: Local gravity: any collider can pull particles toward it…",
-  "at": "2026-11-23T10:57:29.882233+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "Rekkerd.org",
-  "date": "2026-11-23",
-  "title": "Triple Spiral Audio announces The Spirit of Winter for Soundbox",
-  "link": "https://rekkerd.org/triple-spiral-audio-announces-the-spirit-of-winter-for-soundbox/",
-  "summary": "Triple Spiral Audio has introduced its upcoming sound library for the free Soundbox player. Available to pre-order now, The Spirit of Winter brings 150 presets…",
-  "at": "2026-11-23T10:57:29.882233+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "Rekkerd.org",
-  "date": "2026-11-23",
-  "title": "Segment CPH updates Palora software synthesizer to v1.3",
-  "link": "https://rekkerd.org/segment-cph-updates-palora-software-synthesizer-to-v1-3/",
-  "summary": "Segment CPH has announced an update to its polyphonic synthesizer for Windows and macOS (VST3/AU and standalone). Version 1.3 of Palora adds 5 free preset pack…",
-  "at": "2026-11-23T10:57:29.882233+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Numerama",
-  "date": "2026-11-23",
-  "title": "« On fait ce qu’on peut avec les outils qu’on a » : Signal part en guerre contre deux agents IA d’Apple et Google",
-  "link": "https://www.numerama.com/cyberguerre/2382355-on-fait-ce-quon-peut-avec-les-outils-quon-a-signal-part-en-guerre-contre-deux-agents-ia-dapple-et-google.html",
-  "summary": "Sur iOS 27 et Android, Signal empêche désormais Siri AI et Gemini Intelligence de lire ce qui s'affiche dans l'application. La messagerie chiffrée estime que l…",
-  "at": "2026-11-23T10:57:29.882233+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Numerama",
-  "date": "2026-11-23",
-  "title": "Comment réparer sa voiture gratuitement dans GTA 6 ?",
-  "link": "https://www.numerama.com/pop-culture/2382343-comment-reparer-sa-voiture-gratuitement-dans-gta-6.html",
-  "summary": "Dans GTA 6, il existe une faille qui permet de réparer gratuitement sa voiture. Elle passe par les sauvegardes manuelles. Pourvu que Rockstar Games ne la corri…",
-  "at": "2026-11-23T10:57:29.882233+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Numerama",
-  "date": "2026-11-23",
-  "title": "« La superintelligence est en train d’arriver » : après Riemann, le patron de l’IA chez Meta appelle à ne pas lui céder les commandes",
-  "link": "https://www.numerama.com/tech/2382285-la-superintelligence-est-en-train-darriver-apres-riemann-le-patron-de-lia-chez-meta-appelle-a-ne-pas-lui-ceder-les-commandes.html",
-  "summary": "Pour Alexandr Wang, qui dirige l'IA chez Meta, la preuve de l'hypothèse de Riemann obtenue avec l'aide de Claude marque l'arrivée de la superintelligence. Il p…",
-  "at": "2026-11-23T10:57:29.882233+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Numerama",
-  "date": "2026-11-23",
-  "title": "GTA 6 sur PC : une version pirate dès aujourd’hui ?",
-  "link": "https://www.numerama.com/tech/2382377-gta-6-sur-pc-une-version-pirate-des-aujourdhui.html",
-  "summary": "Quatre jours après la publication d'une build Xbox de GTA 6 par Cyberleek, un projet open source baptisé Leonida affirme avoir préparé tout ce qu'il faut pour…",
-  "at": "2026-11-23T10:57:29.882233+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Numerama",
-  "date": "2026-11-23",
-  "title": "Anthropic : une panne est en cours sur les modèles de Claude",
-  "link": "https://www.numerama.com/tech/2382463-anthropic-une-panne-est-en-cours-sur-les-modeles-de-claude.html",
-  "summary": "Ce lundi 23 novembre 2026 vers 10h50, un taux d'erreurs anormal a commencé à affecter presque tous les modèles de Claude. Peu après, Anthropic a indiqué avoir…",
-  "at": "2026-11-23T10:57:29.882233+00:00"
- },
- {
   "cat": "Outils gratuits",
   "kind": "fait",
   "src": "BlenderNation",
@@ -1008,5 +928,45 @@
   "link": "https://www.youtube.com/watch?v=aAbtjH0-oQQ",
   "summary": "Red Hat CTO Chris Wright joins the NVIDIA AI Podcast at GTC Berlin to explain why open source is the foundation for secure AI agents. From Linux in the 1990s t…",
   "at": "2026-11-24T12:44:12.294489+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "80 Level",
+  "date": "2026-11-24",
+  "title": "Creating Game-Ready Fictional Military Vehicle In 3D",
+  "link": "https://80.lv/articles/creating-game-ready-fictional-military-vehicle-in-3d/",
+  "summary": "Ilya Curichenkow told us about the workflow behind XM-118 Onza 8x8 Fire Support Vehicle, an original vehicle concept featuring detailed interiors, a detachable…",
+  "at": "2026-11-24T14:14:35.328074+00:00"
+ },
+ {
+  "cat": "YouTube",
+  "kind": "fait",
+  "src": "YouTube - blog officiel",
+  "date": "2026-11-24",
+  "title": "YouTube celebrates the launch and cultural impact of Grand Theft Auto VI",
+  "link": "https://blog.youtube/news-and-events/youtube-rockstar-games-gta-vi-launch/",
+  "summary": "As the definitive destination for all GTAVI video content, YouTube introduces GTA-themed interactive features, 24-hour global livestream, and more.",
+  "at": "2026-11-24T14:14:35.328074+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Bedroom Producers Blog",
+  "date": "2026-11-24",
+  "title": "InnerMost47 releases GRM Guitar, a FREE physically modeled acoustic guitar for Windows and Linux",
+  "link": "https://bedroomproducersblog.com/2026/11/24/innermost47-grm-guitar/",
+  "summary": "Developer InnerMost47 has released GRM Guitar, a free physically modelled acoustic guitar for Windows and Linux. GRM Guitar is a free, open-source, physically…",
+  "at": "2026-11-24T14:14:35.328074+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "OpenAI (YouTube : OpenAI)",
+  "date": "2026-11-24",
+  "title": "Conheça o novíssimo ChatGPT Modo Voz.",
+  "link": "https://www.youtube.com/watch?v=5p8CdiQGqV4",
+  "summary": "De uma simples pergunta a uma tarefa resolvida. É só falar com o ChatGPT Modo Voz. Ele te escuta e faz com você.",
+  "at": "2026-11-24T14:14:35.328074+00:00"
  }
 ]
