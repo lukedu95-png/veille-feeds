@@ -1,5 +1,17 @@
-# Digest veille — 2026-11-25 09:37 UTC (collecté sur les dernières 26 h)
-151 nouveaux éléments · 71/71 flux OK (détail : digest/status.md)
+# Digest veille — 2026-11-25 09:40 UTC (collecté sur les dernières 26 h)
+161 nouveaux éléments · 72/72 flux OK (détail : digest/status.md)
+
+## Game jams & concours
+- [fait] itch.io - jams à venir · ? · **The MFG Gambler's Jam** — Hosted by augie , RetroCrow , Hack Club Starts in 2026-12-05T23:00:00Z Â· Lasts 7 days 2,458 joined Ranked <div class="f <https://itch.io/jam/the-mfg-gamblers-jam>
+- [fait] itch.io - jams à venir · ? · **GMTK Game Jam 2027** — Hosted by Game Maker's Toolkit Starts in 2027-08-11T17:00:00Z Â· Lasts 4 days 2,133 joined Ranked <div class="jam_cover" <https://itch.io/jam/gmtk-2027>
+- [fait] itch.io - jams à venir · ? · **Brackeys Game Jam 2027.1** — Hosted by Brackeys , Duxez , AquaXV , Yasahiro Starts in 2027-02-14T11:00:00Z Â· Lasts 7 days 844 joined <str <https://itch.io/jam/brackeys-17>
+- [fait] itch.io - jams à venir · ? · **OST Composing Jam NEWSLETTER** — Hosted by Lone Rabbit Starts in 2029-12-31T17:00:00Z Â· Lasts 10 years 751 joined <a <https://itch.io/jam/ostcompjam>
+- [fait] itch.io - jams à venir · ? · **Pixel Forge MEGA JAM | $30k Prizes + Cash !** — Hosted by PIXEL FORGE Starts in 2026-11-28T09:30:00Z Â· Lasts 10 days 584 joined Ranked <img loadin <https://itch.io/jam/pixel-forge-mega-jam>
+- [fait] itch.io - jams à venir · ? · **The Eye Jam III: Folk Horror** — Hosted by SeeOne Starts in 2026-12-03T18:30:00Z Â· Lasts 10 days 333 joined Ranked <img loading="laz <https://itch.io/jam/the-eye-jam3>
+- [fait] itch.io - jams à venir · ? · **Godot Wild Jam #100** — Hosted by Godot Wild Jam Starts in 2026-12-11T21:00:00Z Â· Lasts 9 days 308 joined Ranked <i <https://itch.io/jam/godot-wild-jam-100>
+- [fait] itch.io - jams à venir · ? · **3x3x3 Jam** — Hosted by Macrow Starts in 2026-11-30T22:00:00Z Â· Lasts 3 days 306 joined Ranked <img loading="l <https://itch.io/jam/3x3x3-jam>
+- [fait] itch.io - jams à venir · ? · **PROCJAM - The Procedural Generation Jam** — Hosted by PROCJAM Starts in 2026-12-04T23:59:59Z Â· Lasts 9 days 306 joined Featured <div class= <https://itch.io/jam/procjam>
+- [fait] itch.io - jams à venir · ? · **4 PAGE COMIC JAM 2027** — Hosted by MOC Starts in 2027-01-05T08:00:00Z Â· Lasts 31 days 290 joined <a href="/jam/slapj <https://itch.io/jam/4-page-comic-jam-2027>
 
 ## Jeu indé / marché
 - [fait] GamesIndustry.biz · 2026-11-24 · **Splitscreen Croatia conference offers free travel packages for developers looking to showcase unreleased games to publishers and investors** — Splitcreen Croatia, the new industry conference seeking to fill the gap left by Reboot Develop , has opened applications for its Official Selection showcase, w… <https://www.gamesindustry.biz/splitscreen-croatia-conference-offers-free-travel-packages-for-developers-looking-to-showcase-unreleased-games-to-publishers-and-investors>

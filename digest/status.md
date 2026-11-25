@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-25 09:37 UTC
+Run : 2026-11-25 09:40 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -15,7 +15,7 @@ Run : 2026-11-25 09:37 UTC
 | Hacker News - front page | OK | 5 | 0 |
 | Forum Godot (top jour) | OK | 17 | 0 |
 | BlenderNation | OK | 10 | 0 |
-| 80 Level | OK | 10 | 1 |
+| 80 Level | OK | 10 | 0 |
 | GamesIndustry.biz | OK | 100 | 0 |
 | YouTube - blog officiel | OK | 20 | 0 |
 | The Learning Scientists | OK | 20 | 0 |
@@ -74,3 +74,4 @@ Run : 2026-11-25 09:37 UTC
 | YouTube Creators (YouTube : @youtubecreators) | OK | 15 | 0 |
 | Updates From YouTube (YouTube : Updates From YouTube) | OK | 15 | 0 |
 | YouTube Insider (YouTube : YouTube Insider) | OK | 1 | 0 |
+| itch.io - jams à venir | OK | 51 | 10 |
