@@ -6,6 +6,11 @@ on:
     # Les runs en trop ne coûtent rien (le script ne garde que les nouveautés).
     # Heures en UTC : à Paris, +1 h l'hiver, +2 h l'été. Le dernier créneau
     # reste avant la veille de 6h30 dans les deux cas.
+    # Constaté fin nov. 2026 : GitHub lance ces runs avec 7 à 11 h de retard.
+    # Les créneaux du soir servent de filet pour que le digest soit prêt à 6h30.
+    - cron: "7 16 * * *"   # 17h07 hiver / 18h07 été
+    - cron: "23 19 * * *"  # 20h23 hiver / 21h23 été
+    - cron: "37 22 * * *"  # 23h37 hiver / 0h37 été
     - cron: "7 1 * * *"    # 2h07 hiver / 3h07 été
     - cron: "23 2 * * *"   # 3h23 hiver / 4h23 été
     - cron: "37 3 * * *"   # 4h37 hiver / 5h37 été
