@@ -1,4 +1,4 @@
-# Digest veille — 2026-11-25 09:40 UTC (collecté sur les dernières 26 h)
+# Digest veille — 2026-11-25 09:42 UTC (collecté sur les dernières 26 h)
 161 nouveaux éléments · 72/72 flux OK (détail : digest/status.md)
 
 ## Game jams & concours
