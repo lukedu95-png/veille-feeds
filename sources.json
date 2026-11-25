@@ -1,5 +1,5 @@
 {
-  "_note": "Flux suivis par la veille. 'kind' = fait (source officielle) ou avis (communauté). Les URLs non vérifiées sont testées à chaque run : voir digest/status.md. Reddit bloque les serveurs GitHub (erreurs 404/429) : les avis Reddit passent par la recherche web de la veille. itch.io n'a pas de flux pour les jams : la veille consulte itch.io/jams/upcoming par recherche web. SteamDB bloque les serveurs GitHub (403).",
+  "_note": "Flux suivis par la veille. 'kind' = fait (source officielle) ou avis (communauté). Les URLs non vérifiées sont testées à chaque run : voir digest/status.md. Reddit bloque les serveurs GitHub (erreurs 404/429) : les avis Reddit passent par la recherche web de la veille. itch.io n'a pas de flux pour les jams : le collecteur lit la page itch.io/jams/upcoming directement. SteamDB bloque les serveurs GitHub (403).",
   "rss": [
     {
       "name": "Godot - blog",
@@ -444,7 +444,7 @@
     }
   ],
   "limits": {
-    "max_items_per_feed": 5,
+    "max_items_per_feed": 3,
     "summary_chars": 160,
     "seen_keep_days": 90
   },
@@ -600,5 +600,13 @@
       "editing",
       "update"
     ]
-  }
+  },
+  "itch_jams": [
+    {
+      "name": "itch.io - jams à venir",
+      "cat": "Game jams & concours",
+      "url": "https://itch.io/jams/upcoming",
+      "max_items": 10
+    }
+  ]
 }

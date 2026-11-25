@@ -80,6 +80,25 @@ def fetch(url, tries=3):
     return feed
 
 
+def fetch_itch_jams(url, sum_chars):
+    """Page HTML des jams itch.io -> entrées au format flux (id, titre, lien, résumé)."""
+    r = requests.get(url, headers={"User-Agent": UA}, timeout=25)
+    r.raise_for_status()
+    t = r.text
+    entries, done = [], set()
+    for m in re.finditer(r'<a[^>]*href="(/jam/[^"#?]+)"[^>]*>([^<]{2,120})</a>', t):
+        path, title = m.group(1), html.unescape(m.group(2)).strip()
+        if path in done or not title:
+            continue
+        done.add(path)
+        ctx = clean(t[m.end(): m.end() + 900], sum_chars)  # dates, nb d'inscrits…
+        entries.append({"id": "https://itch.io" + path, "link": "https://itch.io" + path,
+                        "title": title, "summary": ctx})
+    if not entries:
+        raise ValueError("aucune jam trouvée (structure de page changée ?)")
+    return entries
+
+
 def main():
     cfg = load_json(ROOT / "sources.json", {})
     lim = cfg.get("limits", {})
@@ -94,6 +113,7 @@ def main():
 
     jobs = [dict(s, type="rss") for s in cfg.get("rss", [])]
     jobs += [dict(s, type="youtube", kind="fait") for s in cfg.get("youtube", [])]
+    jobs += [dict(s, type="itch_jams", kind="fait") for s in cfg.get("itch_jams", [])]
 
     items, status = [], []
     for s in jobs:
@@ -108,9 +128,12 @@ def main():
                 url = f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
             else:
                 url = s["url"]
-            feed = fetch(url)
+            if s["type"] == "itch_jams":
+                entries = fetch_itch_jams(s["url"], sum_chars)
+            else:
+                entries = fetch(url).entries
             new = 0
-            for e in feed.entries:
+            for e in entries:
                 key = e.get("id") or e.get("link")
                 d = entry_date(e)
                 if not key or key in seen or (d and d < since):
@@ -125,7 +148,7 @@ def main():
                         seen[key] = NOW.isoformat()
                         continue
                 seen[key] = NOW.isoformat()
-                if new >= max_items:
+                if new >= s.get("max_items", max_items):
                     continue  # marqué vu, mais pas affiché : évite d'inonder le digest
                 new += 1
                 summary = e.get("summary") or (e.get("media_description") if s["type"] == "youtube" else "")
@@ -135,7 +158,7 @@ def main():
                     "title": clean(e.get("title"), 160), "link": e.get("link", ""),
                     "summary": clean(summary, sum_chars),
                 })
-            status.append((label, "OK", len(feed.entries), new))
+            status.append((label, "OK", len(entries), new))
         except Exception as exc:  # un flux cassé ne doit pas bloquer les autres
             status.append((label, f"ERREUR : {clean(str(exc), 120)}", 0, 0))
 
