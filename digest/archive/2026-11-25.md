@@ -1,5 +1,5 @@
-# Digest veille — 2026-11-25 09:22 UTC (collecté sur les dernières 26 h)
-150 nouveaux éléments · 71/71 flux OK (détail : digest/status.md)
+# Digest veille — 2026-11-25 09:37 UTC (collecté sur les dernières 26 h)
+151 nouveaux éléments · 71/71 flux OK (détail : digest/status.md)
 
 ## Jeu indé / marché
 - [fait] GamesIndustry.biz · 2026-11-24 · **Splitscreen Croatia conference offers free travel packages for developers looking to showcase unreleased games to publishers and investors** — Splitcreen Croatia, the new industry conference seeking to fill the gap left by Reboot Develop , has opened applications for its Official Selection showcase, w… <https://www.gamesindustry.biz/splitscreen-croatia-conference-offers-free-travel-packages-for-developers-looking-to-showcase-unreleased-games-to-publishers-and-investors>
@@ -90,6 +90,7 @@
 
 ## Outils gratuits
 - [fait] BlenderNation · 2026-11-25 · **Blender Studio is looking for a heavy metal track for Cowboi** — Blender Studio is looking for a hard rock or heavy metal band or composer to create an instrumental track for its upcoming open movie Cowboi. Source <https://www.blendernation.com/2026/11/25/blender-studio-is-looking-for-a-heavy-metal-track-for-cowboi/>
+- [fait] 80 Level · 2026-11-25 · **Implementing Dynamic Windscreen Frost Effect In Godot** — In Semaphore, you are both the driver and conductor of a night train. <https://80.lv/articles/implementing-dynamic-windscreen-frost-effect-in-godot/>
 - [fait] BlenderNation · 2026-11-24 · **Warbird P47 Thunderbolt – From Model to Render** — Richard Yot released Warbird P47 Thunderbolt – From Model to Render, a 5.5-hour Blender course that takes you through one complete project: from modelling a WW… <https://www.blendernation.com/2026/11/24/warbird-p47-thunderbolt-from-model-to-render/>
 - [fait] 80 Level · 2026-11-24 · **Creating Game-Ready Fictional Military Vehicle In 3D** — Ilya Curichenkow told us about the workflow behind XM-118 Onza 8x8 Fire Support Vehicle, an original vehicle concept featuring detailed interiors, a detachable… <https://80.lv/articles/creating-game-ready-fictional-military-vehicle-in-3d/>
 - [fait] BlenderNation · 2026-11-24 · **Blender on Tablet: the plan for a first release** — Blender HQ held a week-long workshop in Amsterdam to plan how Blender gets onto tablets, and the Blender developers have shared the plan: daily tablet builds,… <https://www.blendernation.com/2026/11/24/blender-on-tablet-the-plan-for-a-first-release/>

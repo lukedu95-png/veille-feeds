@@ -1498,5 +1498,15 @@
   "link": "https://www.youtube.com/watch?v=xiCxwrGKdzQ",
   "summary": "Join Comfy’s Purz, Doug Hogan, and Chris Vespaziani for a live model jam with Genie 4, Google DeepMind’s newest world model, which we’ll be running through Com…",
   "at": "2026-11-25T09:22:45.998503+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "80 Level",
+  "date": "2026-11-25",
+  "title": "Implementing Dynamic Windscreen Frost Effect In Godot",
+  "link": "https://80.lv/articles/implementing-dynamic-windscreen-frost-effect-in-godot/",
+  "summary": "In Semaphore, you are both the driver and conductor of a night train.",
+  "at": "2026-11-25T09:37:31.791489+00:00"
  }
 ]
