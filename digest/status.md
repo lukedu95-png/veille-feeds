@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-25 09:42 UTC
+Run : 2026-11-25 09:46 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -42,7 +42,7 @@ Run : 2026-11-25 09:42 UTC
 | Rekkerd.org | OK | 100 | 0 |
 | Ars Technica | OK | 20 | 0 |
 | The Verge - IA | OK | 10 | 0 |
-| Numerama | OK | 15 | 0 |
+| Numerama | OK | 15 | 1 |
 | Next.ink | OK | 50 | 0 |
 | Retrieval Practice | OK | 20 | 0 |
 | Scott H. Young | OK | 10 | 0 |
