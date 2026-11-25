@@ -1,5 +1,5 @@
-# Digest veille — 2026-11-25 09:46 UTC (collecté sur les dernières 26 h)
-162 nouveaux éléments · 72/72 flux OK (détail : digest/status.md)
+# Digest veille — 2026-11-25 11:30 UTC (collecté sur les dernières 26 h)
+164 nouveaux éléments · 72/72 flux OK (détail : digest/status.md)
 
 ## Game jams & concours
 - [fait] itch.io - jams à venir · ? · **The MFG Gambler's Jam** — Hosted by augie , RetroCrow , Hack Club Starts in 2026-12-05T23:00:00Z Â· Lasts 7 days 2,458 joined Ranked <div class="f <https://itch.io/jam/the-mfg-gamblers-jam>
@@ -58,6 +58,8 @@
 
 ## Opportunités IA
 - [fait] NVIDIA Developer (YouTube : NVIDIA Developer) · 2026-11-25 · **JAX on GPU w/ Google Cloud** — How do you take a JAX workload from a NumPy prototype to training across multiple NVIDIA GPUs? Join Google Cloud AI Engineer Ivan Nardini and NVIDIA Developer… <https://www.youtube.com/watch?v=StEoOVLOIEc>
+- [fait] Hugging Face - blog · 2026-11-25 · **An Indic Voice Agent with CUGA** —  <https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga>
+- [fait] Two Minute Papers (YouTube : Two Minute Papers) · 2026-11-25 · **Claude AI’s Biggest Math Breakthrough Has A Problem.** — ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://nasqret.github.io/riemann-rev/guide/… <https://www.youtube.com/watch?v=hwWlEuI359w>
 - [avis] Simon Willison (tests d'outils IA) · 2026-11-24 · **datasette-charts 0.2a0** — Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you… <https://simonwillison.net/2026/Nov/24/datasette-charts/>
 - [avis] Simon Willison (tests d'outils IA) · 2026-11-24 · **datasette-agent 0.7a1** — Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to differ… <https://simonwillison.net/2026/Nov/24/datasette-agent/>
 - [fait] OpenAI (YouTube : OpenAI) · 2026-11-24 · **Waiting for a better price on that gift? Use ChatGPT.** — Try it yourself 👉 Check the price of this item every day and let me know when it drops. Include the old price, new price, and a link to the offer. <https://www.youtube.com/shorts/asUuxCqj0GE>
