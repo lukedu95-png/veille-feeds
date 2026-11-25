@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-25 11:30 UTC
+Run : 2026-11-25 13:27 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -12,17 +12,17 @@ Run : 2026-11-25 11:30 UTC
 | OpenAI - news | OK | 1430 | 0 |
 | Google - AI blog | OK | 20 | 0 |
 | Game Developer | OK | 50 | 0 |
-| Hacker News - front page | OK | 6 | 0 |
-| Forum Godot (top jour) | OK | 8 | 0 |
-| BlenderNation | OK | 10 | 0 |
-| 80 Level | OK | 10 | 0 |
-| GamesIndustry.biz | OK | 100 | 0 |
+| Hacker News - front page | OK | 7 | 0 |
+| Forum Godot (top jour) | OK | 7 | 0 |
+| BlenderNation | OK | 10 | 1 |
+| 80 Level | OK | 10 | 1 |
+| GamesIndustry.biz | OK | 100 | 1 |
 | YouTube - blog officiel | OK | 20 | 0 |
 | The Learning Scientists | OK | 20 | 0 |
 | KVR - top stories | OK | 30 | 0 |
 | KVR - instruments | OK | 30 | 0 |
 | KVR - effets | OK | 30 | 0 |
-| Hugging Face - blog | OK | 916 | 1 |
+| Hugging Face - blog | OK | 916 | 0 |
 | Google DeepMind - blog | OK | 100 | 0 |
 | GitHub - blog | OK | 10 | 0 |
 | GitHub - changelog | OK | 10 | 0 |
@@ -40,9 +40,9 @@ Run : 2026-11-25 11:30 UTC
 | Blender - releases (GitHub mirror) | OK | 10 | 0 |
 | Bedroom Producers Blog | OK | 12 | 0 |
 | Rekkerd.org | OK | 100 | 0 |
-| Ars Technica | OK | 20 | 0 |
-| The Verge - IA | OK | 10 | 0 |
-| Numerama | OK | 15 | 0 |
+| Ars Technica | OK | 20 | 1 |
+| The Verge - IA | OK | 10 | 1 |
+| Numerama | OK | 15 | 1 |
 | Next.ink | OK | 50 | 0 |
 | Retrieval Practice | OK | 20 | 0 |
 | Scott H. Young | OK | 10 | 0 |
@@ -66,7 +66,7 @@ Run : 2026-11-25 11:30 UTC
 | Runway (YouTube : Runway) | OK | 15 | 0 |
 | Claude (YouTube : Claude) | OK | 15 | 0 |
 | ComfyUI (Comfy Org) (YouTube : ComfyUI) | OK | 15 | 0 |
-| Two Minute Papers (YouTube : Two Minute Papers) | OK | 15 | 1 |
+| Two Minute Papers (YouTube : Two Minute Papers) | OK | 15 | 0 |
 | How To Market A Game (YouTube : How To Market A Game) | OK | 15 | 0 |
 | Blender Studio (YouTube : Blender Studio) | OK | 15 | 0 |
 | Blackmagic Design (YouTube : Blackmagic Design) | OK | 15 | 0 |
