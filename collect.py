@@ -84,6 +84,7 @@ def fetch_itch_jams(url, sum_chars):
     """Page HTML des jams itch.io -> entrées au format flux (id, titre, lien, résumé)."""
     r = requests.get(url, headers={"User-Agent": UA}, timeout=25)
     r.raise_for_status()
+    r.encoding = "utf-8"
     t = r.text
     entries, done = [], set()
     for m in re.finditer(r'<a[^>]*href="(/jam/[^"#?]+)"[^>]*>([^<]{2,120})</a>', t):
@@ -91,7 +92,8 @@ def fetch_itch_jams(url, sum_chars):
         if path in done or not title:
             continue
         done.add(path)
-        ctx = clean(t[m.end(): m.end() + 900], sum_chars)  # dates, nb d'inscrits…
+        raw = re.sub(r"<[^>]*$", "", t[m.end(): m.end() + 900])  # coupe une balise tronquée
+        ctx = clean(raw, sum_chars)  # dates, nb d'inscrits…
         entries.append({"id": "https://itch.io" + path, "link": "https://itch.io" + path,
                         "title": title, "summary": ctx})
     if not entries:
