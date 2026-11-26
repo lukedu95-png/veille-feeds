@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-26 04:20 UTC
+Run : 2026-11-26 09:28 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -12,23 +12,23 @@ Run : 2026-11-26 04:20 UTC
 | OpenAI - news | OK | 1430 | 0 |
 | Google - AI blog | OK | 20 | 0 |
 | Game Developer | OK | 50 | 0 |
-| Hacker News - front page | OK | 6 | 0 |
-| Forum Godot (top jour) | OK | 6 | 0 |
-| BlenderNation | OK | 10 | 0 |
+| Hacker News - front page | OK | 5 | 0 |
+| Forum Godot (top jour) | OK | 6 | 1 |
+| BlenderNation | OK | 10 | 1 |
 | 80 Level | OK | 10 | 0 |
 | GamesIndustry.biz | OK | 100 | 0 |
 | YouTube - blog officiel | OK | 20 | 0 |
 | The Learning Scientists | OK | 20 | 0 |
 | KVR - top stories | OK | 30 | 0 |
-| KVR - instruments | OK | 30 | 0 |
-| KVR - effets | OK | 30 | 0 |
+| KVR - instruments | OK | 30 | 1 |
+| KVR - effets | OK | 30 | 1 |
 | Hugging Face - blog | OK | 917 | 0 |
 | Google DeepMind - blog | OK | 100 | 0 |
 | GitHub - blog | OK | 10 | 0 |
 | GitHub - changelog | OK | 10 | 0 |
 | NVIDIA - developer blog | OK | 100 | 0 |
 | ComfyUI - blog | OK | 20 | 0 |
-| Simon Willison (tests d'outils IA) | OK | 30 | 0 |
+| Simon Willison (tests d'outils IA) | OK | 30 | 1 |
 | Steam - news | OK | 10 | 0 |
 | How To Market A Game | OK | 10 | 0 |
 | GameDiscoverCo | OK | 20 | 0 |
@@ -42,8 +42,8 @@ Run : 2026-11-26 04:20 UTC
 | Rekkerd.org | OK | 100 | 0 |
 | Ars Technica | OK | 20 | 0 |
 | The Verge - IA | OK | 10 | 0 |
-| Numerama | OK | 15 | 0 |
-| Next.ink | OK | 50 | 0 |
+| Numerama | OK | 15 | 1 |
+| Next.ink | OK | 50 | 2 |
 | Retrieval Practice | OK | 20 | 0 |
 | Scott H. Young | OK | 10 | 0 |
 | Cal Newport | OK | 8 | 0 |
@@ -59,13 +59,13 @@ Run : 2026-11-26 04:20 UTC
 | Google (YouTube : Google) | OK | 15 | 0 |
 | Meta AI (YouTube : AI at Meta) | OK | 15 | 0 |
 | NVIDIA (YouTube : NVIDIA) | OK | 15 | 0 |
-| NVIDIA Developer (YouTube : NVIDIA Developer) | OK | 15 | 1 |
+| NVIDIA Developer (YouTube : NVIDIA Developer) | OK | 15 | 0 |
 | Hugging Face (YouTube : Hugging Face) | OK | 15 | 0 |
 | GitHub (YouTube : GitHub) | OK | 15 | 0 |
 | Microsoft Developer (YouTube : Microsoft Developer) | OK | 15 | 0 |
 | Runway (YouTube : Runway) | OK | 15 | 0 |
 | Claude (YouTube : Claude) | OK | 15 | 0 |
-| ComfyUI (Comfy Org) (YouTube : ComfyUI) | OK | 15 | 0 |
+| ComfyUI (Comfy Org) (YouTube : ComfyUI) | OK | 15 | 1 |
 | Two Minute Papers (YouTube : Two Minute Papers) | OK | 15 | 0 |
 | How To Market A Game (YouTube : How To Market A Game) | OK | 15 | 0 |
 | Blender Studio (YouTube : Blender Studio) | OK | 15 | 0 |

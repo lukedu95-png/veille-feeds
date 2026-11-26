@@ -1228,5 +1228,95 @@
   "link": "https://www.youtube.com/watch?v=A94A2hccFoM",
   "summary": "CUDA 13.5 brings NVIDIA Vera Rubin support to general availability and extends Windows on Arm support to NVIDIA DGX Station for Windows. Join the CUDA team for…",
   "at": "2026-11-26T04:20:34.019740+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-26",
+  "title": "What would it take to get to this level on Godot?",
+  "link": "https://forum.godotengine.org/t/what-would-it-take-to-get-to-this-level-on-godot/147801",
+  "summary": "To all you talented people who have ideas, I’d love to hear your thoughts. Niagara MCP (AI-Assisted VFX) in Unreal Engine 5.9 | Course Teaser 2 posts - 2 parti…",
+  "at": "2026-11-26T09:28:05.940224+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "BlenderNation",
+  "date": "2026-11-26",
+  "title": "Ensō Engine 1.1: a free Blender build for anime and NPR",
+  "link": "https://www.blendernation.com/2026/11/26/enso-engine-1-1-a-free-blender-build-for-anime-and-npr/",
+  "summary": "Mix 3D Design released Ens? Engine 1.1, a free and open source build of Blender made for anime and non-photorealistic work. Source",
+  "at": "2026-11-26T09:28:05.940224+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - instruments",
+  "date": "2026-11-26",
+  "title": "Kaito Sato updates IMFMSynth 8-Operator FM/Wavetable Synthesizer to v1.2.0",
+  "link": "https://www.kvraudio.com/news/kaito-sato-updates-imfmsynth-8-operator-fm-wavetable-synthesizer-to-v1-2-0-70166?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70166",
+  "summary": "Kaito Sato has updated IMFMSynth , the 8-operator FM/wavetable synthesizer, to version 1.2.0. Instruments from .sf2 / .sf3 (SoundFont-compatible) files can now…",
+  "at": "2026-11-26T09:28:05.940224+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - effets",
+  "date": "2026-11-26",
+  "title": "Intrect updates de-artifact to 0.4.25 with AAX for Pro Tools on Windows",
+  "link": "https://www.kvraudio.com/news/intrect-updates-de-artifact-to-0-4-25-with-aax-for-pro-tools-on-windows-70187?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70187",
+  "summary": "Intrect has updated de-artifact , its restoration plug-in for AI-generated music and separated stems, to 0.4.25, adding an AAX version for Pro Tools on Windows…",
+  "at": "2026-11-26T09:28:05.940224+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "avis",
+  "src": "Simon Willison (tests d'outils IA)",
+  "date": "2026-11-26",
+  "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+  "link": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+  "summary": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47…",
+  "at": "2026-11-26T09:28:05.940224+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-26",
+  "title": "Ce que disent les paramètres graphiques de GTA 6 sur PS5 et Xbox",
+  "link": "https://www.numerama.com/pop-culture/2385115-ce-que-disent-les-parametres-graphiques-de-gta-6-sur-ps5-et-xbox.html",
+  "summary": "Un dataminer a révélé les paramètres graphiques de GTA 6, choisis par Rockstar Games sur les différentes consoles. Déjà très détaillé sur console, le jeu garde…",
+  "at": "2026-11-26T09:28:05.940224+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Next.ink",
+  "date": "2026-11-26",
+  "title": "Alerte sur les sites GenAI disponible sur Safari et recense 20 000 sites aux contenus IA",
+  "link": "https://next.ink/260035/alerte-sur-les-sites-genai-disponible-sur-safari-et-recense-20-000-sites-aux-contenus-ia/",
+  "summary": "Notre extension Alerte sur les sites d’infos générés par IA (GenAI) passe en version 3.1 et débarque sur Safari pour les Mac, avec d’autres nouveautés à la clé…",
+  "at": "2026-11-26T09:28:05.940224+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Next.ink",
+  "date": "2026-11-26",
+  "title": "Claude sait maintenant produire des applications à partir d’artefacts",
+  "link": "https://next.ink/270124/claude-sait-maintenant-produire-des-applications-a-partir-dartefacts/",
+  "summary": "Dans un élan ressemblant à celui des Progressive Web Apps en son temps, Claude peut maintenant produire des applications à partir des artefacts, sur Windows et…",
+  "at": "2026-11-26T09:28:05.940224+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "fait",
+  "src": "ComfyUI (Comfy Org) (YouTube : ComfyUI)",
+  "date": "2026-11-26",
+  "title": "Build With Us: Live Game Jam #3",
+  "link": "https://www.youtube.com/watch?v=Oqye03ZlXME",
+  "summary": "The best creative tools shouldn't live behind a closed door. Join Comfy's Matt Miller and Deep Mehta as they build a game live, from a blank canvas to somethin…",
+  "at": "2026-11-26T09:28:05.940224+00:00"
  }
 ]
