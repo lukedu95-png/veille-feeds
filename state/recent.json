@@ -1198,5 +1198,25 @@
   "link": "https://itch.io/jam/kolide-jam-2026",
   "summary": "Hosted by Kolide Studio Starts in 2026-12-10T16:00:00Z · Lasts 2 days 42 joined Ranked Next",
   "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-26",
+  "title": "How to properly set up for non-pixelart game a.k.a. eliminate blurry or jagged art and textures",
+  "link": "https://forum.godotengine.org/t/how-to-properly-set-up-for-non-pixelart-game-a-k-a-eliminate-blurry-or-jagged-art-and-textures/147798",
+  "summary": "Godot Version 4.8 Question Hiyya! For non -pixelart 2d games, such as hand drawn textures or lineart based games… what is the route to take? Is there somewhere…",
+  "at": "2026-11-26T02:17:51.900702+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "NVIDIA Developer (YouTube : NVIDIA Developer)",
+  "date": "2026-11-26",
+  "title": "Dev Community Live Agent Gauntlet at GTC DC",
+  "link": "https://www.youtube.com/watch?v=Yxu4mipMqwc",
+  "summary": "Developers built the agents. Now watch them take on the GAUNTLET. The NVIDIA Developer Live Agent Gauntlet comes to GTC Washington, D.C., where developers buil…",
+  "at": "2026-11-26T02:17:51.900702+00:00"
  }
 ]

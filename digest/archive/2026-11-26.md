@@ -1,5 +1,5 @@
-# Digest veille — 2026-11-26 00:16 UTC (collecté sur les dernières 26 h)
-120 nouveaux éléments · 72/72 flux OK (détail : digest/status.md)
+# Digest veille — 2026-11-26 02:17 UTC (collecté sur les dernières 26 h)
+122 nouveaux éléments · 72/72 flux OK (détail : digest/status.md)
 
 ## Game jams & concours
 - [fait] itch.io - jams à venir · ? · **The MFG Gambler's Jam** — Hosted by augie , RetroCrow , Hack Club Starts in 2026-12-05T23:00:00Z Â· Lasts 7 days 2,458 joined Ranked <div class="f <https://itch.io/jam/the-mfg-gamblers-jam>
@@ -45,6 +45,7 @@
 - [fait] Rekkerd.org · 2026-11-24 · **Loopmasters announces Black Friday sale with sample discounts and Loopcloud subscription offers** — Loopmasters has announced its upcoming 2026 Black Friday sale, with 50% off sitewide, exclusive sample bundles, and a free sample pack with purchases of £20 GB… <https://rekkerd.org/loopmasters-announces-black-friday-sale-with-sample-discounts-and-loopcloud-subscription-offers/>
 
 ## Opportunités IA
+- [fait] NVIDIA Developer (YouTube : NVIDIA Developer) · 2026-11-26 · **Dev Community Live Agent Gauntlet at GTC DC** — Developers built the agents. Now watch them take on the GAUNTLET. The NVIDIA Developer Live Agent Gauntlet comes to GTC Washington, D.C., where developers buil… <https://www.youtube.com/watch?v=Yxu4mipMqwc>
 - [fait] NVIDIA Developer (YouTube : NVIDIA Developer) · 2026-11-25 · **JAX on GPU w/ Google Cloud** — How do you take a JAX workload from a NumPy prototype to training across multiple NVIDIA GPUs? Join Google Cloud AI Engineer Ivan Nardini and NVIDIA Developer… <https://www.youtube.com/watch?v=StEoOVLOIEc>
 - [fait] Hugging Face - blog · 2026-11-25 · **An Indic Voice Agent with CUGA** —  <https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga>
 - [fait] Two Minute Papers (YouTube : Two Minute Papers) · 2026-11-25 · **Claude AI’s Biggest Math Breakthrough Has A Problem.** — ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://nasqret.github.io/riemann-rev/guide/… <https://www.youtube.com/watch?v=hwWlEuI359w>
@@ -120,6 +121,7 @@
 - [fait] Next.ink · 2026-11-24 · **☕️ Avec Claude Ship, Anthropic s’attaque à la correction automatique des pull requests** — Anthropic a annoncé ce 23 novembre un nouvel outil dans sa flotte de services Claude : Ship. Il est chargé de prendre en charge ce qui se passe après l’ouvertu… <https://next.ink/brief-article/avec-claude-ship-anthropic-sattaque-a-la-correction-automatique-des-pull-requests/>
 
 ## Risques outils
+- [avis] Forum Godot (top jour) · 2026-11-26 · **How to properly set up for non-pixelart game a.k.a. eliminate blurry or jagged art and textures** — Godot Version 4.8 Question Hiyya! For non -pixelart 2d games, such as hand drawn textures or lineart based games… what is the route to take? Is there somewhere… <https://forum.godotengine.org/t/how-to-properly-set-up-for-non-pixelart-game-a-k-a-eliminate-blurry-or-jagged-art-and-textures/147798>
 - [avis] Forum Godot (top jour) · 2026-11-25 · **Tool Functions Through Animation Player** — Godot Version 4.7.2 Question Is there any way to call a function in editor through a animation player? I am using an Animation Player to control the spawning o… <https://forum.godotengine.org/t/tool-functions-through-animation-player/147784>
 - [fait] ComfyUI (Comfy Org) (YouTube : ComfyUI) · 2026-11-25 · **World Model Jam: Genie 4** — Join Comfy’s Purz, Doug Hogan, and Chris Vespaziani for a live model jam with Genie 4, Google DeepMind’s newest world model, which we’ll be running through Com… <https://www.youtube.com/watch?v=xiCxwrGKdzQ>
 - [avis] Forum Godot (top jour) · 2026-11-25 · **Godot 3(not 4)pick up and use items** — Godot Version Godot 3 .2.3 stable Question (A) you are walking across a platform you find a gun on the ground you pick it attach it to the player then using a… <https://forum.godotengine.org/t/godot-3-not-4-pick-up-and-use-items/147795>
