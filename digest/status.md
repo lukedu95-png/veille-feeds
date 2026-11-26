@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-26 11:12 UTC
+Run : 2026-11-26 13:06 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -12,17 +12,17 @@ Run : 2026-11-26 11:12 UTC
 | OpenAI - news | OK | 1430 | 0 |
 | Google - AI blog | OK | 20 | 0 |
 | Game Developer | OK | 50 | 0 |
-| Hacker News - front page | OK | 6 | 0 |
-| Forum Godot (top jour) | OK | 6 | 0 |
+| Hacker News - front page | OK | 7 | 0 |
+| Forum Godot (top jour) | OK | 7 | 1 |
 | BlenderNation | OK | 10 | 0 |
-| 80 Level | OK | 10 | 0 |
+| 80 Level | OK | 10 | 1 |
 | GamesIndustry.biz | OK | 100 | 1 |
 | YouTube - blog officiel | OK | 20 | 0 |
 | The Learning Scientists | OK | 20 | 0 |
-| KVR - top stories | OK | 30 | 0 |
+| KVR - top stories | OK | 30 | 1 |
 | KVR - instruments | OK | 30 | 0 |
-| KVR - effets | OK | 30 | 1 |
-| Hugging Face - blog | OK | 917 | 0 |
+| KVR - effets | OK | 30 | 0 |
+| Hugging Face - blog | OK | 918 | 1 |
 | Google DeepMind - blog | OK | 100 | 0 |
 | GitHub - blog | OK | 10 | 0 |
 | GitHub - changelog | OK | 10 | 0 |
@@ -38,12 +38,12 @@ Run : 2026-11-26 11:12 UTC
 | WhisperX - releases | OK | 10 | 0 |
 | Krita - news | OK | 20 | 0 |
 | Blender - releases (GitHub mirror) | OK | 10 | 0 |
-| Bedroom Producers Blog | OK | 12 | 3 |
-| Rekkerd.org | OK | 100 | 2 |
+| Bedroom Producers Blog | OK | 16 | 2 |
+| Rekkerd.org | OK | 100 | 3 |
 | Ars Technica | OK | 20 | 0 |
-| The Verge - IA | OK | 10 | 1 |
-| Numerama | OK | 15 | 2 |
-| Next.ink | OK | 50 | 1 |
+| The Verge - IA | OK | 10 | 0 |
+| Numerama | OK | 15 | 0 |
+| Next.ink | OK | 50 | 0 |
 | Retrieval Practice | OK | 20 | 0 |
 | Scott H. Young | OK | 10 | 0 |
 | Cal Newport | OK | 8 | 0 |

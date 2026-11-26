@@ -2,736 +2,6 @@
  {
   "cat": "Opportunités IA",
   "kind": "fait",
-  "src": "Google - AI blog",
-  "date": "2026-11-24",
-  "title": "How Gemini is changing the game for Golden State's organization and fans.",
-  "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-  "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Risques outils",
-  "kind": "avis",
-  "src": "Forum Godot (top jour)",
-  "date": "2026-11-24",
-  "title": "Dev snapshot: Godot 4.8 beta 5",
-  "link": "https://forum.godotengine.org/t/dev-snapshot-godot-4-8-beta-5/147769",
-  "summary": "Not even a full week after our previous development snapshot, our team has already resolved all remaining release blockers! We encourage everyone to try their…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Risques outils",
-  "kind": "avis",
-  "src": "Forum Godot (top jour)",
-  "date": "2026-11-24",
-  "title": "If LLM's democratize game development, why didn't cardboard democratize board game development?",
-  "link": "https://forum.godotengine.org/t/if-llms-democratize-game-development-why-didnt-cardboard-democratize-board-game-development/147772",
-  "summary": "Well, it did of course. I made multiple board games when I was 9 years old. But they were sloppy, had convoluted unbalanced rules, they were boring, just like…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Risques outils",
-  "kind": "avis",
-  "src": "Forum Godot (top jour)",
-  "date": "2026-11-24",
-  "title": "Why when I change data from the dictionary of data does it change data for everything?",
-  "link": "https://forum.godotengine.org/t/why-when-i-change-data-from-the-dictionary-of-data-does-it-change-data-for-everything/147777",
-  "summary": "Godot Version 4.7.2 Question I made this script that gets all of the used tiles in a tilemaplayer, assigns them each data with the key as their coordinates on…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Risques outils",
-  "kind": "avis",
-  "src": "Forum Godot (top jour)",
-  "date": "2026-11-24",
-  "title": "3D block clips through floor when stood on",
-  "link": "https://forum.godotengine.org/t/3d-block-clips-through-floor-when-stood-on/147770",
-  "summary": "Godot Version: 4.7.2 Question: I followed a tutorial to make a box the player can push. (It was 2D, but I followed it anyway because there are 3D versions of e…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Risques outils",
-  "kind": "avis",
-  "src": "Forum Godot (top jour)",
-  "date": "2026-11-25",
-  "title": "Tool Functions Through Animation Player",
-  "link": "https://forum.godotengine.org/t/tool-functions-through-animation-player/147784",
-  "summary": "Godot Version 4.7.2 Question Is there any way to call a function in editor through a animation player? I am using an Animation Player to control the spawning o…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Outils gratuits",
-  "kind": "fait",
-  "src": "BlenderNation",
-  "date": "2026-11-25",
-  "title": "Blender Studio is looking for a heavy metal track for Cowboi",
-  "link": "https://www.blendernation.com/2026/11/25/blender-studio-is-looking-for-a-heavy-metal-track-for-cowboi/",
-  "summary": "Blender Studio is looking for a hard rock or heavy metal band or composer to create an instrumental track for its upcoming open movie Cowboi. Source",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Outils gratuits",
-  "kind": "fait",
-  "src": "BlenderNation",
-  "date": "2026-11-24",
-  "title": "Blender on Tablet: the plan for a first release",
-  "link": "https://www.blendernation.com/2026/11/24/blender-on-tablet-the-plan-for-a-first-release/",
-  "summary": "Blender HQ held a week-long workshop in Amsterdam to plan how Blender gets onto tablets, and the Blender developers have shared the plan: daily tablet builds,…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Outils gratuits",
-  "kind": "fait",
-  "src": "BlenderNation",
-  "date": "2026-11-24",
-  "title": "BCON Shenzhen: the Blender Conference in Asia takes place November 28-29",
-  "link": "https://www.blendernation.com/2026/11/24/bcon-shenzhen-the-blender-conference-in-asia-takes-place-november-28-29/",
-  "summary": "BCON Shenzhen, the Blender Conference in Asia, takes place on November 28-29 in Shenzhen, China. Source",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Outils gratuits",
-  "kind": "fait",
-  "src": "80 Level",
-  "date": "2026-11-24",
-  "title": "How To Model & Texture PS1-Style Character In Blender",
-  "link": "https://80.lv/articles/how-to-model-texture-ps1-style-character-in-blender/",
-  "summary": "TomGrave3D shared a video walking through his design choices and overall workflow.",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Outils gratuits",
-  "kind": "fait",
-  "src": "80 Level",
-  "date": "2026-11-24",
-  "title": "Learn the Art of Making AAA Game-Ready Characters Using Industry-Standard Tools",
-  "link": "https://80.lv/articles/learn-the-art-of-making-aaa-game-ready-characters-using-industry-standard-tools/",
-  "summary": "With this Wingfox master class, you will go through the complete workflow behind character creation for games.",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Jeu indé / marché",
-  "kind": "fait",
-  "src": "GamesIndustry.biz",
-  "date": "2026-11-24",
-  "title": "\"You are still taking 100% of the risk\" – Why Cairn dev The Game Bakers backs self-publishing for all but the smallest developers",
-  "link": "https://www.gamesindustry.biz/you-are-still-taking-100-of-the-risk-why-cairn-dev-the-game-bakers-backs-self-publishing-for-all-but-the-smallest-developers",
-  "summary": "Self-publishing is now firmly established as a viable route to market for indie developers, with many only looking to publishers for help with specific issues…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "KVR - top stories",
-  "date": "2026-11-25",
-  "title": "2Rule Releases TugGlicento Glitch and Multi-Effect Plugin v4.0",
-  "link": "https://www.kvraudio.com/news/2rule-releases-tugglicento-glitch-and-multi-effect-plugin-v4-0-70158?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70158",
-  "summary": "2Rule has released version 4.0 of TugGlicento , a glitch and multi-effect plugin that splits the signal into five lines, each with its own filter, step sequenc…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "KVR - top stories",
-  "date": "2026-11-25",
-  "title": "Goodhertz releases Tupe Wow and v3.15 update with new tape modes for Tupe",
-  "link": "https://www.kvraudio.com/news/goodhertz-releases-tupe-wow-and-v3-15-update-with-new-tape-modes-for-tupe-70039?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70039",
-  "summary": "Goodhertz has released version 3.15 of its line of plugins, which introduces a new plugin, Tupe Wow , and adds four new tape modes to Tupe as a free update. Tu…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "KVR - top stories",
-  "date": "2026-11-24",
-  "title": "Kemper releases PROFILER Native for macOS and Windows",
-  "link": "https://www.kvraudio.com/news/kemper-releases-profiler-native-for-macos-and-windows-70138?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70138",
-  "summary": "Kemper has released PROFILER Native , a standalone application and plug-in that brings its amp profiling technology, PROFILER MK 2 features and effects to comp…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "KVR - top stories",
-  "date": "2026-11-24",
-  "title": "Sound Radix releases Radical Bundle 5, POWAIR 2 and MuteØmatic Studio, and launches the Radical Sale",
-  "link": "https://www.kvraudio.com/news/sound-radix-releases-radical-bundle-5-powair-2-and-muteomatic-studio-and-launches-the-radical-sale-70128?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70128",
-  "summary": "Sound Radix has released Radical Bundle 5 , the biggest update to its Radical Bundle yet, alongside two new products: POWAIR 2 , a major update to its loudness…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "KVR - top stories",
-  "date": "2026-11-24",
-  "title": "n-Track Studio 11 released with AI Assistant, VocalTune 2.0 and more",
-  "link": "https://www.kvraudio.com/news/n-track-studio-11-released-with-ai-assistant-vocaltune-2-0-and-more-70122?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70122",
-  "summary": "n-Track Studio has been updated to version 11, adding an AI Assistant that works directly inside your song, VocalTune 2.0 with note-by-note pitch editing, Spec…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "KVR - instruments",
-  "date": "2026-11-24",
-  "title": "SXP Plugins Releases Choir v2.0 (Free AU & VST3)",
-  "link": "https://www.kvraudio.com/news/sxp-plugins-releases-choir-v2-0-free-au-and-vst3-69911?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69911",
-  "summary": "SXP Plugins has released version 2.0 of Choir , the free formant filtering synth. It does choir pads, vowel morphing, expressive human-like voices and sounds n…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "KVR - effets",
-  "date": "2026-11-25",
-  "title": "88th Street Releases Super Dirt - Hard-Clipping Distortion Plugin (AU, AAX, VST3)",
-  "link": "https://www.kvraudio.com/news/88th-street-releases-super-dirt---hard-clipping-distortion-plugin-au-aax-vst3-70139?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70139",
-  "summary": "88th Street has released Super Dirt , a hard-clipping distortion plugin for engineers chasing an original sound. Plug in, crank the Distortion knob, and the ri…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "KVR - effets",
-  "date": "2026-11-25",
-  "title": "Aide Audio Black Friday: Buy One Plugin, Get A Second One Free",
-  "link": "https://www.kvraudio.com/news/aide-audio-black-friday-buy-one-plugin-get-a-second-one-free-70157?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70157",
-  "summary": "Buy any Aide Audio plugin on aideaudio.com and you'll receive a gift code for a second plugin of equal or lower price. The code can be redeemed until 31 Decemb…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "KVR - effets",
-  "date": "2026-11-25",
-  "title": "Push and Groove Releases Beadscape Core (Free) and Beadscape Pro",
-  "link": "https://www.kvraudio.com/news/push-and-groove-releases-beadscape-core-free-and-beadscape-pro-70155?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70155",
-  "summary": "Push and Groove has released Beadscape Core and Beadscape Pro , two granular plug-ins based on the open-source DSP code of Mutable Instruments' Beads Eurorack…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "KVR - effets",
-  "date": "2026-11-24",
-  "title": "Clear Voice Live is $199 instead of $299 until November 30",
-  "link": "https://www.kvraudio.com/news/clear-voice-live-is-199-instead-of-299-until-november-30-70124?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70124",
-  "summary": "Clear Voice has reduced the price of Clear Voice Live , its real-time AI voice processor for live sound, from $299 to $199 for Black Friday Week. The price app…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "NVIDIA - developer blog",
-  "date": "2026-11-24",
-  "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
-  "link": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/",
-  "summary": "Running video generation models locally can be challenging when model weights and intermediate data exceed available GPU memory. NVIDIA Cosmos 3 Nano is a worl…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "NVIDIA - developer blog",
-  "date": "2026-11-24",
-  "title": "What’s New for Game Developers: AI Animation and RTX Tools",
-  "link": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/",
-  "summary": "This month’s NVIDIA game development updates help teams bring new graphics, animation, and local AI capabilities into their engines while balancing image...",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "avis",
-  "src": "Simon Willison (tests d'outils IA)",
-  "date": "2026-11-24",
-  "title": "Three LLM inflection points in twelve months",
-  "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
-  "summary": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "avis",
-  "src": "Simon Willison (tests d'outils IA)",
-  "date": "2026-11-24",
-  "title": "GPT 6.2 Astra Solves a Historical Mystery",
-  "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
-  "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphrie…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Jeu indé / marché",
-  "kind": "fait",
-  "src": "GameDiscoverCo",
-  "date": "2026-11-24",
-  "title": "How do Steam fans think about playing - and switching - co-op games?",
-  "link": "https://newsletter.gamediscover.co/p/how-do-steam-fans-think-about-playing",
-  "summary": "We did a survey. Also: the latest GameDiscoverCo Show & platform news.",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "Bedroom Producers Blog",
-  "date": "2026-11-24",
-  "title": "Instruments.digital releases Felted Piano, a FREE upright felt piano VST for Windows and Linux",
-  "link": "https://bedroomproducersblog.com/2026/11/24/instruments-digital-releases-felted-piano-a-free-upright-felt-piano-vst-for-windows-and-linux/",
-  "summary": "From developer Instruments.digital comes Felted Piano, a free upright felt piano VST for Windows and Linux. Just last week, we talked about the transition from…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "Rekkerd.org",
-  "date": "2026-11-24",
-  "title": "FREE: VF-Mini reverse vocal riser plugin by Never Found Audio",
-  "link": "https://rekkerd.org/free-vf-mini-reverse-vocal-riser-plugin-by-never-found-audio/",
-  "summary": "Never Found Audio has released a free reverse riser effect plugin aimed at vocals. Available for Windows (VST3 and standalone), VF-Mini lets users make vocal r…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "Rekkerd.org",
-  "date": "2026-11-24",
-  "title": "Loopmasters announces Black Friday sale with sample discounts and Loopcloud subscription offers",
-  "link": "https://rekkerd.org/loopmasters-announces-black-friday-sale-with-sample-discounts-and-loopcloud-subscription-offers/",
-  "summary": "Loopmasters has announced its upcoming 2026 Black Friday sale, with 50% off sitewide, exclusive sample bundles, and a free sample pack with purchases of £20 GB…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Ars Technica",
-  "date": "2026-11-24",
-  "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
-  "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
-  "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Ars Technica",
-  "date": "2026-11-24",
-  "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-  "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-  "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "The Verge - IA",
-  "date": "2026-11-24",
-  "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-  "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-  "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequ…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "The Verge - IA",
-  "date": "2026-11-24",
-  "title": "Tidal will start banning AI-generated music next month",
-  "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-  "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject a…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "The Verge - IA",
-  "date": "2026-11-24",
-  "title": "Jensen Huang deepfakes are the hot new AI slop",
-  "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-  "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "The Verge - IA",
-  "date": "2026-11-24",
-  "title": "The New York Times warns photographers not to update Photoshop over AI features",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-  "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Numerama",
-  "date": "2026-11-25",
-  "title": "Claude franchit un nouveau cap et permet désormais de créer des applications maison pour Mac et Windows, toujours sans coder",
-  "link": "https://www.numerama.com/tech/2384157-claude-franchit-un-nouveau-cap-et-permet-desormais-de-creer-des-applications-maison-pour-mac-et-windows-toujours-sans-coder.html",
-  "summary": "Anthropic a lancé le 24 novembre 2026 une bêta qui permet d'installer les artefacts créés dans Claude comme de vrais logiciels. Ils peuvent maintenant sortir d…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Numerama",
-  "date": "2026-11-25",
-  "title": "Sony a menti sur la version PS5 de GTA 6",
-  "link": "https://www.numerama.com/pop-culture/2384141-sony-a-menti-sur-la-version-ps5-de-gta-6.html",
-  "summary": "Pendant toute la campagne marketing de GTA 6, Sony, partenaire de Rockstar Games, a martelé que la PS5 offrait la meilleure version. L'analyse de Digital Found…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Numerama",
-  "date": "2026-11-24",
-  "title": "6 bonnes raisons de donner sa chance à Blade Runner 2099, au même niveau que les films ?",
-  "link": "https://www.numerama.com/pop-culture/2383635-6-bonnes-raisons-de-donner-sa-chance-a-blade-runner-2099-au-meme-niveau-que-les-films.html",
-  "summary": "Chef-d’œuvre SF des années 80, Blade Runner et son univers dystopique se déclinent dans une mini-série élégante. Portée par Michelle Yeoh et Hunter Schafer, Bl…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Next.ink",
-  "date": "2026-11-25",
-  "title": "Avec Shirudo, OpenAI et Cisco veulent protéger Linux en attendant les correctifs",
-  "link": "https://next.ink/269700/avec-shirudo-openai-et-cisco-veulent-proteger-linux-en-attendant-les-correctifs/",
-  "summary": "Le 23 novembre, OpenAI et Cisco ont présenté Shirudo, un outil libre qui confie à des agents d’IA l’écriture de protections temporaires pour des serveurs Linux…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Next.ink",
-  "date": "2026-11-25",
-  "title": "Tidal interdit les morceaux entièrement générés par IA",
-  "link": "https://next.ink/269736/tidal-interdit-les-morceaux-entierement-generes-par-ia/",
-  "summary": "La plateforme de streaming Tidal, noyée comme les autres par le slop IA, prend une décision radicale : interdire la musique entièrement générée par IA. Du cont…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Next.ink",
-  "date": "2026-11-25",
-  "title": "Signal veut empêcher les agents IA de lire les messages",
-  "link": "https://next.ink/269751/signal-veut-empecher-les-agents-ia-de-lire-les-messages/",
-  "summary": "La capacité des agents IA à lire l’écran de l’utilisateur pose problème à Signal. La messagerie a bâti sa réputation sur la confidentialité des échanges, mais…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Next.ink",
-  "date": "2026-11-24",
-  "title": "☕️ Avec Claude Ship, Anthropic s’attaque à la correction automatique des pull requests",
-  "link": "https://next.ink/brief-article/avec-claude-ship-anthropic-sattaque-a-la-correction-automatique-des-pull-requests/",
-  "summary": "Anthropic a annoncé ce 23 novembre un nouvel outil dans sa flotte de services Claude : Ship. Il est chargé de prendre en charge ce qui se passe après l’ouvertu…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "OpenAI (YouTube : OpenAI)",
-  "date": "2026-11-24",
-  "title": "Experiment with SVG & 3D Design with the Codex Plugin",
-  "link": "https://www.youtube.com/watch?v=1u0hTd86_HU",
-  "summary": "Craig Dennis had never drawn an SVG by hand or used Blender. With the SVG & 3D Design plugin for Codex, he shows how to turn a reference image into an editable…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "OpenAI (YouTube : OpenAI)",
-  "date": "2026-11-24",
-  "title": "Make sense of your day | with ChatGPT",
-  "link": "https://www.youtube.com/watch?v=2DUJ2whBJRM",
-  "summary": "Snap a photo and ask ChatGPT to help you figure out what you’re looking at, and highlight anything you should double-check.",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "OpenAI (YouTube : OpenAI)",
-  "date": "2026-11-24",
-  "title": "Make a day of it | with ChatGPT",
-  "link": "https://www.youtube.com/watch?v=4MFBNFyBmQg",
-  "summary": "ChatGPT can turn a rough idea into the perfect-sized plan for your family. Tell ChatGPT what you’re looking for and it’ll browse sites on your behalf to find l…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "OpenAI (YouTube : OpenAI)",
-  "date": "2026-11-24",
-  "title": "Make room in your day | with ChatGPT",
-  "link": "https://www.youtube.com/watch?v=Faoam45LT-Q",
-  "summary": "A little more time at the park? Connect your calendar and ask ChatGPT to find a later time for your meeting.",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "OpenAI (YouTube : OpenAI)",
-  "date": "2026-11-24",
-  "title": "Make your day move | with ChatGPT",
-  "link": "https://www.youtube.com/watch?v=DLV3XRdJAog",
-  "summary": "Plans changed? With your calendar connected, ChatGPT can check your schedule, find another time, and draft a note to let people know.",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "Google DeepMind (YouTube : Google DeepMind)",
-  "date": "2026-11-24",
-  "title": "The brain helped us build AI. Now AI is explaining the brain.",
-  "link": "https://www.youtube.com/watch?v=K8rdrWQRd20",
-  "summary": "The human brain remains one of the greatest unsolved mysteries in science. We have roughly 86 billion neurons firing in a way that somehow produces intelligenc…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Risques outils",
-  "kind": "fait",
-  "src": "Blender (YouTube : Blender)",
-  "date": "2026-11-24",
-  "title": "PAINT features + Bye 2026! | Blender Today LIVE #294",
-  "link": "https://www.youtube.com/watch?v=x-IFZHHKrW8",
-  "summary": "Hola Community! Pablo Vazquez here. Let's see what's new in Blender. This is all possible thanks to your donations. If you like what you see, keep it going at…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "YouTube",
-  "kind": "fait",
-  "src": "Creator Insider (YouTube : Creator Insider)",
-  "date": "2026-11-24",
-  "title": "Variety Content on YouTube - Watch this First!",
-  "link": "https://www.youtube.com/watch?v=okO9m1eRYTY",
-  "summary": "Can you build a successful YouTube channel making variety content? YouTube’s Head of Content Strategy, Kyle Monahan, and Creator Liaison @ReneRitchie break dow…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "YouTube",
-  "kind": "fait",
-  "src": "Creator Insider (YouTube : Creator Insider)",
-  "date": "2026-11-24",
-  "title": "New! Multi-Track Editing in YouTube Create",
-  "link": "https://www.youtube.com/shorts/_1fZ75_2Y4Y",
-  "summary": "You can now edit with YouTube Create… in multi-track! Just update to the latest version of YouTube Create and text, sound effects, overlay footage - everything…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "Google (YouTube : Google)",
-  "date": "2026-11-24",
-  "title": "Build a satisfying pie crust simulation with Search 🥧",
-  "link": "https://www.youtube.com/shorts/VPYhT7UWyzo",
-  "summary": "Need some holiday baking inspo? Go to AI Mode in Search and type “create a visual simulation of different pie crust designs” to build your own aesthetic desser…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "NVIDIA (YouTube : NVIDIA)",
-  "date": "2026-11-24",
-  "title": "How Eli Lilly and Company Accelerates Drug Discovery with NVIDIA",
-  "link": "https://www.youtube.com/watch?v=z7tcQiyLK8E",
-  "summary": "Chris Lesniewski, Associate VP of Enterprise Infrastructure Services at Eli Lilly and Company, explains how AI and NVIDIA technology help turn decades of data…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "NVIDIA (YouTube : NVIDIA)",
-  "date": "2026-11-24",
-  "title": "“Governance is what made us go faster.”",
-  "link": "https://www.youtube.com/shorts/kTJ8NDNYua8",
-  "summary": "Red Hat CTO Chris Wright explains how clear rules help teams put AI agents to work with confidence.",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "NVIDIA Developer (YouTube : NVIDIA Developer)",
-  "date": "2026-11-25",
-  "title": "JAX on GPU w/ Google Cloud",
-  "link": "https://www.youtube.com/watch?v=StEoOVLOIEc",
-  "summary": "How do you take a JAX workload from a NumPy prototype to training across multiple NVIDIA GPUs? Join Google Cloud AI Engineer Ivan Nardini and NVIDIA Developer…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "GitHub (YouTube : GitHub)",
-  "date": "2026-11-24",
-  "title": "Can an open source GitHub repo run GTA 6 on PC?",
-  "link": "https://www.youtube.com/shorts/rpyRs008KSA",
-  "summary": "GTA 6 is finally here, sparking one of the biggest weeks for gaming and open source on GitHub. Created in August, the AnyPS5 repository has already surged past…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "Microsoft Developer (YouTube : Microsoft Developer)",
-  "date": "2026-11-24",
-  "title": "Observability in Database Hub in Fabric for free, now generally available | Data Exposed",
-  "link": "https://www.youtube.com/watch?v=6BJ4939LTMI",
-  "summary": "Database Hub is now generally available. From the first customer conversations to announcing public preview at SQLCon Barcelona, this one feels special. It was…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "Claude (YouTube : Claude)",
-  "date": "2026-11-24",
-  "title": "Lessons from building agents on the Claude Platform",
-  "link": "https://www.youtube.com/watch?v=8Aoq6mJeAXI",
-  "summary": "Anthropic built the infrastructure behind Claude Managed Agents three times before turning it into a platform for customers. Jess Yan (Product Manager, Claude…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "Claude (YouTube : Claude)",
-  "date": "2026-11-24",
-  "title": "Dance as Waves with Claude",
-  "link": "https://www.youtube.com/shorts/Fp1P03610wM",
-  "summary": "Yusuke Kamiyama’s Dance as Waves has no motor in its axis. Centrifugal force and a moving counterweight lift the wooden arms, and as the three machines’ moveme…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Risques outils",
-  "kind": "fait",
-  "src": "ComfyUI (Comfy Org) (YouTube : ComfyUI)",
-  "date": "2026-11-25",
-  "title": "World Model Jam: Genie 4",
-  "link": "https://www.youtube.com/watch?v=xiCxwrGKdzQ",
-  "summary": "Join Comfy’s Purz, Doug Hogan, and Chris Vespaziani for a live model jam with Genie 4, Google DeepMind’s newest world model, which we’ll be running through Com…",
-  "at": "2026-11-25T09:22:45.998503+00:00"
- },
- {
-  "cat": "Outils gratuits",
-  "kind": "fait",
-  "src": "80 Level",
-  "date": "2026-11-25",
-  "title": "Implementing Dynamic Windscreen Frost Effect In Godot",
-  "link": "https://80.lv/articles/implementing-dynamic-windscreen-frost-effect-in-godot/",
-  "summary": "In Semaphore, you are both the driver and conductor of a night train.",
-  "at": "2026-11-25T09:37:31.791489+00:00"
- },
- {
-  "cat": "Game jams & concours",
-  "kind": "fait",
-  "src": "itch.io - jams à venir",
-  "date": "?",
-  "title": "The MFG Gambler's Jam",
-  "link": "https://itch.io/jam/the-mfg-gamblers-jam",
-  "summary": "Hosted by augie , RetroCrow , Hack Club Starts in 2026-12-05T23:00:00Z Â· Lasts 7 days 2,458 joined Ranked <div class=\"f",
-  "at": "2026-11-25T09:40:03.334434+00:00"
- },
- {
-  "cat": "Game jams & concours",
-  "kind": "fait",
-  "src": "itch.io - jams à venir",
-  "date": "?",
-  "title": "GMTK Game Jam 2027",
-  "link": "https://itch.io/jam/gmtk-2027",
-  "summary": "Hosted by Game Maker's Toolkit Starts in 2027-08-11T17:00:00Z Â· Lasts 4 days 2,133 joined Ranked <div class=\"jam_cover\"",
-  "at": "2026-11-25T09:40:03.334434+00:00"
- },
- {
-  "cat": "Game jams & concours",
-  "kind": "fait",
-  "src": "itch.io - jams à venir",
-  "date": "?",
-  "title": "Brackeys Game Jam 2027.1",
-  "link": "https://itch.io/jam/brackeys-17",
-  "summary": "Hosted by Brackeys , Duxez , AquaXV , Yasahiro Starts in 2027-02-14T11:00:00Z Â· Lasts 7 days 844 joined <str",
-  "at": "2026-11-25T09:40:03.334434+00:00"
- },
- {
-  "cat": "Game jams & concours",
-  "kind": "fait",
-  "src": "itch.io - jams à venir",
-  "date": "?",
-  "title": "OST Composing Jam NEWSLETTER",
-  "link": "https://itch.io/jam/ostcompjam",
-  "summary": "Hosted by Lone Rabbit Starts in 2029-12-31T17:00:00Z Â· Lasts 10 years 751 joined <a",
-  "at": "2026-11-25T09:40:03.334434+00:00"
- },
- {
-  "cat": "Game jams & concours",
-  "kind": "fait",
-  "src": "itch.io - jams à venir",
-  "date": "?",
-  "title": "Pixel Forge MEGA JAM | $30k Prizes + Cash !",
-  "link": "https://itch.io/jam/pixel-forge-mega-jam",
-  "summary": "Hosted by PIXEL FORGE Starts in 2026-11-28T09:30:00Z Â· Lasts 10 days 584 joined Ranked <img loadin",
-  "at": "2026-11-25T09:40:03.334434+00:00"
- },
- {
-  "cat": "Game jams & concours",
-  "kind": "fait",
-  "src": "itch.io - jams à venir",
-  "date": "?",
-  "title": "The Eye Jam III: Folk Horror",
-  "link": "https://itch.io/jam/the-eye-jam3",
-  "summary": "Hosted by SeeOne Starts in 2026-12-03T18:30:00Z Â· Lasts 10 days 333 joined Ranked <img loading=\"laz",
-  "at": "2026-11-25T09:40:03.334434+00:00"
- },
- {
-  "cat": "Game jams & concours",
-  "kind": "fait",
-  "src": "itch.io - jams à venir",
-  "date": "?",
-  "title": "Godot Wild Jam #100",
-  "link": "https://itch.io/jam/godot-wild-jam-100",
-  "summary": "Hosted by Godot Wild Jam Starts in 2026-12-11T21:00:00Z Â· Lasts 9 days 308 joined Ranked <i",
-  "at": "2026-11-25T09:40:03.334434+00:00"
- },
- {
-  "cat": "Game jams & concours",
-  "kind": "fait",
-  "src": "itch.io - jams à venir",
-  "date": "?",
-  "title": "3x3x3 Jam",
-  "link": "https://itch.io/jam/3x3x3-jam",
-  "summary": "Hosted by Macrow Starts in 2026-11-30T22:00:00Z Â· Lasts 3 days 306 joined Ranked <img loading=\"l",
-  "at": "2026-11-25T09:40:03.334434+00:00"
- },
- {
-  "cat": "Game jams & concours",
-  "kind": "fait",
-  "src": "itch.io - jams à venir",
-  "date": "?",
-  "title": "PROCJAM - The Procedural Generation Jam",
-  "link": "https://itch.io/jam/procjam",
-  "summary": "Hosted by PROCJAM Starts in 2026-12-04T23:59:59Z Â· Lasts 9 days 306 joined Featured <div class=",
-  "at": "2026-11-25T09:40:03.334434+00:00"
- },
- {
-  "cat": "Game jams & concours",
-  "kind": "fait",
-  "src": "itch.io - jams à venir",
-  "date": "?",
-  "title": "4 PAGE COMIC JAM 2027",
-  "link": "https://itch.io/jam/4-page-comic-jam-2027",
-  "summary": "Hosted by MOC Starts in 2027-01-05T08:00:00Z Â· Lasts 31 days 290 joined <a href=\"/jam/slapj",
-  "at": "2026-11-25T09:40:03.334434+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Numerama",
-  "date": "2026-11-25",
-  "title": "Ils sont les seuls à voir les IA les plus puissantes, et ils ont peur : chez OpenAI et Anthropic, les salariés tirent la sonnette d’alarme",
-  "link": "https://www.numerama.com/tech/2384181-ils-sont-les-seuls-a-voir-les-ia-les-plus-puissantes-et-ils-ont-peur-chez-openai-et-anthropic-les-salaries-tirent-la-sonnette-dalarme.html",
-  "summary": "Ils sont les seuls à avoir accès aux IA les plus puissantes du moment, et ils s'inquiètent. Selon une enquête d'Axios, de nombreux employés d'OpenAI et d'Anthr…",
-  "at": "2026-11-25T09:46:51.098779+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
   "src": "Hugging Face - blog",
   "date": "2026-11-25",
   "title": "An Indic Voice Agent with CUGA",
@@ -1428,5 +698,105 @@
   "link": "https://next.ink/270121/les-francais-face-aux-sciences-et-technologies-lia-cristallise-les-inquietudes/",
   "summary": "La neuvième vague de l’enquête « Les Français et la science » révèle notamment une confiance toujours importante, un intérêt primordial pour la recherche médic…",
   "at": "2026-11-26T11:12:12.925222+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-26",
+  "title": "Backgrounds for spatial editor menu plugins",
+  "link": "https://forum.godotengine.org/t/backgrounds-for-spatial-editor-menu-plugins/147804",
+  "summary": "Godot Version Godo 4.7.2 Question I’m working on a plugin that primarily exposes its interface using a spatial editor menu. It’s a minor thing, but I’ve notice…",
+  "at": "2026-11-26T13:06:02.778842+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "80 Level",
+  "date": "2026-11-26",
+  "title": "Ziva VFX-Inspired Physics-Based Muscle Simulation Tool For 3ds Max, Maya, Blender & Houdini",
+  "link": "https://80.lv/articles/ziva-vfx-inspired-physics-based-muscle-simulation-tool-for-3ds-max-maya-blender-houdini/",
+  "summary": "HézFX solves muscle, fascia, fat, and skin together in one simulation.",
+  "at": "2026-11-26T13:06:02.778842+00:00"
+ },
+ {
+  "cat": "Jeu indé / marché",
+  "kind": "fait",
+  "src": "GamesIndustry.biz",
+  "date": "2026-11-26",
+  "title": "NielsenIQ: GTA 6 boosts UK games retail revenue by 99% to £142m during launch period",
+  "link": "https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period",
+  "summary": "UK games retail revenue increased 99% week-on-week to £142 million during Grand Theft Auto 6's three-day launch period. Read more",
+  "at": "2026-11-26T13:06:02.778842+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - top stories",
+  "date": "2026-11-26",
+  "title": "Sound on Digital releases Mix to Mobile v2.0 with encrypted streams, adaptive latency and quality per stream",
+  "link": "https://www.kvraudio.com/news/sound-on-digital-releases-mix-to-mobile-v2-0-with-encrypted-streams-adaptive-latency-and-quality-per-stream-70190?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70190",
+  "summary": "Mix to Mobile by Sound on Digital has been updated to version 2.0. Mix to Mobile streams audio from a DAW, or from any audio input on the computer, to phones a…",
+  "at": "2026-11-26T13:06:02.778842+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "Hugging Face - blog",
+  "date": "2026-11-26",
+  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "summary": "",
+  "at": "2026-11-26T13:06:02.778842+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Bedroom Producers Blog",
+  "date": "2026-11-26",
+  "title": "Nine Plugin Boutique deals for $5 or less, plus a FREE gift",
+  "link": "https://bedroomproducersblog.com/2026/11/26/plugin-boutique-5-bucks-deals/",
+  "summary": "If you’re looking for no-brainer combos, Plugin Boutique has nine Black Friday picks for $5 or less that also include a free gift. Following my $10-or-less rou…",
+  "at": "2026-11-26T13:06:02.778842+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Bedroom Producers Blog",
+  "date": "2026-11-26",
+  "title": "Kaleidon Spark is a FREE effects sequencer that can also host plugins",
+  "link": "https://bedroomproducersblog.com/2026/11/26/kaleidon-spark-free/",
+  "summary": "Dylan Mixer offers Kaleidon Spark, a free effects sequencer for macOS and Windows that turns your existing plugins into rhythmic patterns. Before we continue,…",
+  "at": "2026-11-26T13:06:02.778842+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Rekkerd.org",
+  "date": "2026-11-26",
+  "title": "Sinevibes releases Robotizer v2 rhythmic self-randomizing repeater plugin",
+  "link": "https://rekkerd.org/sinevibes-releases-robotizer-v2-rhythmic-self-randomizing-repeater-plugin/",
+  "summary": "Sinevibes has announced the release of the second generation of its beloved rhythmic self-randomizing repeater plugin for Windows, Mac and Linux. Built complet…",
+  "at": "2026-11-26T13:06:02.778842+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Rekkerd.org",
+  "date": "2026-11-26",
+  "title": "n‑Track Studio 11 brings new effects, instruments, tools & AI assistant",
+  "link": "https://rekkerd.org/n-track-studio-11-brings-new-effects-instruments-tools-ai-assistant/",
+  "summary": "n-Track has announced the release of a major update to its audio recording and music production app for Windows, macOS and Linux, iOS and Android. n-Track Stud…",
+  "at": "2026-11-26T13:06:02.778842+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Rekkerd.org",
+  "date": "2026-11-26",
+  "title": "FREE: Super 909 Drums drum machine for iOS and Mac by AudioKit",
+  "link": "https://rekkerd.org/free-super-909-drums-drum-machine-for-ios-and-mac-by-audiokit/",
+  "summary": "AudioKit has introduced a free drum machine app for iPhone, iPad and Mac. Inspired by several 909-style drum machines, including an original 1984 TR-909, the T…",
+  "at": "2026-11-26T13:06:02.778842+00:00"
  }
 ]
