@@ -1,5 +1,5 @@
-# Digest veille — 2026-11-26 02:17 UTC (collecté sur les dernières 26 h)
-122 nouveaux éléments · 72/72 flux OK (détail : digest/status.md)
+# Digest veille — 2026-11-26 04:20 UTC (collecté sur les dernières 26 h)
+123 nouveaux éléments · 72/72 flux OK (détail : digest/status.md)
 
 ## Game jams & concours
 - [fait] itch.io - jams à venir · ? · **The MFG Gambler's Jam** — Hosted by augie , RetroCrow , Hack Club Starts in 2026-12-05T23:00:00Z Â· Lasts 7 days 2,458 joined Ranked <div class="f <https://itch.io/jam/the-mfg-gamblers-jam>
@@ -46,6 +46,7 @@
 
 ## Opportunités IA
 - [fait] NVIDIA Developer (YouTube : NVIDIA Developer) · 2026-11-26 · **Dev Community Live Agent Gauntlet at GTC DC** — Developers built the agents. Now watch them take on the GAUNTLET. The NVIDIA Developer Live Agent Gauntlet comes to GTC Washington, D.C., where developers buil… <https://www.youtube.com/watch?v=Yxu4mipMqwc>
+- [fait] NVIDIA Developer (YouTube : NVIDIA Developer) · 2026-11-26 · **What’s New in CUDA 13.5** — CUDA 13.5 brings NVIDIA Vera Rubin support to general availability and extends Windows on Arm support to NVIDIA DGX Station for Windows. Join the CUDA team for… <https://www.youtube.com/watch?v=A94A2hccFoM>
 - [fait] NVIDIA Developer (YouTube : NVIDIA Developer) · 2026-11-25 · **JAX on GPU w/ Google Cloud** — How do you take a JAX workload from a NumPy prototype to training across multiple NVIDIA GPUs? Join Google Cloud AI Engineer Ivan Nardini and NVIDIA Developer… <https://www.youtube.com/watch?v=StEoOVLOIEc>
 - [fait] Hugging Face - blog · 2026-11-25 · **An Indic Voice Agent with CUGA** —  <https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga>
 - [fait] Two Minute Papers (YouTube : Two Minute Papers) · 2026-11-25 · **Claude AI’s Biggest Math Breakthrough Has A Problem.** — ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://nasqret.github.io/riemann-rev/guide/… <https://www.youtube.com/watch?v=hwWlEuI359w>

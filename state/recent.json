@@ -1218,5 +1218,15 @@
   "link": "https://www.youtube.com/watch?v=Yxu4mipMqwc",
   "summary": "Developers built the agents. Now watch them take on the GAUNTLET. The NVIDIA Developer Live Agent Gauntlet comes to GTC Washington, D.C., where developers buil…",
   "at": "2026-11-26T02:17:51.900702+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "NVIDIA Developer (YouTube : NVIDIA Developer)",
+  "date": "2026-11-26",
+  "title": "What’s New in CUDA 13.5",
+  "link": "https://www.youtube.com/watch?v=A94A2hccFoM",
+  "summary": "CUDA 13.5 brings NVIDIA Vera Rubin support to general availability and extends Windows on Arm support to NVIDIA DGX Station for Windows. Join the CUDA team for…",
+  "at": "2026-11-26T04:20:34.019740+00:00"
  }
 ]
