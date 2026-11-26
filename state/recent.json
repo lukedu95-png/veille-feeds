@@ -1,155 +1,5 @@
 [
  {
-  "cat": "Risques outils",
-  "kind": "avis",
-  "src": "Forum Godot (top jour)",
-  "date": "2026-11-24",
-  "title": "Material 3 for Godot",
-  "link": "https://forum.godotengine.org/t/material-3-for-godot/147752",
-  "summary": "I created a port for material 3 to be used in Godot. I personally love the modern style of websites and apps, but video game UI always seems to fall by the way…",
-  "at": "2026-11-24T12:44:12.294489+00:00"
- },
- {
-  "cat": "Risques outils",
-  "kind": "avis",
-  "src": "Forum Godot (top jour)",
-  "date": "2026-11-24",
-  "title": "how can i use a wait function in my script",
-  "link": "https://forum.godotengine.org/t/how-can-i-use-a-wait-function-in-my-script/147756",
-  "summary": "Godot Version Godot v4.7.2.stable Question Hello, i'm a beginner and i need some way to make a cooldown for stamina regen, i need it to regenerate a certain am…",
-  "at": "2026-11-24T12:44:12.294489+00:00"
- },
- {
-  "cat": "Risques outils",
-  "kind": "avis",
-  "src": "Forum Godot (top jour)",
-  "date": "2026-11-24",
-  "title": "Money Doesn't Grow on Trees! - An incremental game made in 48 hours",
-  "link": "https://forum.godotengine.org/t/money-doesnt-grow-on-trees-an-incremental-game-made-in-48-hours/147754",
-  "summary": "Hi everyone! I’m really proud to share with you all a game made in 48 hours for a local game jam. In Money Doesn’t Grow on Trees , you play as Stee , a mutated…",
-  "at": "2026-11-24T12:44:12.294489+00:00"
- },
- {
-  "cat": "Risques outils",
-  "kind": "avis",
-  "src": "Forum Godot (top jour)",
-  "date": "2026-11-24",
-  "title": "Godot 4.x Cheat Sheet",
-  "link": "https://forum.godotengine.org/t/godot-4-x-cheat-sheet/147755",
-  "summary": "I made a cheat sheet that just runs through some important gdscript code that most beginners will encounter and likely go “what is this” heavily inspired by th…",
-  "at": "2026-11-24T12:44:12.294489+00:00"
- },
- {
-  "cat": "Risques outils",
-  "kind": "avis",
-  "src": "Forum Godot (top jour)",
-  "date": "2026-11-24",
-  "title": "is it posible to make a dictionary with 2 values?",
-  "link": "https://forum.godotengine.org/t/is-it-posible-to-make-a-dictionary-with-2-values/147749",
-  "summary": "Godot Version 4.7.2 Question im triying to make a list of questions with a dictionary the question should have an answer and a topic to create other options ba…",
-  "at": "2026-11-24T12:44:12.294489+00:00"
- },
- {
-  "cat": "Jeu indé / marché",
-  "kind": "fait",
-  "src": "GamesIndustry.biz",
-  "date": "2026-11-24",
-  "title": "Splitscreen Croatia conference offers free travel packages for developers looking to showcase unreleased games to publishers and investors",
-  "link": "https://www.gamesindustry.biz/splitscreen-croatia-conference-offers-free-travel-packages-for-developers-looking-to-showcase-unreleased-games-to-publishers-and-investors",
-  "summary": "Splitcreen Croatia, the new industry conference seeking to fill the gap left by Reboot Develop , has opened applications for its Official Selection showcase, w…",
-  "at": "2026-11-24T12:44:12.294489+00:00"
- },
- {
-  "cat": "Jeu indé / marché",
-  "kind": "fait",
-  "src": "GamesIndustry.biz",
-  "date": "2026-11-24",
-  "title": "GTA 6 was the \"biggest launch in PlayStation history\", with the highest number of concurrent players ever",
-  "link": "https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever",
-  "summary": "Christmas did not come early for Sony, but it came close: the firm has declared that GTA 6 was the largest game launch in the platform's history, driving a rec…",
-  "at": "2026-11-24T12:44:12.294489+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Ars Technica",
-  "date": "2026-11-24",
-  "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-  "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-  "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-  "at": "2026-11-24T12:44:12.294489+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Ars Technica",
-  "date": "2026-11-24",
-  "title": "One terminal command gave my forgotten Android device a desk job",
-  "link": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
-  "summary": "The free, open source PhoneBox dashboard puts old Android screens back to work.",
-  "at": "2026-11-24T12:44:12.294489+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Next.ink",
-  "date": "2026-11-24",
-  "title": "Panne Microsoft : plus précis, le rapport final nie toute cyberattaque ou usage de l’IA",
-  "link": "https://next.ink/269535/panne-microsoft-plus-precis-le-rapport-final-nie-toute-cyberattaque-ou-usage-de-lia/",
-  "summary": "Même si Microsoft a publié un rapport préliminaire le 15 novembre, la version définitive pousse plus loin dans les détails et répond à plusieurs éléments laiss…",
-  "at": "2026-11-24T12:44:12.294489+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "NVIDIA (YouTube : NVIDIA)",
-  "date": "2026-11-24",
-  "title": "Why Transparency Matters for AI Security",
-  "link": "https://www.youtube.com/watch?v=aAbtjH0-oQQ",
-  "summary": "Red Hat CTO Chris Wright joins the NVIDIA AI Podcast at GTC Berlin to explain why open source is the foundation for secure AI agents. From Linux in the 1990s t…",
-  "at": "2026-11-24T12:44:12.294489+00:00"
- },
- {
-  "cat": "Outils gratuits",
-  "kind": "fait",
-  "src": "80 Level",
-  "date": "2026-11-24",
-  "title": "Creating Game-Ready Fictional Military Vehicle In 3D",
-  "link": "https://80.lv/articles/creating-game-ready-fictional-military-vehicle-in-3d/",
-  "summary": "Ilya Curichenkow told us about the workflow behind XM-118 Onza 8x8 Fire Support Vehicle, an original vehicle concept featuring detailed interiors, a detachable…",
-  "at": "2026-11-24T14:14:35.328074+00:00"
- },
- {
-  "cat": "YouTube",
-  "kind": "fait",
-  "src": "YouTube - blog officiel",
-  "date": "2026-11-24",
-  "title": "YouTube celebrates the launch and cultural impact of Grand Theft Auto VI",
-  "link": "https://blog.youtube/news-and-events/youtube-rockstar-games-gta-vi-launch/",
-  "summary": "As the definitive destination for all GTAVI video content, YouTube introduces GTA-themed interactive features, 24-hour global livestream, and more.",
-  "at": "2026-11-24T14:14:35.328074+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "Bedroom Producers Blog",
-  "date": "2026-11-24",
-  "title": "InnerMost47 releases GRM Guitar, a FREE physically modeled acoustic guitar for Windows and Linux",
-  "link": "https://bedroomproducersblog.com/2026/11/24/innermost47-grm-guitar/",
-  "summary": "Developer InnerMost47 has released GRM Guitar, a free physically modelled acoustic guitar for Windows and Linux. GRM Guitar is a free, open-source, physically…",
-  "at": "2026-11-24T14:14:35.328074+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "OpenAI (YouTube : OpenAI)",
-  "date": "2026-11-24",
-  "title": "Conheça o novíssimo ChatGPT Modo Voz.",
-  "link": "https://www.youtube.com/watch?v=5p8CdiQGqV4",
-  "summary": "De uma simples pergunta a uma tarefa resolvida. É só falar com o ChatGPT Modo Voz. Ele te escuta e faz com você.",
-  "at": "2026-11-24T14:14:35.328074+00:00"
- },
- {
   "cat": "Opportunités IA",
   "kind": "fait",
   "src": "Google - AI blog",
@@ -958,5 +808,395 @@
   "link": "https://www.numerama.com/cyberguerre/2384431-la-menace-setend-le-systeme-osint-de-la-cia-pirate-probablement-par-le-meme-outil-ia-que-la-commission-europeenne.html",
   "summary": "Selon le New York Times, des pirates ont compromis un système d'analyse en sources ouvertes de la CIA. Deux autres agences de renseignement américaines auraien…",
   "at": "2026-11-25T13:27:18.677500+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-25",
+  "title": "Godot 3(not 4)pick up and use items",
+  "link": "https://forum.godotengine.org/t/godot-3-not-4-pick-up-and-use-items/147795",
+  "summary": "Godot Version Godot 3 .2.3 stable Question (A) you are walking across a platform you find a gun on the ground you pick it attach it to the player then using a…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-25",
+  "title": "Confused about setting global position",
+  "link": "https://forum.godotengine.org/t/confused-about-setting-global-position/147792",
+  "summary": "Godot Version 4.7.2 stable Question I am trying to store the location of a movable platform in my 2d game. When the platform falls down I try to store its loca…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-25",
+  "title": "What are your favorite video game soundtracks?",
+  "link": "https://forum.godotengine.org/t/what-are-your-favorite-video-game-soundtracks/147796",
+  "summary": "These are some of my favorite musical pieces from video games. Company of Heroes - Cris Velasco March of the Britons Company of Heroes Music: March of the Brit…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "BlenderNation",
+  "date": "2026-11-25",
+  "title": "Creating Armour in Blender",
+  "link": "https://www.blendernation.com/2026/11/25/creating-armour-in-blender/",
+  "summary": "Jan van den Hemel shows how to create Maximilian-inspired body armour with flutings (ridges) in Blender, using easy, artist-friendly techniques. Source",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "80 Level",
+  "date": "2026-11-25",
+  "title": "Learn How To Create This Colorful Cel Shader in Blender 5.3",
+  "link": "https://80.lv/articles/learn-how-to-create-this-colorful-cel-shader-in-blender-5-3/",
+  "summary": "Virendra Kumar has shared a new tutorial on using the new Light Accumulation node.",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Jeu indé / marché",
+  "kind": "fait",
+  "src": "GamesIndustry.biz",
+  "date": "2026-11-25",
+  "title": "EA Sports FC 27 adds AI-recreated voice of late commentator John Motson",
+  "link": "https://www.gamesindustry.biz/ea-sports-fc-27-adds-ai-recreated-voice-of-late-commentator-john-motson",
+  "summary": "Electronic Arts is bringing back the voice of the late football commentator John Motson in EA Sports FC 27, recreated using a combination of archive recordings…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Jeu indé / marché",
+  "kind": "fait",
+  "src": "GamesIndustry.biz",
+  "date": "2026-11-25",
+  "title": "Ubisoft staff must justify not using generative AI in pitches, report claims",
+  "link": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
+  "summary": "Ubisoft teams pitching new projects are reportedly being asked to explain how generative AI would help them make games faster, and if they don't plan to use it…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Jeu indé / marché",
+  "kind": "fait",
+  "src": "GamesIndustry.biz",
+  "date": "2026-11-25",
+  "title": "\"You'd be nuts to take on all of that in the first project, and yet here we are\" – How Playground is finally making good on an all-new Fable",
+  "link": "https://www.gamesindustry.biz/youd-be-nuts-to-take-on-all-of-that-in-the-first-project-and-yet-here-we-are-how-playground-is-finally-making-good-on-an-all-new-fable",
+  "summary": "Fable is finally set to be released on February 23, 2027, after being pushed back from its autumn 2026 launch date earlier this year , and having previously sl…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - effets",
+  "date": "2026-11-25",
+  "title": "OneMove Audio discounts Vocal Console by 25% and the Resonance & Balance, Compressors and Ride & De-ess bundles to $7.99 for Black Friday",
+  "link": "https://www.kvraudio.com/news/onemove-audio-discounts-vocal-console-by-25-and-the-resonance-and-balance-compressors-and-ride-and-de-ess-bundles-to-7-99-for-black-friday-70093?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70093",
+  "summary": "OneMove Audio is discounting its iOS vocal plug-ins from 27 November to 1 December 2026: Vocal Console : the one-time unlock is $14.99 instead of $19.99; Reson…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "Hugging Face - blog",
+  "date": "2026-11-25",
+  "title": "Where scientists draw the line on AI agents",
+  "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+  "summary": "",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "GitHub - blog",
+  "date": "2026-11-25",
+  "title": "How to choose the next safe step in application modernization",
+  "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+  "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose t…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "GitHub - changelog",
+  "date": "2026-11-25",
+  "title": "Copilot code review billing will default to the organization",
+  "link": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+  "summary": "If you haven’t chosen how to bill Copilot code review for members with a Copilot license, those reviews will be billed to your organization starting December 3…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "NVIDIA - developer blog",
+  "date": "2026-11-25",
+  "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+  "link": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/",
+  "summary": "Attention can be a major bottleneck when serving world foundation models, where long sequences make inference computationally demanding. On NVIDIA Hopper and...",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "avis",
+  "src": "Simon Willison (tests d'outils IA)",
+  "date": "2026-11-25",
+  "title": "Quoting Scott Aaronson",
+  "link": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+  "summary": "It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Bedroom Producers Blog",
+  "date": "2026-11-25",
+  "title": "Clark Audio Dark Fantasy is FREE at Audio Plugin Deals for a limited time",
+  "link": "https://bedroomproducersblog.com/2026/11/25/clark-audio-dark-fantasy/",
+  "summary": "Audio Plugin Deals is offering Dark Fantasy by Clark Audio, a $49 virtual instrument for dark ambient and dungeon synth sounds, as a free download for a limite…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Bedroom Producers Blog",
+  "date": "2026-11-25",
+  "title": "The Synth Palace is a FREE collection of nine vintage synths for macOS and Windows",
+  "link": "https://bedroomproducersblog.com/2026/11/25/the-synth-palace-collection/",
+  "summary": "Synth Palace has released The Synth Palace, a free instrument featuring nine vintage-inspired synthesizers for macOS and Windows. First of all, until this year…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Bedroom Producers Blog",
+  "date": "2026-11-25",
+  "title": "Valhalla Supermassive 6.0 adds Helios mode to the FREE reverb and delay plugin",
+  "link": "https://bedroomproducersblog.com/2026/11/25/valhalla-supermassive-helios/",
+  "summary": "Valhalla DSP has updated Valhalla Supermassive to version 6.0.0, adding the new Helios mode to its free reverb and delay plugin for macOS and Windows. We cover…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Rekkerd.org",
+  "date": "2026-11-25",
+  "title": "FREE: Roots Bad Batch drum library by Westwood Instruments",
+  "link": "https://rekkerd.org/free-roots-bad-batch-drum-library-by-westwood-instruments/",
+  "summary": "Westwood Instruments has introduced the latest installment in the Roots series of uncomplicated yet extraordinary virtual instruments. Bad Batch features 6 set…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Rekkerd.org",
+  "date": "2026-11-25",
+  "title": "FREE: Clipper 2 effect plugin by Rockheyday (VST3/AU)",
+  "link": "https://rekkerd.org/free-clipper-2-effect-plugin-by-rockheyday-vst3-au/",
+  "summary": "Rockheyday has announced a streamlined version of its Clipper 7 plugin. Offering essential clipping functionality in a simpler, lightweight package, Clipper 2…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Rekkerd.org",
+  "date": "2026-11-25",
+  "title": "FREE: Valhalla Supermassive 6.0 brings new Helios reverb mode",
+  "link": "https://rekkerd.org/free-valhalla-supermassive-6-0-brings-new-helios-reverb-mode/",
+  "summary": "Valhalla DSP has announced an update to its audio plugin designed for massive delays and reverbs. Version 6.0 of Supermassive introduces Helios, a new reverb m…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Ars Technica",
+  "date": "2026-11-25",
+  "title": "Google search alternative Kagi launches Gmail rival",
+  "link": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+  "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Ars Technica",
+  "date": "2026-11-25",
+  "title": "Etsy clarifies AI terms after seller backlash",
+  "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+  "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "The Verge - IA",
+  "date": "2026-11-25",
+  "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+  "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+  "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisement…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "The Verge - IA",
+  "date": "2026-11-25",
+  "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+  "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+  "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "The Verge - IA",
+  "date": "2026-11-25",
+  "title": "Nothing offers a full look at its AI earbuds and charging case",
+  "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+  "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-25",
+  "title": "Black Friday : mon astuce pour dénicher les meilleurs vélos électriques reconditionnés sur Upway",
+  "link": "https://www.numerama.com/vroom/2384709-black-friday-mon-astuce-pour-denicher-les-meilleurs-velos-electriques-reconditionnes-sur-upway.html",
+  "summary": "Depuis six ans, je recommande Upway à mes potes et à mes collègues, toujours avec à peu près le même lien de recherche. Cette année, j'ai enfin suivi mon propr…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Next.ink",
+  "date": "2026-11-25",
+  "title": "L’IA générative, pompier-pyromane de l’infobésité au travail",
+  "link": "https://next.ink/269823/lia-generative-pompier-pyromane-de-linfobesite-au-travail/",
+  "summary": "Pour l’Observatoire de l’infobésité et de la collaboration numérique, qui publie son quatrième panorama sur le sujet de l’infobésité en entreprise, l’utilisati…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Next.ink",
+  "date": "2026-11-25",
+  "title": "☕️ La panne de Microsoft a déclenché un « code rouge » en interne",
+  "link": "https://next.ink/brief-article/la-panne-de-microsoft-a-declenche-un-code-rouge-en-interne/",
+  "summary": "La panne historique qui s’est étalée sur les 12 et 13 novembre a déclenché autant un vent de panique qu’une brutale prise de conscience chez Microsoft, selon R…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "OpenAI (YouTube : OpenAI)",
+  "date": "2026-11-25",
+  "title": "How your dot can keep work moving while you’re away",
+  "link": "https://www.youtube.com/watch?v=A4UNP-axGHU",
+  "summary": "Even when you step away for the holidays, work doesn’t always stop. Your dot can help. Raymond walks through how his dot keeps an eye on ongoing projects, flag…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "OpenAI (YouTube : OpenAI)",
+  "date": "2026-11-25",
+  "title": "School Day | Make a day do anything with ChatGPT (Official)",
+  "link": "https://www.youtube.com/watch?v=kfGYU_-SuaE",
+  "summary": "When an unexpected change of plans throws Marla and Ava’s day off course, the pair embark on a spontaneous adventure with a little help from ChatGPT. ChatGPT c…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "OpenAI (YouTube : OpenAI)",
+  "date": "2026-11-25",
+  "title": "Finances in ChatGPT: A Beginner’s Guide",
+  "link": "https://www.youtube.com/watch?v=hwKct_1ilEQ",
+  "summary": "Finances in ChatGPT can help you get a clearer picture of your spending and find ways to make progress toward your financial goals. In this video, we'll get yo…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "Google for Developers (YouTube : Google for Developers)",
+  "date": "2026-11-25",
+  "title": "5 developer tips for working with Gemini 4",
+  "link": "https://www.youtube.com/watch?v=WN5O4vWCa54",
+  "summary": "Google DeepMind's Patrick Löber and Geneviève Huskens share five practical tips for handing off long, complex engineering tasks to Gemini 4. Try Gemini 4 today…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "YouTube",
+  "kind": "fait",
+  "src": "Creator Insider (YouTube : Creator Insider)",
+  "date": "2026-11-25",
+  "title": "New! Multitasking with Ask Studio",
+  "link": "https://www.youtube.com/shorts/UO7QsnvHHjA",
+  "summary": "Ask Studio can now multitask across web and mobile, so you don’t have to stay with conversations, glued to the conversation, just to watch for responses in the…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "NVIDIA (YouTube : NVIDIA)",
+  "date": "2026-11-25",
+  "title": "One name. Two worlds. A shared commitment to safety. 🏔️🚗",
+  "link": "https://www.youtube.com/shorts/5_peDo1mukg",
+  "summary": "When principal software systems engineer Rez Nemati set out to scale Alpamayo, the famed pyramidal peak in the Peruvian Andes, he realized the mountain shares…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "NVIDIA Developer (YouTube : NVIDIA Developer)",
+  "date": "2026-11-25",
+  "title": "Video Reasoning and Model Fine-Tuning with Roboflow and NVIDIA Cosmos 3",
+  "link": "https://www.youtube.com/watch?v=IvNCYllEBZw",
+  "summary": "Learn how to build vision AI applications with NVIDIA Cosmos 3 and Roboflow. Join NVIDIA and Roboflow, a Cosmos Coalition partner, to see video reasoning in ac…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "NVIDIA Developer (YouTube : NVIDIA Developer)",
+  "date": "2026-11-25",
+  "title": "From RFP to Proposal: Agentic AI Runs AEC Workflows on NVIDIA DGX Station for Windows",
+  "link": "https://www.youtube.com/watch?v=hofffzgOLOE",
+  "summary": "An agent turns a Request for Proposal into a complete AEC concept package on a single NVIDIA DGX Station for Windows, powered by the NVIDIA GB300 Grace Blackwe…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "GitHub (YouTube : GitHub)",
+  "date": "2026-11-25",
+  "title": "From algoraves to quantum computing: creative coding with Char Stiles | S02E08 | The GitHub Podcast",
+  "link": "https://www.youtube.com/watch?v=L9YOFAglB04",
+  "summary": "In this episode of The GitHub Podcast Season 2, Cassidy Williams and GPS are joined by Char Stiles, a computational artist, software developer, and educator wh…",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "YouTube",
+  "kind": "fait",
+  "src": "Updates From YouTube (YouTube : Updates From YouTube)",
+  "date": "2026-11-25",
+  "title": "Red Carpet at the Clio Creator Awards 🏆",
+  "link": "https://www.youtube.com/shorts/QdZWfaF6OKU",
+  "summary": "Red carpet moments from the inaugural Clio Creator Awards celebrating creators, storytellers, and brand partnerships. #ClioCreatorAwards #CreatorEconomy",
+  "at": "2026-11-26T00:16:25.530815+00:00"
+ },
+ {
+  "cat": "Game jams & concours",
+  "kind": "fait",
+  "src": "itch.io - jams à venir",
+  "date": "?",
+  "title": "Kolide Jam 2026",
+  "link": "https://itch.io/jam/kolide-jam-2026",
+  "summary": "Hosted by Kolide Studio Starts in 2026-12-10T16:00:00Z · Lasts 2 days 42 joined Ranked Next",
+  "at": "2026-11-26T00:16:25.530815+00:00"
  }
 ]

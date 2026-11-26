@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-25 13:27 UTC
+Run : 2026-11-26 00:16 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -12,23 +12,23 @@ Run : 2026-11-25 13:27 UTC
 | OpenAI - news | OK | 1430 | 0 |
 | Google - AI blog | OK | 20 | 0 |
 | Game Developer | OK | 50 | 0 |
-| Hacker News - front page | OK | 7 | 0 |
-| Forum Godot (top jour) | OK | 7 | 0 |
+| Hacker News - front page | OK | 5 | 0 |
+| Forum Godot (top jour) | OK | 5 | 3 |
 | BlenderNation | OK | 10 | 1 |
 | 80 Level | OK | 10 | 1 |
-| GamesIndustry.biz | OK | 100 | 1 |
+| GamesIndustry.biz | OK | 100 | 3 |
 | YouTube - blog officiel | OK | 20 | 0 |
 | The Learning Scientists | OK | 20 | 0 |
 | KVR - top stories | OK | 30 | 0 |
 | KVR - instruments | OK | 30 | 0 |
-| KVR - effets | OK | 30 | 0 |
-| Hugging Face - blog | OK | 916 | 0 |
+| KVR - effets | OK | 30 | 1 |
+| Hugging Face - blog | OK | 917 | 1 |
 | Google DeepMind - blog | OK | 100 | 0 |
-| GitHub - blog | OK | 10 | 0 |
-| GitHub - changelog | OK | 10 | 0 |
-| NVIDIA - developer blog | OK | 100 | 0 |
+| GitHub - blog | OK | 10 | 1 |
+| GitHub - changelog | OK | 10 | 1 |
+| NVIDIA - developer blog | OK | 100 | 1 |
 | ComfyUI - blog | OK | 20 | 0 |
-| Simon Willison (tests d'outils IA) | OK | 30 | 0 |
+| Simon Willison (tests d'outils IA) | OK | 30 | 1 |
 | Steam - news | OK | 10 | 0 |
 | How To Market A Game | OK | 10 | 0 |
 | GameDiscoverCo | OK | 20 | 0 |
@@ -38,30 +38,30 @@ Run : 2026-11-25 13:27 UTC
 | WhisperX - releases | OK | 10 | 0 |
 | Krita - news | OK | 20 | 0 |
 | Blender - releases (GitHub mirror) | OK | 10 | 0 |
-| Bedroom Producers Blog | OK | 12 | 0 |
-| Rekkerd.org | OK | 100 | 0 |
-| Ars Technica | OK | 20 | 1 |
-| The Verge - IA | OK | 10 | 1 |
+| Bedroom Producers Blog | OK | 12 | 3 |
+| Rekkerd.org | OK | 100 | 3 |
+| Ars Technica | OK | 20 | 2 |
+| The Verge - IA | OK | 10 | 3 |
 | Numerama | OK | 15 | 1 |
-| Next.ink | OK | 50 | 0 |
+| Next.ink | OK | 50 | 2 |
 | Retrieval Practice | OK | 20 | 0 |
 | Scott H. Young | OK | 10 | 0 |
 | Cal Newport | OK | 8 | 0 |
 | Steamworks Development (annonces Valve) | OK | 10 | 0 |
 | Steam Labs | OK | 10 | 0 |
 | Anthropic (YouTube : Anthropic) | OK | 15 | 0 |
-| OpenAI (YouTube : OpenAI) | OK | 15 | 0 |
+| OpenAI (YouTube : OpenAI) | OK | 15 | 3 |
 | Google DeepMind (YouTube : Google DeepMind) | OK | 15 | 0 |
-| Google for Developers (YouTube : Google for Developers) | OK | 15 | 0 |
+| Google for Developers (YouTube : Google for Developers) | OK | 15 | 1 |
 | Godot Engine (YouTube : Godot Engine) | OK | 15 | 0 |
 | Blender (YouTube : Blender) | OK | 15 | 0 |
-| Creator Insider (YouTube : Creator Insider) | OK | 15 | 0 |
+| Creator Insider (YouTube : Creator Insider) | OK | 15 | 1 |
 | Google (YouTube : Google) | OK | 15 | 0 |
 | Meta AI (YouTube : AI at Meta) | OK | 15 | 0 |
-| NVIDIA (YouTube : NVIDIA) | OK | 15 | 0 |
-| NVIDIA Developer (YouTube : NVIDIA Developer) | OK | 15 | 0 |
+| NVIDIA (YouTube : NVIDIA) | OK | 15 | 1 |
+| NVIDIA Developer (YouTube : NVIDIA Developer) | OK | 15 | 2 |
 | Hugging Face (YouTube : Hugging Face) | OK | 15 | 0 |
-| GitHub (YouTube : GitHub) | OK | 15 | 0 |
+| GitHub (YouTube : GitHub) | OK | 15 | 1 |
 | Microsoft Developer (YouTube : Microsoft Developer) | OK | 15 | 0 |
 | Runway (YouTube : Runway) | OK | 15 | 0 |
 | Claude (YouTube : Claude) | OK | 15 | 0 |
@@ -72,6 +72,6 @@ Run : 2026-11-25 13:27 UTC
 | Blackmagic Design (YouTube : Blackmagic Design) | OK | 15 | 0 |
 | GDC (YouTube : GDC) | OK | 15 | 0 |
 | YouTube Creators (YouTube : @youtubecreators) | OK | 15 | 0 |
-| Updates From YouTube (YouTube : Updates From YouTube) | OK | 15 | 0 |
+| Updates From YouTube (YouTube : Updates From YouTube) | OK | 15 | 1 |
 | YouTube Insider (YouTube : YouTube Insider) | OK | 1 | 0 |
-| itch.io - jams à venir | OK | 51 | 0 |
+| itch.io - jams à venir | OK | 51 | 1 |
