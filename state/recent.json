@@ -1,15 +1,5 @@
 [
  {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "NVIDIA Developer (YouTube : NVIDIA Developer)",
-  "date": "2026-11-26",
-  "title": "What’s New in CUDA 13.5",
-  "link": "https://www.youtube.com/watch?v=A94A2hccFoM",
-  "summary": "CUDA 13.5 brings NVIDIA Vera Rubin support to general availability and extends Windows on Arm support to NVIDIA DGX Station for Windows. Join the CUDA team for…",
-  "at": "2026-11-26T04:20:34.019740+00:00"
- },
- {
   "cat": "Risques outils",
   "kind": "avis",
   "src": "Forum Godot (top jour)",
@@ -538,5 +528,195 @@
   "link": "https://forum.godotengine.org/t/enemy-navigation/147816",
   "summary": "Godot Version 4.7.2 Question I know this a simple question but I have been struggling a lot to get path finding working in my game. My game features no real te…",
   "at": "2026-11-27T04:30:08.958327+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-27",
+  "title": "Help with \"Gun Sprint\" style game physics (RigidBody3D weapon recoil)",
+  "link": "https://forum.godotengine.org/t/help-with-gun-sprint-style-game-physics-rigidbody3d-weapon-recoil/147817",
+  "summary": "Godot Version 4.7.2 Question Hi everyone, I’m currently trying to make a game inspired by Gun Sprint where shooting a gun uses physical recoil to make the weap…",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-27",
+  "title": "40% off Godot 4 VFX, shader and game-feel packs until Dec 2 (free Lites to try first)",
+  "link": "https://forum.godotengine.org/t/40-off-godot-4-vfx-shader-and-game-feel-packs-until-dec-2-free-lites-to-try-first/147818",
+  "summary": "Creator Day and Black Friday sale: 40% off every paid pack (Ember VFX 3D, Pulse FX 2D, Weather FX 2D, Hitfeel Kit, Retro Screen FX and more) from Nov 27 to Dec…",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "BlenderNation",
+  "date": "2026-11-27",
+  "title": "ProCity – A Procedural City Generator for Blender",
+  "link": "https://www.blendernation.com/2026/11/27/procity-a-procedural-city-generator-for-blender/",
+  "summary": "ProCity is a Blender add-on for generating 3D cities, from a single building to a whole metropolis. It creates entire cities, individual buildings, city blocks…",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "BlenderNation",
+  "date": "2026-11-27",
+  "title": "Blender 5.2.5 LTS and 4.5.17 LTS released",
+  "link": "https://www.blendernation.com/2026/11/27/blender-5-2-5-lts-and-4-5-17-lts-released/",
+  "summary": "The Blender Foundation released Blender 5.2.5 LTS and Blender 4.5.17 LTS. Both are maintenance updates with bug fixes only. Source",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Jeu indé / marché",
+  "kind": "fait",
+  "src": "GamesIndustry.biz",
+  "date": "2026-11-27",
+  "title": "Modern Warfare 4 launch boosts Call of Duty HQ to top of Newzoo's PC revenue charts",
+  "link": "https://www.gamesindustry.biz/modern-warfare-4-launch-boosts-call-of-duty-hq-to-top-of-newzoos-pc-charts",
+  "summary": "While October saw only a few new releases, the launch of Call of Duty: Modern Warfare 4 significantly increased revenue for game launcher Call of Duty HQ, movi…",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Game jams & concours",
+  "kind": "fait",
+  "src": "itch.io - blog",
+  "date": "2026-11-27",
+  "title": "Creator Day & Black Friday 2026 is live!",
+  "link": "https://itch.io/blog/1810469/creator-day-black-friday-2026-is-live",
+  "summary": "Creator Day is here! From midnight to midnight Pacific on Friday, November 27th (8am to 8am UTC), itch.io is waiving its platform fee on every purchase across…",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Bedroom Producers Blog",
+  "date": "2026-11-27",
+  "title": "Kate McGill offers 3 FREE vocal toplines exclusively for BPB readers",
+  "link": "https://bedroomproducersblog.com/2026/11/27/kate-mcgill-free-vocal-toplines/",
+  "summary": "Kate McGill Vocals is a free sample pack featuring three full-length female vocal toplines, available exclusively to BPB readers. Kate McGill is a UK vocalist…",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Bedroom Producers Blog",
+  "date": "2026-11-27",
+  "title": "Sacred Audio releases Mantra, a FREE LFO shaper and trance gate for macOS and Windows",
+  "link": "https://bedroomproducersblog.com/2026/11/27/sacred-audio-mantra/",
+  "summary": "Sacred Audio is offering Mantra, a free LFO shaper and trance gate for macOS and Windows, designed for rolling psytrance basslines and rhythmic pads. It’s a rh…",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Bedroom Producers Blog",
+  "date": "2026-11-27",
+  "title": "Westwood Instruments releases Roots Bad Batch, a FREE edgy percussion instrument",
+  "link": "https://bedroomproducersblog.com/2026/11/27/westwood-instruments-releases-roots-bad-batch-a-free-edgy-percussion-instrument-for-macos-and-windows/",
+  "summary": "Developer Westwood Instruments has released Roots Bad Batch, a free edgy percussion instrument for macOS and Windows. Bad Batch is the latest addition to the W…",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Rekkerd.org",
+  "date": "2026-11-27",
+  "title": "Waves Audio launches Rogue Pre-Focus: 6 rare analog preamp characters + FREE for Black Friday",
+  "link": "https://rekkerd.org/waves-audio-launches-rogue-pre-focus-6-rare-analog-preamp-characters-free-for-black-friday/",
+  "summary": "Waves Audio has announced the release of a new analog-modeled preamp plugin featuring 6 distinct preamp characters inspired by rare and hard-to-find hardware.…",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-27",
+  "title": "GTA 6 a failli avoir un parc d’attractions inspiré de Disney World",
+  "link": "https://www.numerama.com/pop-culture/2385841-gta-6-a-failli-avoir-un-parc-dattractions-inspire-de-disney-world.html",
+  "summary": "Dans une interview, Rob Nelson, producteur de GTA 6 et codirecteur du studio Rockstar North, a expliqué pourquoi Rockstar Games a dû abandonner l'idée de repro…",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-27",
+  "title": "Les profils criminels de GTA 6 font jaser, et Rockstar le savait",
+  "link": "https://www.numerama.com/pop-culture/2385817-les-profils-criminels-de-gta-6-font-jaser-et-rockstar-le-savait.html",
+  "summary": "Rockstar Games savait pertinemment que les profils criminels de GTA 6, qui dépendent de vos actions dans le jeu, ne feraient pas l'unanimité.",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-27",
+  "title": "Black Friday Dyson : l’aspirateur balai V16 Piston Animal perd 250 euros, le haut de gamme enfin accessible [Sponso]",
+  "link": "https://www.numerama.com/tech/2380169-black-friday-dyson-laspirateur-balai-v16-piston-animal-perd-250-euros-le-haut-de-gamme-enfin-accessible.html",
+  "summary": "Cet article a été réalisé en collaboration avec Dyson Pour le Black Friday, Dyson baisse le prix de trois appareils : l’aspirateur balai V16 Piston Animal pass…",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Next.ink",
+  "date": "2026-11-27",
+  "title": "#Nextquick : comment fonctionnent les IA génératives, en 5 minutes",
+  "link": "https://next.ink/270502/nextquick-comment-fonctionnent-les-ia-generatives-en-5-minutes/",
+  "summary": "Une IA générative, comment ça marche ? Sans trop entrer dans les détails techniques, Next vous explique le cheminement, d’un modèle vierge à qui il faut tout a…",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Next.ink",
+  "date": "2026-11-27",
+  "title": "☕️ SAP envisage jusqu’à 10 000 suppressions de postes au nom de la transformation par l’IA",
+  "link": "https://next.ink/brief-article/sap-envisage-jusqua-10-000-suppressions-de-postes-au-nom-de-la-transformation-par-lia/",
+  "summary": "Le géant allemand du logiciel SAP envisage une restructuration qui pourrait conduire à la suppression de 10 000 postes, soit environ 9 % de son effectif global…",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Next.ink",
+  "date": "2026-11-27",
+  "title": "Ubisoft mise sur l’IA pour tester plus vite ses idées de jeux",
+  "link": "https://next.ink/270479/ubisoft-mise-sur-lia-pour-tester-plus-vite-ses-idees-de-jeux/",
+  "summary": "Chez Ubisoft, les équipes qui présentent un nouveau jeu seraient invitées à expliquer comment l’IA générative pourrait accélérer le développement. Si elles veu…",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "Hugging Face (YouTube : Hugging Face)",
+  "date": "2026-11-27",
+  "title": "Simple Scaling of Swarms viaCooperative Multi-agent RL",
+  "link": "https://www.youtube.com/watch?v=SUP5rlVHI0Y",
+  "summary": "The Hugging Face research team discuss a simple extension to GRPO for training multi-agent systems of agents to collaborate. Paper: https://huggingface.co/pape…",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "Two Minute Papers (YouTube : Two Minute Papers)",
+  "date": "2026-11-27",
+  "title": "DeepMind’s New AI: The King Is Back",
+  "link": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
+  "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The security report is available here: https://storage.googleapis.com/dee…",
+  "at": "2026-11-27T09:38:21.096505+00:00"
+ },
+ {
+  "cat": "Game jams & concours",
+  "kind": "fait",
+  "src": "itch.io - jams à venir",
+  "date": "?",
+  "title": "Little Guy Game Jam #9",
+  "link": "https://itch.io/jam/little-guy-game-jam-9",
+  "summary": "Hosted by G2 G2 , jozefeenie! Starts in 2026-11-27T23:00:34Z · Lasts 6 days 46 joined Ranked",
+  "at": "2026-11-27T09:38:21.096505+00:00"
  }
 ]
