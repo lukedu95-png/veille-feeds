@@ -1,95 +1,5 @@
 [
  {
-  "cat": "Risques outils",
-  "kind": "avis",
-  "src": "Forum Godot (top jour)",
-  "date": "2026-11-26",
-  "title": "What would it take to get to this level on Godot?",
-  "link": "https://forum.godotengine.org/t/what-would-it-take-to-get-to-this-level-on-godot/147801",
-  "summary": "To all you talented people who have ideas, I’d love to hear your thoughts. Niagara MCP (AI-Assisted VFX) in Unreal Engine 5.9 | Course Teaser 2 posts - 2 parti…",
-  "at": "2026-11-26T09:28:05.940224+00:00"
- },
- {
-  "cat": "Outils gratuits",
-  "kind": "fait",
-  "src": "BlenderNation",
-  "date": "2026-11-26",
-  "title": "Ensō Engine 1.1: a free Blender build for anime and NPR",
-  "link": "https://www.blendernation.com/2026/11/26/enso-engine-1-1-a-free-blender-build-for-anime-and-npr/",
-  "summary": "Mix 3D Design released Ens? Engine 1.1, a free and open source build of Blender made for anime and non-photorealistic work. Source",
-  "at": "2026-11-26T09:28:05.940224+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "KVR - instruments",
-  "date": "2026-11-26",
-  "title": "Kaito Sato updates IMFMSynth 8-Operator FM/Wavetable Synthesizer to v1.2.0",
-  "link": "https://www.kvraudio.com/news/kaito-sato-updates-imfmsynth-8-operator-fm-wavetable-synthesizer-to-v1-2-0-70166?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70166",
-  "summary": "Kaito Sato has updated IMFMSynth , the 8-operator FM/wavetable synthesizer, to version 1.2.0. Instruments from .sf2 / .sf3 (SoundFont-compatible) files can now…",
-  "at": "2026-11-26T09:28:05.940224+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "KVR - effets",
-  "date": "2026-11-26",
-  "title": "Intrect updates de-artifact to 0.4.25 with AAX for Pro Tools on Windows",
-  "link": "https://www.kvraudio.com/news/intrect-updates-de-artifact-to-0-4-25-with-aax-for-pro-tools-on-windows-70187?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70187",
-  "summary": "Intrect has updated de-artifact , its restoration plug-in for AI-generated music and separated stems, to 0.4.25, adding an AAX version for Pro Tools on Windows…",
-  "at": "2026-11-26T09:28:05.940224+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "avis",
-  "src": "Simon Willison (tests d'outils IA)",
-  "date": "2026-11-26",
-  "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
-  "link": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
-  "summary": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47…",
-  "at": "2026-11-26T09:28:05.940224+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Numerama",
-  "date": "2026-11-26",
-  "title": "Ce que disent les paramètres graphiques de GTA 6 sur PS5 et Xbox",
-  "link": "https://www.numerama.com/pop-culture/2385115-ce-que-disent-les-parametres-graphiques-de-gta-6-sur-ps5-et-xbox.html",
-  "summary": "Un dataminer a révélé les paramètres graphiques de GTA 6, choisis par Rockstar Games sur les différentes consoles. Déjà très détaillé sur console, le jeu garde…",
-  "at": "2026-11-26T09:28:05.940224+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Next.ink",
-  "date": "2026-11-26",
-  "title": "Alerte sur les sites GenAI disponible sur Safari et recense 20 000 sites aux contenus IA",
-  "link": "https://next.ink/260035/alerte-sur-les-sites-genai-disponible-sur-safari-et-recense-20-000-sites-aux-contenus-ia/",
-  "summary": "Notre extension Alerte sur les sites d’infos générés par IA (GenAI) passe en version 3.1 et débarque sur Safari pour les Mac, avec d’autres nouveautés à la clé…",
-  "at": "2026-11-26T09:28:05.940224+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Next.ink",
-  "date": "2026-11-26",
-  "title": "Claude sait maintenant produire des applications à partir d’artefacts",
-  "link": "https://next.ink/270124/claude-sait-maintenant-produire-des-applications-a-partir-dartefacts/",
-  "summary": "Dans un élan ressemblant à celui des Progressive Web Apps en son temps, Claude peut maintenant produire des applications à partir des artefacts, sur Windows et…",
-  "at": "2026-11-26T09:28:05.940224+00:00"
- },
- {
-  "cat": "Risques outils",
-  "kind": "fait",
-  "src": "ComfyUI (Comfy Org) (YouTube : ComfyUI)",
-  "date": "2026-11-26",
-  "title": "Build With Us: Live Game Jam #3",
-  "link": "https://www.youtube.com/watch?v=Oqye03ZlXME",
-  "summary": "The best creative tools shouldn't live behind a closed door. Join Comfy's Matt Miller and Deep Mehta as they build a game live, from a blank canvas to somethin…",
-  "at": "2026-11-26T09:28:05.940224+00:00"
- },
- {
   "cat": "Jeu indé / marché",
   "kind": "fait",
   "src": "GamesIndustry.biz",
@@ -818,5 +728,85 @@
   "link": "https://next.ink/268574/olala-on-a-teste-des-ia-generatives-sur-cpu-avec-5-machines-et-plus-de-1-000-prompts/",
   "summary": "Combien de tokens par seconde est capable de générer Olala sur un processeur ? Nous l’avons mesuré sur cinq machines. Nous avons également comparé Olala à six…",
   "at": "2026-11-27T11:03:48.861589+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-27",
+  "title": "Help with Room Management for 2D side scroller",
+  "link": "https://forum.godotengine.org/t/help-with-room-management-for-2d-side-scroller/147824",
+  "summary": "I don’t know if this is the right place to post this. Please feel free to correct me. I’m stuck in a situation with my game that I don’t know how to approach.…",
+  "at": "2026-11-27T13:04:01.874128+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-27",
+  "title": "Area2D body_shape_entered won't trigger",
+  "link": "https://forum.godotengine.org/t/area2d-body-shape-entered-wont-trigger/147823",
+  "summary": "Godot Version 4.7.2 Question I am creating a 2D top-down racing game. I have certain tiles with custom data for obstacles (sand, the finish line, etc). I am tr…",
+  "at": "2026-11-27T13:04:01.874128+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "BlenderNation",
+  "date": "2026-11-27",
+  "title": "Render Bender brings colour grading and camera effects to Blender",
+  "link": "https://www.blendernation.com/2026/11/27/render-bender-brings-colour-grading-and-camera-effects-to-blender/",
+  "summary": "3D Tudor released Render Bender, a Blender add-on for finishing renders. It puts colour grading, atmosphere, render-pass adjustments and camera effects in orga…",
+  "at": "2026-11-27T13:04:01.874128+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "80 Level",
+  "date": "2026-11-27",
+  "title": "This Blender Tool Lets You Sculpt Directly Along Curves On 3D Surfaces",
+  "link": "https://80.lv/articles/this-blender-tool-lets-you-sculpt-directly-along-curves-on-3d-surfaces/",
+  "summary": "You can edit and reuse your curves at any time, making it easy to try different brushes, strengths, and effects.",
+  "at": "2026-11-27T13:04:01.874128+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "80 Level",
+  "date": "2026-11-27",
+  "title": "Cute Girl In Stylish Outfit Simulated With Houdini's Vellum Solver",
+  "link": "https://80.lv/articles/cute-girl-in-stylish-outfit-simulated-with-houdini-s-vellum-solver/",
+  "summary": "Download and study the project for free.",
+  "at": "2026-11-27T13:04:01.874128+00:00"
+ },
+ {
+  "cat": "Jeu indé / marché",
+  "kind": "fait",
+  "src": "GamesIndustry.biz",
+  "date": "2026-11-27",
+  "title": "Indie puzzle adventure Rhell beats GTA 6 to win Best Game Made in The North at the Game Republic Awards",
+  "link": "https://www.gamesindustry.biz/indie-puzzle-adventure-rhell-beats-gta-6-to-win-best-game-made-in-the-north-at-the-game-republic-awards",
+  "summary": "At the Game Republic Awards in Wakefield last night, the indie puzzle adventure Rhell: Warped Worlds and Troubled Times beat off competition from the likes of…",
+  "at": "2026-11-27T13:04:01.874128+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-27",
+  "title": "Les Anneaux de pouvoir inventent une prophétie sur Gandalf pour préparer sa future résurrection",
+  "link": "https://www.numerama.com/pop-culture/2386053-les-anneaux-de-pouvoir-inventent-une-prophetie-sur-gandalf-pour-preparer-sa-future-resurrection.html",
+  "summary": "Dans le dernier épisode de la saison 3 des Anneaux de pouvoir, mis en ligne ce mercredi 25 novembre 2026 sur Prime Video, un mage passé au service de Sauron pr…",
+  "at": "2026-11-27T13:04:01.874128+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-27",
+  "title": "La France se dote de ses premiers drones intercepteurs Gobi Zephyr qui filent à 350 km/h pour percuter d’autres drones",
+  "link": "https://www.numerama.com/tech/2386319-la-france-se-dote-de-ses-premiers-drones-intercepteurs-qui-filent-a-350-km-h-pour-percuter-dautres-drones.html",
+  "summary": "La Direction générale de l'armement a livré ce jeudi 26 novembre 2026 aux armées françaises leurs premiers drones intercepteurs de drones, des Gobi Zephyr conç…",
+  "at": "2026-11-27T13:04:01.874128+00:00"
  }
 ]
