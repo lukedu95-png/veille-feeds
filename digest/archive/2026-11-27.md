@@ -1,5 +1,5 @@
-# Digest veille — 2026-11-27 02:18 UTC (collecté sur les dernières 26 h)
-55 nouveaux éléments · 72/72 flux OK (détail : digest/status.md)
+# Digest veille — 2026-11-27 04:30 UTC (collecté sur les dernières 26 h)
+54 nouveaux éléments · 67/72 flux OK (détail : digest/status.md)
 
 ## Game jams & concours
 - [fait] itch.io - jams à venir · ? · **ENTRY LVL JAM II** — Hosted by Knightsicle Starts in 2026-12-01T06:00:00Z · Lasts 30 days 47 joined Ranked Next <https://itch.io/jam/entry-lvl-jam-ii>
@@ -37,7 +37,6 @@
 - [fait] The Learning Scientists · 2026-11-26 · **This Thanksgiving, Be Thankful for Forgetting** — This semester, I’m teaching a hybrid class that only meets on Thursdays. Because of this, we have met every week up until this week. However, with Thanksgiving… <https://www.learningscientists.org/blog/2026/11/26>
 
 ## Opportunités IA
-- [fait] NVIDIA Developer (YouTube : NVIDIA Developer) · 2026-11-26 · **Dev Community Live Agent Gauntlet at GTC DC** — Developers built the agents. Now watch them take on the GAUNTLET. The NVIDIA Developer Live Agent Gauntlet comes to GTC Washington, D.C., where developers buil… <https://www.youtube.com/watch?v=Yxu4mipMqwc>
 - [fait] NVIDIA Developer (YouTube : NVIDIA Developer) · 2026-11-26 · **What’s New in CUDA 13.5** — CUDA 13.5 brings NVIDIA Vera Rubin support to general availability and extends Windows on Arm support to NVIDIA DGX Station for Windows. Join the CUDA team for… <https://www.youtube.com/watch?v=A94A2hccFoM>
 - [avis] Simon Willison (tests d'outils IA) · 2026-11-26 · **sqlite3_rsync: Database Remote-Copy Tool For SQLite** — sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as "experimental" in SQLite 3.47… <https://simonwillison.net/2026/Nov/26/sqlite3-rsync/>
 - [fait] Hugging Face - blog · 2026-11-26 · **Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon** —  <https://huggingface.co/blog/ggml-org/llamacpp-amd-bench>
@@ -65,7 +64,7 @@
 - [fait] Next.ink · 2026-11-26 · **☕️ L’ANSM rappelle que les chatbots IA ne remplacent pas le conseil d’un médecin** — Les leaders de l’IA générative ont lancé en début d’année leurs chatbots spécialisés dans la santé. Mais, en France, l’Agence nationale de sécurité du médicame… <https://next.ink/brief-article/lansm-rappelle-que-les-chatbots-ia-ne-remplacent-pas-le-conseil-dun-medecin/>
 
 ## Risques outils
-- [avis] Forum Godot (top jour) · 2026-11-26 · **How to properly set up for non-pixelart game a.k.a. eliminate blurry or jagged art and textures** — Godot Version 4.8 Question Hiyya! For non -pixelart 2d games, such as hand drawn textures or lineart based games… what is the route to take? Is there somewhere… <https://forum.godotengine.org/t/how-to-properly-set-up-for-non-pixelart-game-a-k-a-eliminate-blurry-or-jagged-art-and-textures/147798>
+- [avis] Forum Godot (top jour) · 2026-11-27 · **Enemy navigation** — Godot Version 4.7.2 Question I know this a simple question but I have been struggling a lot to get path finding working in my game. My game features no real te… <https://forum.godotengine.org/t/enemy-navigation/147816>
 - [avis] Forum Godot (top jour) · 2026-11-26 · **What would it take to get to this level on Godot?** — To all you talented people who have ideas, I’d love to hear your thoughts. Niagara MCP (AI-Assisted VFX) in Unreal Engine 5.9 | Course Teaser 2 posts - 2 parti… <https://forum.godotengine.org/t/what-would-it-take-to-get-to-this-level-on-godot/147801>
 - [fait] ComfyUI (Comfy Org) (YouTube : ComfyUI) · 2026-11-26 · **Build With Us: Live Game Jam #3** — The best creative tools shouldn't live behind a closed door. Join Comfy's Matt Miller and Deep Mehta as they build a game live, from a blank canvas to somethin… <https://www.youtube.com/watch?v=Oqye03ZlXME>
 - [avis] Forum Godot (top jour) · 2026-11-26 · **Backgrounds for spatial editor menu plugins** — Godot Version Godo 4.7.2 Question I’m working on a plugin that primarily exposes its interface using a spatial editor menu. It’s a minor thing, but I’ve notice… <https://forum.godotengine.org/t/backgrounds-for-spatial-editor-menu-plugins/147804>

@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-27 02:18 UTC
+Run : 2026-11-27 04:30 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -12,8 +12,8 @@ Run : 2026-11-27 02:18 UTC
 | OpenAI - news | OK | 1430 | 0 |
 | Google - AI blog | OK | 20 | 0 |
 | Game Developer | OK | 50 | 0 |
-| Hacker News - front page | OK | 5 | 0 |
-| Forum Godot (top jour) | OK | 3 | 0 |
+| Hacker News - front page | OK | 7 | 0 |
+| Forum Godot (top jour) | OK | 5 | 1 |
 | BlenderNation | OK | 10 | 0 |
 | 80 Level | OK | 10 | 0 |
 | GamesIndustry.biz | OK | 100 | 0 |
@@ -51,19 +51,19 @@ Run : 2026-11-27 02:18 UTC
 | Steam Labs | OK | 10 | 0 |
 | Anthropic (YouTube : Anthropic) | OK | 15 | 0 |
 | OpenAI (YouTube : OpenAI) | OK | 15 | 0 |
-| Google DeepMind (YouTube : Google DeepMind) | OK | 15 | 0 |
+| Google DeepMind (YouTube : Google DeepMind) | ERREUR : 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0M… | 0 | 0 |
 | Google for Developers (YouTube : Google for Developers) | OK | 15 | 0 |
 | Godot Engine (YouTube : Godot Engine) | OK | 15 | 0 |
 | Blender (YouTube : Blender) | OK | 15 | 0 |
 | Creator Insider (YouTube : Creator Insider) | OK | 15 | 0 |
 | Google (YouTube : Google) | OK | 15 | 0 |
-| Meta AI (YouTube : AI at Meta) | OK | 15 | 0 |
+| Meta AI (YouTube : AI at Meta) | ERREUR : 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC5qxlwEKM7-5YZudb24… | 0 | 0 |
 | NVIDIA (YouTube : NVIDIA) | OK | 15 | 0 |
 | NVIDIA Developer (YouTube : NVIDIA Developer) | OK | 15 | 0 |
 | Hugging Face (YouTube : Hugging Face) | OK | 15 | 0 |
 | GitHub (YouTube : GitHub) | OK | 15 | 0 |
 | Microsoft Developer (YouTube : Microsoft Developer) | OK | 15 | 0 |
-| Runway (YouTube : Runway) | OK | 15 | 0 |
+| Runway (YouTube : Runway) | ERREUR : 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCUBqu_z5uP0AZhYtuyF… | 0 | 0 |
 | Claude (YouTube : Claude) | OK | 15 | 0 |
 | ComfyUI (Comfy Org) (YouTube : ComfyUI) | OK | 15 | 0 |
 | Two Minute Papers (YouTube : Two Minute Papers) | OK | 15 | 0 |
@@ -71,7 +71,7 @@ Run : 2026-11-27 02:18 UTC
 | Blender Studio (YouTube : Blender Studio) | OK | 15 | 0 |
 | Blackmagic Design (YouTube : Blackmagic Design) | OK | 15 | 0 |
 | GDC (YouTube : GDC) | OK | 15 | 0 |
-| YouTube Creators (YouTube : @youtubecreators) | OK | 15 | 0 |
-| Updates From YouTube (YouTube : Updates From YouTube) | OK | 15 | 0 |
+| YouTube Creators (YouTube : @youtubecreators) | ERREUR : 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCkRfArvrzheW2E7b6SV… | 0 | 0 |
+| Updates From YouTube (YouTube : Updates From YouTube) | ERREUR : 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtEZrAPPlnGF3IPc46I… | 0 | 0 |
 | YouTube Insider (YouTube : YouTube Insider) | OK | 1 | 0 |
-| itch.io - jams à venir | OK | 50 | 1 |
+| itch.io - jams à venir | OK | 50 | 0 |
