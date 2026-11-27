@@ -1,85 +1,5 @@
 [
  {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "Hugging Face - blog",
-  "date": "2026-11-25",
-  "title": "An Indic Voice Agent with CUGA",
-  "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-  "summary": "",
-  "at": "2026-11-25T11:30:17.823014+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "Two Minute Papers (YouTube : Two Minute Papers)",
-  "date": "2026-11-25",
-  "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
-  "link": "https://www.youtube.com/watch?v=hwWlEuI359w",
-  "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://nasqret.github.io/riemann-rev/guide/…",
-  "at": "2026-11-25T11:30:17.823014+00:00"
- },
- {
-  "cat": "Outils gratuits",
-  "kind": "fait",
-  "src": "BlenderNation",
-  "date": "2026-11-25",
-  "title": "Outfit Refit 2.0 and DrapeFix: fit outfits to any avatar, then give them a real cloth drape",
-  "link": "https://www.blendernation.com/2026/11/25/outfit-refit-2-0-and-drapefix-fit-outfits-to-any-avatar-then-give-them-a-real-cloth-drape/",
-  "summary": "Meshwright released DrapeFix, a new Blender add-on that settles a fitted outfit on an avatar with Blender's own cloth solver, and Outfit Refit 2.0, which fits…",
-  "at": "2026-11-25T13:27:18.677500+00:00"
- },
- {
-  "cat": "Outils gratuits",
-  "kind": "fait",
-  "src": "80 Level",
-  "date": "2026-11-25",
-  "title": "This Blender Shader Turns Any 3D Object Into Woodcut Illustration",
-  "link": "https://80.lv/articles/this-blender-shader-turns-any-3d-object-into-woodcut-illustration/",
-  "summary": "No UVs, textures, or setup required.",
-  "at": "2026-11-25T13:27:18.677500+00:00"
- },
- {
-  "cat": "Jeu indé / marché",
-  "kind": "fait",
-  "src": "GamesIndustry.biz",
-  "date": "2026-11-25",
-  "title": "Analyst: Don't expect hardware price cuts until at least 2028",
-  "link": "https://www.gamesindustry.biz/analyst-dont-expect-hardware-price-cuts-until-at-least-2028",
-  "summary": "Manufacturers are unlikely to drop console prices until at least 2028, according to a new analysis by S&P Global Market Intelligence Kagan, which judged that p…",
-  "at": "2026-11-25T13:27:18.677500+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Ars Technica",
-  "date": "2026-11-25",
-  "title": "AI may soon change what it means to be a theoretical physicist",
-  "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
-  "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
-  "at": "2026-11-25T13:27:18.677500+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "The Verge - IA",
-  "date": "2026-11-25",
-  "title": "Has vibe coding made open source the new normal for synths?",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
-  "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to…",
-  "at": "2026-11-25T13:27:18.677500+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Numerama",
-  "date": "2026-11-25",
-  "title": "La menace s’étend : le système OSINT de la CIA piraté, probablement par le même outil IA que la Commission européenne",
-  "link": "https://www.numerama.com/cyberguerre/2384431-la-menace-setend-le-systeme-osint-de-la-cia-pirate-probablement-par-le-meme-outil-ia-que-la-commission-europeenne.html",
-  "summary": "Selon le New York Times, des pirates ont compromis un système d'analyse en sources ouvertes de la CIA. Deux autres agences de renseignement américaines auraien…",
-  "at": "2026-11-25T13:27:18.677500+00:00"
- },
- {
   "cat": "Risques outils",
   "kind": "avis",
   "src": "Forum Godot (top jour)",
@@ -798,5 +718,215 @@
   "link": "https://rekkerd.org/free-super-909-drums-drum-machine-for-ios-and-mac-by-audiokit/",
   "summary": "AudioKit has introduced a free drum machine app for iPhone, iPad and Mac. Inspired by several 909-style drum machines, including an original 1984 TR-909, the T…",
   "at": "2026-11-26T13:06:02.778842+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-26",
+  "title": "Light artifacts on MacOS",
+  "link": "https://forum.godotengine.org/t/light-artifacts-on-macos/147807",
+  "summary": "Godot Version 4.7.2 Question Hello! While developing my game I’ve noticed that on MacOS the lighting system displays some artifacts. I’ve set up a new project…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "BlenderNation",
+  "date": "2026-11-26",
+  "title": "DOGWALK for visionOS: Blender Studio releases the Apple Vision Pro source code",
+  "link": "https://www.blendernation.com/2026/11/26/dogwalk-for-visionos-blender-studio-releases-the-apple-vision-pro-source-code/",
+  "summary": "Blender Studio has released the source code of DOGWALK for visionOS, the Apple Vision Pro version of its Godot game that appeared at WWDC26. It's free for ever…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "80 Level",
+  "date": "2026-11-26",
+  "title": "80 Level Contest: Win Steam Keys for Hozy, Cozy Restoration Game",
+  "link": "https://80.lv/articles/80-level-contest-win-steam-keys-for-hozy-cozy-restoration-game/",
+  "summary": "You've likely heard of Hozy . Now it's time to play it – for free if fortune smiles on you.",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "80 Level",
+  "date": "2026-11-26",
+  "title": "Recreating the Scale Model Look of a Rally Diorama in Houdini",
+  "link": "https://80.lv/articles/recreating-the-scale-model-look-of-a-rally-diorama-in-houdini/",
+  "summary": "Will Hoskin talked to us about recreating the look of a handmade rally diorama in 3D, using Houdini's procedural tools to craft cotton dust, wire trees, and pl…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "80 Level",
+  "date": "2026-11-26",
+  "title": "Turning Whimsical 2D Town Into Cozy 3D World",
+  "link": "https://80.lv/articles/turning-whimsical-2d-town-into-cozy-3d-world/",
+  "summary": "Pedro Henrique Placido Silva told us how he brought a charming fantasy town from a 2D illustration to a 3D scene, covering the full workflow from modeling and…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Méthodes prouvées",
+  "kind": "fait",
+  "src": "The Learning Scientists",
+  "date": "2026-11-26",
+  "title": "This Thanksgiving, Be Thankful for Forgetting",
+  "link": "https://www.learningscientists.org/blog/2026/11/26",
+  "summary": "This semester, I’m teaching a hybrid class that only meets on Thursdays. Because of this, we have met every week up until this week. However, with Thanksgiving…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - top stories",
+  "date": "2026-11-26",
+  "title": "Melbourne Instruments Roto-Control Gets Deep Integration with Cubase and FL Studio",
+  "link": "https://www.kvraudio.com/news/melbourne-instruments-roto-control-gets-deep-integration-with-cubase-and-fl-studio-70191?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70191",
+  "summary": "Melbourne Instruments today released native Cubase and FL Studio integration for Roto-Control , its motorized MIDI controller. Roto-Control now reaches every t…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - instruments",
+  "date": "2026-11-26",
+  "title": "ivoschi MidiBro, DAWbro or NoteWarp - Back Friday 30% Off Until December 1",
+  "link": "https://www.kvraudio.com/news/ivoschi-midibro-dawbro-or-notewarp---back-friday-30-off-until-december-1-70205?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70205",
+  "summary": "ivoschi is offering MidiBro , DAWbro and NoteWarp at 30% off until the end of December 1, 2026. On December 2 the regular prices apply again. Offer details : M…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - instruments",
+  "date": "2026-11-26",
+  "title": "Ramiforms Launches Fluidic, GravSuite, SoundClone and Hexagong",
+  "link": "https://www.kvraudio.com/news/ramiforms-launches-fluidic-gravsuite-soundclone-and-hexagong-70186?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70186",
+  "summary": "Ramiforms has opened its store with four instrument and MIDI plug-ins: Fluidic , GravSuite , SoundClone and Hexagong . All four are 50% off until December 31,…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - effets",
+  "date": "2026-11-26",
+  "title": "Sbrauser Audio Offers 26% Off Plissken - The Modurator for Black Friday",
+  "link": "https://www.kvraudio.com/news/sbrauser-audio-offers-26-off-plissken---the-modurator-for-black-friday-70171?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70171",
+  "summary": "Sbrauser Audio has launched a Black Friday sale on Plissken - The Modurator , its saturation and modulation plug-in, with 26% off. Plissken combines Tube and F…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "avis",
+  "src": "Simon Willison (tests d'outils IA)",
+  "date": "2026-11-26",
+  "title": "Quoting Jack Despain Zhou",
+  "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+  "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentat…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Jeu indé / marché",
+  "kind": "fait",
+  "src": "Steam - news",
+  "date": "2026-11-26",
+  "title": "Black Friday discounts abound!",
+  "link": "https://store.steampowered.com/news/app/593110/view/685271681278672904",
+  "summary": "Black Friday, while not technically a holiday, is considered by many to be the unofficial official kickoff to the holiday shopping season, and developers are r…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Bedroom Producers Blog",
+  "date": "2026-11-26",
+  "title": "BPB releases Microspace, a FREE convolution reverb plugin",
+  "link": "https://bedroomproducersblog.com/2026/11/26/bpb-microspace/",
+  "summary": "I’m very happy to finally release BPB Microspace, a free convolution-based reverb for all BPB readers. It’s been on the back burner for over a year and is now…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Rekkerd.org",
+  "date": "2026-11-26",
+  "title": "FREE: Black Friday Mega Bundle by Audio Plugin Deals (limited time)",
+  "link": "https://rekkerd.org/free-black-friday-mega-bundle-by-audio-plugin-deals-limited-time/",
+  "summary": "Audio Plugin Deals is offering a bundle of 17 products as a free download, for a few hours only. The Black Friday Mega Bundle includes 9 plugins, an instrument…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Rekkerd.org",
+  "date": "2026-11-26",
+  "title": "FREE: BOROZ compact character effect plugin by fedDSP",
+  "link": "https://rekkerd.org/free-boroz-compact-character-effect-plugin-by-feddsp/",
+  "summary": "fedDSP has announced the release of a character processor destined to reign on your parallel busses, combining transformer-style color, compression, saturation…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Rekkerd.org",
+  "date": "2026-11-26",
+  "title": "FREE: Keyspike envelope shaper & drum gate by Kohina Audio",
+  "link": "https://rekkerd.org/free-keyspike-envelope-shaper-drum-gate-by-kohina-audio/",
+  "summary": "Kohina Audio has announced the release of a new multiband envelope shaper and gate effect plugin for Windows and macOS (VST3, AU and AAX). Keyspike splits a so…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-26",
+  "title": "FC 27 ressuscite un commentateur de foot décédé grâce à l’IA : sa voix est de retour",
+  "link": "https://www.numerama.com/pop-culture/2385441-fc-27-ressuscite-un-commentateur-de-foot-decede-grace-a-lia-sa-voix-est-de-retour.html",
+  "summary": "Electronic Arts ressuscite John Motson, voix historique des jeux FIFA (devenus EA Sports FC), grâce à l'IA générative. La famille du commentateur, mort en 2023…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-26",
+  "title": "« On a fait une erreur de facturation » : OpenAI corrige le tir, et vos quotas GPT-6.2 vont fondre jusqu’à 40 % plus vite",
+  "link": "https://www.numerama.com/tech/2385489-on-a-fait-une-erreur-de-facturation-openai-corrige-le-tir-et-vos-quotas-gpt-6-2-vont-fondre-jusqua-40-plus-vite.html",
+  "summary": "Pendant une semaine, les nouveaux modèles d'OpenAI ont semblé étonnamment généreux. C'était une erreur. En la corrigeant, l'entreprise fait fondre les quotas d…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-26",
+  "title": "Après Riemann, ce chercheur de renom est « quasiment certain » que l’IA a trouvé autre chose, et ça concerne vos données",
+  "link": "https://www.numerama.com/tech/2385329-apres-riemann-ce-chercheur-de-renom-est-quasiment-certain-que-lia-a-trouve-autre-chose-et-ca-concerne-vos-donnees.html",
+  "summary": "Hypothèse de Riemann, multiplication de matrices… Dans un billet survolté publié le 25 novembre 2026, l'informaticien Scott Aaronson raconte une semaine de per…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Next.ink",
+  "date": "2026-11-26",
+  "title": "☕️ L’ANSM rappelle que les chatbots IA ne remplacent pas le conseil d’un médecin",
+  "link": "https://next.ink/brief-article/lansm-rappelle-que-les-chatbots-ia-ne-remplacent-pas-le-conseil-dun-medecin/",
+  "summary": "Les leaders de l’IA générative ont lancé en début d’année leurs chatbots spécialisés dans la santé. Mais, en France, l’Agence nationale de sécurité du médicame…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "fait",
+  "src": "Blender Studio (YouTube : Blender Studio)",
+  "date": "2026-11-26",
+  "title": "Learn basics of rigging from Demeter",
+  "link": "https://www.youtube.com/shorts/TjGwnrRI820",
+  "summary": "Demeter sets CloudRig aside to show the foundational principles of rigging a character in Blender without any add-ons. Check out the new training in the Blende…",
+  "at": "2026-11-27T00:33:18.221747+00:00"
  }
 ]
