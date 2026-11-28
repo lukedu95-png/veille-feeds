@@ -1,215 +1,5 @@
 [
  {
-  "cat": "Jeu indé / marché",
-  "kind": "fait",
-  "src": "GamesIndustry.biz",
-  "date": "2026-11-26",
-  "title": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic",
-  "link": "https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic",
-  "summary": "The record-breaking launch of Grand Theft Auto 6 drove a combined 2.3 million downloads of the franchise's mobile ports in its first week. Read more",
-  "at": "2026-11-26T11:12:12.925222+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "KVR - effets",
-  "date": "2026-11-26",
-  "title": "Morro Labs releases Triode One - free VST3 saturation plugin set by typing a word",
-  "link": "https://www.kvraudio.com/news/morro-labs-releases-triode-one---free-vst3-saturation-plugin-set-by-typing-a-word-70188?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70188",
-  "summary": "Morro Labs has released Triode One , a free VST3 effect plugin for Windows. You type a word such as lofi, brass or dubstep and the plugin sets itself for that…",
-  "at": "2026-11-26T11:12:12.925222+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "Bedroom Producers Blog",
-  "date": "2026-11-26",
-  "title": "Nail The Mix offers FreqSniper resonance-removal plugin for FREE",
-  "link": "https://bedroomproducersblog.com/2026/11/26/nail-the-mix-freqsniper/",
-  "summary": "Nail The Mix is offering FreqSniper, a resonance-removal EQ plugin developed with Joey Sturgis Tones, as a free download. The plugin analyzes your audio and su…",
-  "at": "2026-11-26T11:12:12.925222+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "Bedroom Producers Blog",
-  "date": "2026-11-26",
-  "title": "Box Of Rules makes BR108 console channel strip plugin FREE",
-  "link": "https://bedroomproducersblog.com/2026/11/26/box-of-rules-br108/",
-  "summary": "Box Of Rules has made BR108, its British console channel strip plugin, free to download and use, including in commercial productions. Previously available to p…",
-  "at": "2026-11-26T11:12:12.925222+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "Bedroom Producers Blog",
-  "date": "2026-11-26",
-  "title": "Sync Audio releases SuperSample, a FREE audio preview player for macOS and Windows",
-  "link": "https://bedroomproducersblog.com/2026/11/26/sync-audio-supersample/",
-  "summary": "Sync Audio has released SuperSample, a free standalone audio player for macOS and Windows, with an optional Pro upgrade for sample manipulation and MIDI contro…",
-  "at": "2026-11-26T11:12:12.925222+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "Rekkerd.org",
-  "date": "2026-11-26",
-  "title": "Ultra Audio updates Ultra synthesizer to v1.5.0 incl. Blend UltraWaves",
-  "link": "https://rekkerd.org/ultra-audio-updates-ultra-synthesizer-to-v1-5-0-incl-blend-ultrawaves/",
-  "summary": "Ultra Audio has announced the release of an update to its next generation synthesizer instrument for Windows, macOS and Linux (VST3/AU). Version 1.5.0 of Ultra…",
-  "at": "2026-11-26T11:12:12.925222+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "Rekkerd.org",
-  "date": "2026-11-26",
-  "title": "2026-48 Round-Up: Synths & effects, DAWs, utilities and more",
-  "link": "https://rekkerd.org/2026-48-round-up-synths-effects-daws-utilities-and-more/",
-  "summary": "A day ahead of Black Friday, here’s the latest round-up of products from new “developers and creators”, including effect plugins, instruments, DJ tools, and ot…",
-  "at": "2026-11-26T11:12:12.925222+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "The Verge - IA",
-  "date": "2026-11-26",
-  "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-  "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-  "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a…",
-  "at": "2026-11-26T11:12:12.925222+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Numerama",
-  "date": "2026-11-26",
-  "title": "« Ne soyez pas un crétin enragé » : l’IA bouscule les maths, et ce chercheur star pense que le chiffrement est le prochain sur la liste",
-  "link": "https://www.numerama.com/tech/2385329-ne-soyez-pas-un-cretin-enrage-lia-bouscule-les-maths-et-ce-chercheur-star-pense-que-le-chiffrement-est-le-prochain-sur-la-liste.html",
-  "summary": "Le 25 novembre 2026, l'informaticien Scott Aaronson a publié un billet de blog survolté sur les découvertes mathématiques en série de l'IA. Il y affirme aussi…",
-  "at": "2026-11-26T11:12:12.925222+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Numerama",
-  "date": "2026-11-26",
-  "title": "GTA 6 à 30 fps sur PC et version PS5 piratée : les mauvaises nouvelles s’accumulent pour Rockstar",
-  "link": "https://www.numerama.com/tech/2385293-gta-6-a-30-fps-sur-pc-et-version-ps5-piratee-les-mauvaises-nouvelles-saccumulent-pour-rockstar.html",
-  "summary": "Une semaine après sa sortie, GTA 6 approche des 30 images par seconde sur PC grâce à des portages pirates construits sur la build Xbox qui a fuité. Sur PS5, un…",
-  "at": "2026-11-26T11:12:12.925222+00:00"
- },
- {
-  "cat": "Rapport à l'IA",
-  "kind": "fait",
-  "src": "Next.ink",
-  "date": "2026-11-26",
-  "title": "Les Français face aux sciences et technologies : l’IA cristallise les inquiétudes",
-  "link": "https://next.ink/270121/les-francais-face-aux-sciences-et-technologies-lia-cristallise-les-inquietudes/",
-  "summary": "La neuvième vague de l’enquête « Les Français et la science » révèle notamment une confiance toujours importante, un intérêt primordial pour la recherche médic…",
-  "at": "2026-11-26T11:12:12.925222+00:00"
- },
- {
-  "cat": "Risques outils",
-  "kind": "avis",
-  "src": "Forum Godot (top jour)",
-  "date": "2026-11-26",
-  "title": "Backgrounds for spatial editor menu plugins",
-  "link": "https://forum.godotengine.org/t/backgrounds-for-spatial-editor-menu-plugins/147804",
-  "summary": "Godot Version Godo 4.7.2 Question I’m working on a plugin that primarily exposes its interface using a spatial editor menu. It’s a minor thing, but I’ve notice…",
-  "at": "2026-11-26T13:06:02.778842+00:00"
- },
- {
-  "cat": "Outils gratuits",
-  "kind": "fait",
-  "src": "80 Level",
-  "date": "2026-11-26",
-  "title": "Ziva VFX-Inspired Physics-Based Muscle Simulation Tool For 3ds Max, Maya, Blender & Houdini",
-  "link": "https://80.lv/articles/ziva-vfx-inspired-physics-based-muscle-simulation-tool-for-3ds-max-maya-blender-houdini/",
-  "summary": "HézFX solves muscle, fascia, fat, and skin together in one simulation.",
-  "at": "2026-11-26T13:06:02.778842+00:00"
- },
- {
-  "cat": "Jeu indé / marché",
-  "kind": "fait",
-  "src": "GamesIndustry.biz",
-  "date": "2026-11-26",
-  "title": "NielsenIQ: GTA 6 boosts UK games retail revenue by 99% to £142m during launch period",
-  "link": "https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period",
-  "summary": "UK games retail revenue increased 99% week-on-week to £142 million during Grand Theft Auto 6's three-day launch period. Read more",
-  "at": "2026-11-26T13:06:02.778842+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "KVR - top stories",
-  "date": "2026-11-26",
-  "title": "Sound on Digital releases Mix to Mobile v2.0 with encrypted streams, adaptive latency and quality per stream",
-  "link": "https://www.kvraudio.com/news/sound-on-digital-releases-mix-to-mobile-v2-0-with-encrypted-streams-adaptive-latency-and-quality-per-stream-70190?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70190",
-  "summary": "Mix to Mobile by Sound on Digital has been updated to version 2.0. Mix to Mobile streams audio from a DAW, or from any audio input on the computer, to phones a…",
-  "at": "2026-11-26T13:06:02.778842+00:00"
- },
- {
-  "cat": "Opportunités IA",
-  "kind": "fait",
-  "src": "Hugging Face - blog",
-  "date": "2026-11-26",
-  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-  "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-  "summary": "",
-  "at": "2026-11-26T13:06:02.778842+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "Bedroom Producers Blog",
-  "date": "2026-11-26",
-  "title": "Nine Plugin Boutique deals for $5 or less, plus a FREE gift",
-  "link": "https://bedroomproducersblog.com/2026/11/26/plugin-boutique-5-bucks-deals/",
-  "summary": "If you’re looking for no-brainer combos, Plugin Boutique has nine Black Friday picks for $5 or less that also include a free gift. Following my $10-or-less rou…",
-  "at": "2026-11-26T13:06:02.778842+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "Bedroom Producers Blog",
-  "date": "2026-11-26",
-  "title": "Kaleidon Spark is a FREE effects sequencer that can also host plugins",
-  "link": "https://bedroomproducersblog.com/2026/11/26/kaleidon-spark-free/",
-  "summary": "Dylan Mixer offers Kaleidon Spark, a free effects sequencer for macOS and Windows that turns your existing plugins into rhythmic patterns. Before we continue,…",
-  "at": "2026-11-26T13:06:02.778842+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "Rekkerd.org",
-  "date": "2026-11-26",
-  "title": "Sinevibes releases Robotizer v2 rhythmic self-randomizing repeater plugin",
-  "link": "https://rekkerd.org/sinevibes-releases-robotizer-v2-rhythmic-self-randomizing-repeater-plugin/",
-  "summary": "Sinevibes has announced the release of the second generation of its beloved rhythmic self-randomizing repeater plugin for Windows, Mac and Linux. Built complet…",
-  "at": "2026-11-26T13:06:02.778842+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "Rekkerd.org",
-  "date": "2026-11-26",
-  "title": "n‑Track Studio 11 brings new effects, instruments, tools & AI assistant",
-  "link": "https://rekkerd.org/n-track-studio-11-brings-new-effects-instruments-tools-ai-assistant/",
-  "summary": "n-Track has announced the release of a major update to its audio recording and music production app for Windows, macOS and Linux, iOS and Android. n-Track Stud…",
-  "at": "2026-11-26T13:06:02.778842+00:00"
- },
- {
-  "cat": "Musique",
-  "kind": "fait",
-  "src": "Rekkerd.org",
-  "date": "2026-11-26",
-  "title": "FREE: Super 909 Drums drum machine for iOS and Mac by AudioKit",
-  "link": "https://rekkerd.org/free-super-909-drums-drum-machine-for-ios-and-mac-by-audiokit/",
-  "summary": "AudioKit has introduced a free drum machine app for iPhone, iPad and Mac. Inspired by several 909-style drum machines, including an original 1984 TR-909, the T…",
-  "at": "2026-11-26T13:06:02.778842+00:00"
- },
- {
   "cat": "Risques outils",
   "kind": "avis",
   "src": "Forum Godot (top jour)",
@@ -808,5 +598,305 @@
   "link": "https://www.numerama.com/tech/2386319-la-france-se-dote-de-ses-premiers-drones-intercepteurs-qui-filent-a-350-km-h-pour-percuter-dautres-drones.html",
   "summary": "La Direction générale de l'armement a livré ce jeudi 26 novembre 2026 aux armées françaises leurs premiers drones intercepteurs de drones, des Gobi Zephyr conç…",
   "at": "2026-11-27T13:04:01.874128+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "avis",
+  "src": "Hacker News - front page",
+  "date": "2026-11-27",
+  "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+  "link": "https://bouncemarket.minhanhday.com/",
+  "summary": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to eac…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-27",
+  "title": "LLMs aren't faster for coding - here's some results",
+  "link": "https://forum.godotengine.org/t/llms-arent-faster-for-coding-heres-some-results/147836",
+  "summary": "Ik ik, AI topics are terrible and all of that but today i come with some data for people who wonder about LLMs - i used QWEN3:14B and 2 helper files giving it…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-27",
+  "title": "Release candidate: Godot 4.8 RC 1",
+  "link": "https://forum.godotengine.org/t/release-candidate-godot-4-8-rc-1/147841",
+  "summary": "Godot 4.8 has arrived at the Release Candidate stage! Fuzzy searching, `Trail3D`, editor main screen docks, symbol renaming, and more await in a production-rea…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-27",
+  "title": "How to edit a textures HSV in Godot for a spacial shader",
+  "link": "https://forum.godotengine.org/t/how-to-edit-a-textures-hsv-in-godot-for-a-spacial-shader/147838",
+  "summary": "Godot Version 4.5.2 Question I can’t find a clear explanation for this in the docs, could someone explain how HSV works in godot please. I’ve used a default sp…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "BlenderNation",
+  "date": "2026-11-27",
+  "title": "AutonoMode, procedural car animation for Blender (free Lite version)",
+  "link": "https://www.blendernation.com/2026/11/27/autonomode-procedural-car-animation-for-blender-free-lite-version/",
+  "summary": "AutonoMode is an add-on that drives cars for you. You prepare any car model, give it a mission and press ROBOTIZE. The car drives itself and the whole animatio…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "BlenderNation",
+  "date": "2026-11-27",
+  "title": "Blender Advent Calendar: 25 Days of Add-on Reviews, Deals and Giveaways",
+  "link": "https://www.blendernation.com/2026/11/27/blender-advent-calendar-25-days-of-add-on-reviews-deals-and-giveaways/",
+  "summary": "Benjamin van der Starre is running the Blender Advent Calendar on YouTube from December 1 to 25. Every day a new door opens with a hands-on review of a Blender…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "80 Level",
+  "date": "2026-11-27",
+  "title": "Create Expressive 2D Face Animations In Blender With Ease",
+  "link": "https://80.lv/articles/create-expressive-2d-face-animations-in-blender-with-ease/",
+  "summary": "SouthernShotty's free tool doesn't require rigging.",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "80 Level",
+  "date": "2026-11-27",
+  "title": "Beautiful Shimmering Veil In Blender Inspired By Foundation Title Sequence",
+  "link": "https://80.lv/articles/beautiful-shimmering-veil-in-blender-inspired-by-foundation-title-sequence/",
+  "summary": "Learn how to recreate it by following Marinko Tambur's tutorial.",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Jeu indé / marché",
+  "kind": "fait",
+  "src": "GamesIndustry.biz",
+  "date": "2026-11-27",
+  "title": "One week on, here's the impact GTA 6's launch had on the industry so far",
+  "link": "https://www.gamesindustry.biz/one-week-on-heres-the-impact-gta-6s-launch-had-on-the-industry-so-far",
+  "summary": "GTA 6 has been on sale for a week, and remained the dominant game and talking point across the games industry – supported, admittedly, by a quiet news week in…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Jeu indé / marché",
+  "kind": "fait",
+  "src": "GamesIndustry.biz",
+  "date": "2026-11-27",
+  "title": "GTA 6's pirate PC ports: new tools, old problem | Opinion",
+  "link": "https://www.gamesindustry.biz/gta-6s-pirate-pc-ports-new-tools-old-problem-opinion",
+  "summary": "I'm sorry in advance. I know we'd all far prefer to be spending our time running around the sun-soaked dystopia of Vice City this week rather than spending it…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - top stories",
+  "date": "2026-11-27",
+  "title": "NUSofting releases Sinnah v2.0 - VST3 for Windows and native AU/VST3 for macOS",
+  "link": "https://www.kvraudio.com/news/nusofting-releases-sinnah-v2-0---vst3-for-windows-and-native-au-vst3-for-macos-70245?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70245",
+  "summary": "NUSofting has released Sinnah 2.0 , a major update to its freeware virtual hybrid synthesizer. It is now a VST3 plugin for Windows 10 and 11, and a native AU a…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - effets",
+  "date": "2026-11-27",
+  "title": "Rattle Can Collective updates NILS to v2.6.13",
+  "link": "https://www.kvraudio.com/news/rattle-can-collective-updates-nils-to-v2-6-13-70225?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70225",
+  "summary": "Rattle Can Collective has released NILS 2.6.13 , a free update to its automatic vocal-mixing plugin for Windows, macOS and Akai MPC. NILS listens to 30 seconds…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - effets",
+  "date": "2026-11-27",
+  "title": "Song Cage Releases Melody Rack Chords",
+  "link": "https://www.kvraudio.com/news/song-cage-releases-melody-rack-chords-70167?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70167",
+  "summary": "Song Cage has released Melody Rack Chords , a free MIDI effect plug-in that turns a sung or played melody into MIDI and writes a chord progression to fit it. A…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "KVR - effets",
+  "date": "2026-11-27",
+  "title": "Forward Audio Black Friday Sale",
+  "link": "https://www.kvraudio.com/news/forward-audio-black-friday-sale-70174?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70174",
+  "summary": "Forward Audio is running a Black Friday Sale with 35% off every paid plug-in, IR pack and bundle, applied automatically at checkout with no code. Returning cus…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Rekkerd.org",
+  "date": "2026-11-27",
+  "title": "Initial Audio updates SourceLab virtual instrument to v2.7.0",
+  "link": "https://rekkerd.org/initial-audio-updates-sourcelab-virtual-instrument-to-v2-7-0/",
+  "summary": "Initial Audio has released an update to its virtual instrument with an advanced wavetable engine, multisample playback, and loop slicing. SourceLab now comes w…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Musique",
+  "kind": "fait",
+  "src": "Rekkerd.org",
+  "date": "2026-11-27",
+  "title": "FREE: Blueprint: String Chords for Kontakt by Fracture Sounds",
+  "link": "https://rekkerd.org/free-blueprint-string-chords-for-kontakt-by-fracture-sounds/",
+  "summary": "Fracture Sounds has introduced a new installment in the Blueprint series of free instrument libraries for Kontakt and the free Kontakt Player. Bringing the sou…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "The Verge - IA",
+  "date": "2026-11-27",
+  "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+  "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+  "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-27",
+  "title": "Les Anneaux de pouvoir : pourquoi Sauron a-t-il pris cette décision surprise à la fin de la saison 3 ?",
+  "link": "https://www.numerama.com/pop-culture/2386767-les-anneaux-de-pouvoir-pourquoi-sauron-a-t-il-pris-cette-decision-surprise-a-la-fin-de-la-saison-3.html",
+  "summary": "Dans le final de la saison 3 des Anneaux de pouvoir, mis en ligne ce mercredi 25 novembre sur Prime Video, Sauron retire l'Anneau unique qu'il vient de forger…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Numerama",
+  "date": "2026-11-27",
+  "title": "Le Mordor, là où siège le volcan Orodruin : d’où vient ce nom dans Les Anneaux de pouvoir",
+  "link": "https://www.numerama.com/pop-culture/1137948-le-mordor-la-ou-siege-le-volcan-orodruin-dou-vient-ce-nom-dans-les-anneaux-de-pouvoir.html",
+  "summary": "Le Mordor est la région dans laquelle Sauron prépare ses plans maléfiques. La série Les Anneaux de pouvoir donne une origine à ce nom, et sa saison 3, achevée…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Next.ink",
+  "date": "2026-11-27",
+  "title": "☕️ Le New York Times interdit Photoshop 2027 à ses photographes à cause de l’IA",
+  "link": "https://next.ink/brief-article/le-new-york-times-interdit-photoshop-2027-a-ses-photographes-a-cause-de-lia/",
+  "summary": "L’IA générative infuse tellement dans Photoshop que le New York Times a demandé à ses photographes de ne pas utiliser la dernière version du logiciel d’Adobe.…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Rapport à l'IA",
+  "kind": "fait",
+  "src": "Next.ink",
+  "date": "2026-11-27",
+  "title": "Carte bancaire : qui connaît vraiment votre code PIN ?",
+  "link": "https://next.ink/228974/carte-bancaire-qui-connait-vraiment-votre-code-pin/",
+  "summary": "Beaucoup de questions simples appellent des réponses complexes, surtout quand on touche à la cryptographie, domaine qui ne tolère aucun raccourci ou approximat…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "YouTube",
+  "kind": "fait",
+  "src": "Creator Insider (YouTube : Creator Insider)",
+  "date": "2026-11-27",
+  "title": "New! Custom Shorts thumbnails, Ask Studio multitasking, multi-track editing in YouTube Create",
+  "link": "https://www.youtube.com/watch?v=D-FBTLrVsTM",
+  "summary": "This week on YouTube: new custom thumbnails for Shorts on mobile via the Studio app, multitasking capabilities in Ask Studio, and multi-track audio and video e…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "NVIDIA (YouTube : NVIDIA)",
+  "date": "2026-11-27",
+  "title": "One livestream. Four Spotlight Sessions. Straight from #NVIDIAGTC in Washington, D.C.",
+  "link": "https://www.youtube.com/shorts/sHWEMk0l2iU",
+  "summary": "Join Ian Buck, Justin Boitano, Kari Briski, and Rev Lebaredian for a look at what’s next in infrastructure, security, physical AI, open models, and agents. Liv…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "Hugging Face (YouTube : Hugging Face)",
+  "date": "2026-11-27",
+  "title": "AI for Science at Hugging Face",
+  "link": "https://www.youtube.com/watch?v=oFI3ohzJDTY",
+  "summary": "What does the AI for Science team actually do at Hugging Face? In this deep dive, Aritra sits down with ML researcher Emma to explore Hugging Science (Hugging…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Opportunités IA",
+  "kind": "fait",
+  "src": "GitHub (YouTube : GitHub)",
+  "date": "2026-11-27",
+  "title": "Open Source Friday: OpenClaw with Hannes Rudolph",
+  "link": "https://www.youtube.com/watch?v=I6ceGEW5Gu0",
+  "summary": "Hannes joins us to talk about OpenClaw, a local, open-source AI assistant. Come bring your questions on AI assistants, managing large OSS projects, and of cour…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "fait",
+  "src": "ComfyUI (Comfy Org) (YouTube : ComfyUI)",
+  "date": "2026-11-27",
+  "title": "Seedance 2.5 Flash for fast video generation and rapid creative iteration.",
+  "link": "https://www.youtube.com/shorts/G08UM77dF1o",
+  "summary": "This 10-second video was generated at 720p in under 2 minutes in ComfyUI. 3D reference created using the free, browser-based blockout tool by shrimbly (GitHub)…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "fait",
+  "src": "ComfyUI (Comfy Org) (YouTube : ComfyUI)",
+  "date": "2026-11-27",
+  "title": "GTA video Workflow",
+  "link": "https://www.youtube.com/shorts/YNEqQjIYZAA",
+  "summary": "A free, browser-based 3D blockout tool by shrimbly (GitHub) that lets you build scenes by chatting with your coding agent and use built-in camera movement pres…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "fait",
+  "src": "Blender Studio (YouTube : Blender Studio)",
+  "date": "2026-11-27",
+  "title": "DOGWALK for Android XR",
+  "link": "https://www.youtube.com/shorts/szHQJM4N6s4",
+  "summary": "Woof! DOGWALK enters the realm of XR, as Blender Studio has teamed up with the Godot Foundation to bring the game to more devices! Explore the DOGWALK content…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Game jams & concours",
+  "kind": "fait",
+  "src": "itch.io - jams à venir",
+  "date": "?",
+  "title": "Secret Santa Jam 2026",
+  "link": "https://itch.io/jam/secret-santa-2026",
+  "summary": "Hosted by Sheepolution , kya Starts in 2026-12-04T17:00:00Z · Lasts 16 days 76 joined Furry Game Jam #3 - Winter Edition 2027 Hosted by SUDO , Furry Game Jam S…",
+  "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Game jams & concours",
+  "kind": "fait",
+  "src": "itch.io - jams à venir",
+  "date": "?",
+  "title": "The Tiny Scream Jam",
+  "link": "https://itch.io/jam/tiny-scream-jam",
+  "summary": "Hosted by SCREAM ZONE Starts in 2026-12-11T21:00:00Z · Lasts 2 days 44 joined Ranked Next",
+  "at": "2026-11-28T00:00:19.238407+00:00"
  }
 ]
