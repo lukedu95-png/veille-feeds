@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-28 02:02 UTC
+Run : 2026-11-28 04:12 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -8,12 +8,12 @@ Run : 2026-11-28 02:02 UTC
 | Blender - news | OK | 9 | 0 |
 | Blender - developers blog | OK | 10 | 0 |
 | LMMS - releases | OK | 10 | 0 |
-| ComfyUI - releases | OK | 10 | 1 |
+| ComfyUI - releases | OK | 10 | 0 |
 | OpenAI - news | OK | 1430 | 0 |
 | Google - AI blog | OK | 20 | 0 |
 | Game Developer | OK | 50 | 0 |
-| Hacker News - front page | OK | 4 | 0 |
-| Forum Godot (top jour) | OK | 19 | 1 |
+| Hacker News - front page | OK | 5 | 0 |
+| Forum Godot (top jour) | OK | 18 | 0 |
 | BlenderNation | OK | 10 | 0 |
 | 80 Level | OK | 10 | 0 |
 | GamesIndustry.biz | OK | 100 | 0 |
@@ -65,7 +65,7 @@ Run : 2026-11-28 02:02 UTC
 | Microsoft Developer (YouTube : Microsoft Developer) | OK | 15 | 0 |
 | Runway (YouTube : Runway) | OK | 15 | 0 |
 | Claude (YouTube : Claude) | OK | 15 | 0 |
-| ComfyUI (Comfy Org) (YouTube : ComfyUI) | OK | 15 | 0 |
+| ComfyUI (Comfy Org) (YouTube : ComfyUI) | OK | 15 | 1 |
 | Two Minute Papers (YouTube : Two Minute Papers) | OK | 15 | 0 |
 | How To Market A Game (YouTube : How To Market A Game) | OK | 15 | 0 |
 | Blender Studio (YouTube : Blender Studio) | OK | 15 | 0 |
@@ -74,4 +74,4 @@ Run : 2026-11-28 02:02 UTC
 | YouTube Creators (YouTube : @youtubecreators) | OK | 15 | 0 |
 | Updates From YouTube (YouTube : Updates From YouTube) | OK | 15 | 0 |
 | YouTube Insider (YouTube : YouTube Insider) | OK | 1 | 0 |
-| itch.io - jams à venir | OK | 51 | 1 |
+| itch.io - jams à venir | OK | 51 | 0 |
