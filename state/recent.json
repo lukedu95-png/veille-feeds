@@ -1,25 +1,5 @@
 [
  {
-  "cat": "Game jams & concours",
-  "kind": "fait",
-  "src": "itch.io - jams à venir",
-  "date": "?",
-  "title": "ENTRY LVL JAM II",
-  "link": "https://itch.io/jam/entry-lvl-jam-ii",
-  "summary": "Hosted by Knightsicle Starts in 2026-12-01T06:00:00Z · Lasts 30 days 47 joined Ranked Next",
-  "at": "2026-11-27T02:18:05.910059+00:00"
- },
- {
-  "cat": "Risques outils",
-  "kind": "avis",
-  "src": "Forum Godot (top jour)",
-  "date": "2026-11-27",
-  "title": "Enemy navigation",
-  "link": "https://forum.godotengine.org/t/enemy-navigation/147816",
-  "summary": "Godot Version 4.7.2 Question I know this a simple question but I have been struggling a lot to get path finding working in my game. My game features no real te…",
-  "at": "2026-11-27T04:30:08.958327+00:00"
- },
- {
   "cat": "Risques outils",
   "kind": "avis",
   "src": "Forum Godot (top jour)",
@@ -728,5 +708,45 @@
   "link": "https://www.youtube.com/watch?v=KqGPmBqPg4U",
   "summary": "20% off your Comfy subscription Code: BLACKFRIDAY26 Comfy Cloud gives you the full power of ComfyUI in your browser, with no local GPU and no install. Build wo…",
   "at": "2026-11-28T04:12:18.414763+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-28",
+  "title": "Item Stacking in Inventory",
+  "link": "https://forum.godotengine.org/t/item-stacking-in-inventory/147847",
+  "summary": "Godot Version 4.7.2 Question tl:dr - Im using a String comprised of various variable values in my class instances to see if they are similar enough to stack in…",
+  "at": "2026-11-28T08:52:41.978345+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-28",
+  "title": "Desktop Pet works fine on my computer, but not others?",
+  "link": "https://forum.godotengine.org/t/desktop-pet-works-fine-on-my-computer-but-not-others/147848",
+  "summary": "Godot Version 4.6 Question Hi. I made a Desktop Pet recently on Godot utilizing DisplayServer.window_set_position(Vector2i) . I’m moving a transparent window t…",
+  "at": "2026-11-28T08:52:41.978345+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-28",
+  "title": "How can I get remote transform to only work on the y position value?",
+  "link": "https://forum.godotengine.org/t/how-can-i-get-remote-transform-to-only-work-on-the-y-position-value/147849",
+  "summary": "Godot Version Godot 4.7 Question I am trying to keep a character connected to the y value of the head of another character. If I just set the global position e…",
+  "at": "2026-11-28T08:52:41.978345+00:00"
+ },
+ {
+  "cat": "Outils gratuits",
+  "kind": "fait",
+  "src": "BlenderNation",
+  "date": "2026-11-28",
+  "title": "Audio Lip Sync Pro – audio-driven lip-sync blendshape animation",
+  "link": "https://www.blendernation.com/2026/11/28/audio-lip-sync-pro-audio-driven-lip-sync-blendshape-animation/",
+  "summary": "Nick Fisher released Audio Lip Sync Pro, a Blender add-on that generates lip-sync blendshape animation directly from audio clips, processed entirely on your ow…",
+  "at": "2026-11-28T08:52:41.978345+00:00"
  }
 ]

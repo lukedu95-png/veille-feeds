@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-28 04:12 UTC
+Run : 2026-11-28 08:52 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -12,9 +12,9 @@ Run : 2026-11-28 04:12 UTC
 | OpenAI - news | OK | 1430 | 0 |
 | Google - AI blog | OK | 20 | 0 |
 | Game Developer | OK | 50 | 0 |
-| Hacker News - front page | OK | 5 | 0 |
-| Forum Godot (top jour) | OK | 18 | 0 |
-| BlenderNation | OK | 10 | 0 |
+| Hacker News - front page | OK | 7 | 0 |
+| Forum Godot (top jour) | OK | 18 | 3 |
+| BlenderNation | OK | 10 | 1 |
 | 80 Level | OK | 10 | 0 |
 | GamesIndustry.biz | OK | 100 | 0 |
 | YouTube - blog officiel | OK | 20 | 0 |
@@ -65,7 +65,7 @@ Run : 2026-11-28 04:12 UTC
 | Microsoft Developer (YouTube : Microsoft Developer) | OK | 15 | 0 |
 | Runway (YouTube : Runway) | OK | 15 | 0 |
 | Claude (YouTube : Claude) | OK | 15 | 0 |
-| ComfyUI (Comfy Org) (YouTube : ComfyUI) | OK | 15 | 1 |
+| ComfyUI (Comfy Org) (YouTube : ComfyUI) | OK | 15 | 0 |
 | Two Minute Papers (YouTube : Two Minute Papers) | OK | 15 | 0 |
 | How To Market A Game (YouTube : How To Market A Game) | OK | 15 | 0 |
 | Blender Studio (YouTube : Blender Studio) | OK | 15 | 0 |
