@@ -1,11 +1,12 @@
-# Digest veille — 2026-11-28 00:00 UTC (collecté sur les dernières 26 h)
-90 nouveaux éléments · 72/72 flux OK (détail : digest/status.md)
+# Digest veille — 2026-11-28 02:02 UTC (collecté sur les dernières 26 h)
+93 nouveaux éléments · 72/72 flux OK (détail : digest/status.md)
 
 ## Game jams & concours
 - [fait] itch.io - jams à venir · ? · **ENTRY LVL JAM II** — Hosted by Knightsicle Starts in 2026-12-01T06:00:00Z · Lasts 30 days 47 joined Ranked Next <https://itch.io/jam/entry-lvl-jam-ii>
 - [fait] itch.io - jams à venir · ? · **Little Guy Game Jam #9** — Hosted by G2 G2 , jozefeenie! Starts in 2026-11-27T23:00:34Z · Lasts 6 days 46 joined Ranked <https://itch.io/jam/little-guy-game-jam-9>
 - [fait] itch.io - jams à venir · ? · **Secret Santa Jam 2026** — Hosted by Sheepolution , kya Starts in 2026-12-04T17:00:00Z · Lasts 16 days 76 joined Furry Game Jam #3 - Winter Edition 2027 Hosted by SUDO , Furry Game Jam S… <https://itch.io/jam/secret-santa-2026>
 - [fait] itch.io - jams à venir · ? · **The Tiny Scream Jam** — Hosted by SCREAM ZONE Starts in 2026-12-11T21:00:00Z · Lasts 2 days 44 joined Ranked Next <https://itch.io/jam/tiny-scream-jam>
+- [fait] itch.io - jams à venir · ? · **BLEND JAM #1** — Hosted by discolexia Starts in 2026-12-03T18:00:00Z · Lasts 10 days 43 joined Ranked Next <https://itch.io/jam/blend-jam-1>
 - [fait] itch.io - blog · 2026-11-27 · **Creator Day & Black Friday 2026 is live!** — Creator Day is here! From midnight to midnight Pacific on Friday, November 27th (8am to 8am UTC), itch.io is waiving its platform fee on every purchase across… <https://itch.io/blog/1810469/creator-day-black-friday-2026-is-live>
 
 ## Jeu indé / marché
@@ -90,6 +91,8 @@
 - [fait] Next.ink · 2026-11-26 · **☕️ L’ANSM rappelle que les chatbots IA ne remplacent pas le conseil d’un médecin** — Les leaders de l’IA générative ont lancé en début d’année leurs chatbots spécialisés dans la santé. Mais, en France, l’Agence nationale de sécurité du médicame… <https://next.ink/brief-article/lansm-rappelle-que-les-chatbots-ia-ne-remplacent-pas-le-conseil-dun-medecin/>
 
 ## Risques outils
+- [fait] ComfyUI - releases · 2026-11-28 · **v0.46.4** — ComfyUI v0.46.4 <https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.4>
+- [avis] Forum Godot (top jour) · 2026-11-28 · **How to access other nodes in a scene** — Godot Version 4.7 Question I’m fairly new to Godot, and I want to set up an NPC scene that can access nodes from its parent scene. Basically, I have an NPC tha… <https://forum.godotengine.org/t/how-to-access-other-nodes-in-a-scene/147843>
 - [avis] Forum Godot (top jour) · 2026-11-27 · **Enemy navigation** — Godot Version 4.7.2 Question I know this a simple question but I have been struggling a lot to get path finding working in my game. My game features no real te… <https://forum.godotengine.org/t/enemy-navigation/147816>
 - [avis] Forum Godot (top jour) · 2026-11-27 · **Help with "Gun Sprint" style game physics (RigidBody3D weapon recoil)** — Godot Version 4.7.2 Question Hi everyone, I’m currently trying to make a game inspired by Gun Sprint where shooting a gun uses physical recoil to make the weap… <https://forum.godotengine.org/t/help-with-gun-sprint-style-game-physics-rigidbody3d-weapon-recoil/147817>
 - [avis] Forum Godot (top jour) · 2026-11-27 · **40% off Godot 4 VFX, shader and game-feel packs until Dec 2 (free Lites to try first)** — Creator Day and Black Friday sale: 40% off every paid pack (Ember VFX 3D, Pulse FX 2D, Weather FX 2D, Hitfeel Kit, Retro Screen FX and more) from Nov 27 to Dec… <https://forum.godotengine.org/t/40-off-godot-4-vfx-shader-and-game-feel-packs-until-dec-2-free-lites-to-try-first/147818>

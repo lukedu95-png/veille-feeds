@@ -898,5 +898,35 @@
   "link": "https://itch.io/jam/tiny-scream-jam",
   "summary": "Hosted by SCREAM ZONE Starts in 2026-12-11T21:00:00Z · Lasts 2 days 44 joined Ranked Next",
   "at": "2026-11-28T00:00:19.238407+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "fait",
+  "src": "ComfyUI - releases",
+  "date": "2026-11-28",
+  "title": "v0.46.4",
+  "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.4",
+  "summary": "ComfyUI v0.46.4",
+  "at": "2026-11-28T02:02:43.635119+00:00"
+ },
+ {
+  "cat": "Risques outils",
+  "kind": "avis",
+  "src": "Forum Godot (top jour)",
+  "date": "2026-11-28",
+  "title": "How to access other nodes in a scene",
+  "link": "https://forum.godotengine.org/t/how-to-access-other-nodes-in-a-scene/147843",
+  "summary": "Godot Version 4.7 Question I’m fairly new to Godot, and I want to set up an NPC scene that can access nodes from its parent scene. Basically, I have an NPC tha…",
+  "at": "2026-11-28T02:02:43.635119+00:00"
+ },
+ {
+  "cat": "Game jams & concours",
+  "kind": "fait",
+  "src": "itch.io - jams à venir",
+  "date": "?",
+  "title": "BLEND JAM #1",
+  "link": "https://itch.io/jam/blend-jam-1",
+  "summary": "Hosted by discolexia Starts in 2026-12-03T18:00:00Z · Lasts 10 days 43 joined Ranked Next",
+  "at": "2026-11-28T02:02:43.635119+00:00"
  }
 ]
