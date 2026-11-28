@@ -1,5 +1,5 @@
 # État des flux
-Run : 2026-11-28 08:52 UTC
+Run : 2026-11-28 10:40 UTC
 
 | Flux | État | Entrées dans le flux | Nouveaux |
 | --- | --- | --- | --- |
@@ -12,8 +12,8 @@ Run : 2026-11-28 08:52 UTC
 | OpenAI - news | OK | 1430 | 0 |
 | Google - AI blog | OK | 20 | 0 |
 | Game Developer | OK | 50 | 0 |
-| Hacker News - front page | OK | 7 | 0 |
-| Forum Godot (top jour) | OK | 18 | 3 |
+| Hacker News - front page | OK | 9 | 0 |
+| Forum Godot (top jour) | OK | 16 | 0 |
 | BlenderNation | OK | 10 | 1 |
 | 80 Level | OK | 10 | 0 |
 | GamesIndustry.biz | OK | 100 | 0 |
@@ -38,11 +38,11 @@ Run : 2026-11-28 08:52 UTC
 | WhisperX - releases | OK | 10 | 0 |
 | Krita - news | OK | 20 | 0 |
 | Blender - releases (GitHub mirror) | OK | 10 | 0 |
-| Bedroom Producers Blog | OK | 16 | 0 |
+| Bedroom Producers Blog | OK | 16 | 3 |
 | Rekkerd.org | OK | 100 | 0 |
 | Ars Technica | OK | 20 | 0 |
 | The Verge - IA | OK | 10 | 0 |
-| Numerama | OK | 15 | 0 |
+| Numerama | OK | 15 | 2 |
 | Next.ink | OK | 50 | 0 |
 | Retrieval Practice | OK | 20 | 0 |
 | Scott H. Young | OK | 10 | 0 |
@@ -74,4 +74,4 @@ Run : 2026-11-28 08:52 UTC
 | YouTube Creators (YouTube : @youtubecreators) | OK | 15 | 0 |
 | Updates From YouTube (YouTube : Updates From YouTube) | OK | 15 | 0 |
 | YouTube Insider (YouTube : YouTube Insider) | OK | 1 | 0 |
-| itch.io - jams à venir | OK | 51 | 0 |
+| itch.io - jams à venir | OK | 51 | 1 |
